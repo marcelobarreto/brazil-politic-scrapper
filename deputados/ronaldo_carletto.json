@@ -1,0 +1,37 @@
+{
+  "id": 178861,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178861",
+  "nomeCivil": "RONALDO CARLETTO",
+  "ultimoStatus": {
+    "id": 178861,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178861",
+    "nome": "RONALDO CARLETTO",
+    "siglaPartido": "PP",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36809",
+    "siglaUf": "BA",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/178861.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "RONALDO CARLETTO",
+    "gabinete": {
+      "nome": "262",
+      "predio": "4",
+      "sala": "262",
+      "andar": "2",
+      "telefone": "3215-5262",
+      "email": "dep.ronaldocarletto@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1960-01-05",
+  "dataFalecimento": null,
+  "ufNascimento": "ES",
+  "municipioNascimento": "Conceição da Barra",
+  "escolaridade": "Ensino Médio"
+}

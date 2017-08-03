@@ -1,0 +1,37 @@
+{
+  "id": 74141,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74141",
+  "nomeCivil": "JOSIAS GOMES DA SILVA",
+  "ultimoStatus": {
+    "id": 74141,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74141",
+    "nome": "JOSIAS GOMES",
+    "siglaPartido": "PT",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36844",
+    "siglaUf": "BA",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/74141.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "JOSIAS GOMES",
+    "gabinete": {
+      "nome": "642",
+      "predio": "4",
+      "sala": "642",
+      "andar": "6",
+      "telefone": "3215-5642",
+      "email": "dep.josiasgomes@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1956-10-14",
+  "dataFalecimento": null,
+  "ufNascimento": "PE",
+  "municipioNascimento": "Amaraji",
+  "escolaridade": null
+}

@@ -1,0 +1,37 @@
+{
+  "id": 73674,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73674",
+  "nomeCivil": "ROBERTO EGÍDIO BALESTRA",
+  "ultimoStatus": {
+    "id": 73674,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73674",
+    "nome": "ROBERTO BALESTRA",
+    "siglaPartido": "PP",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36809",
+    "siglaUf": "GO",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/73674.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "ROBERTO BALESTRA",
+    "gabinete": {
+      "nome": "219",
+      "predio": "4",
+      "sala": "219",
+      "andar": "2",
+      "telefone": "3215-5219",
+      "email": "dep.robertobalestra@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1944-05-24",
+  "dataFalecimento": null,
+  "ufNascimento": "GO",
+  "municipioNascimento": "Inhumas",
+  "escolaridade": null
+}

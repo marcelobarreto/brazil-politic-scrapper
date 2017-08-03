@@ -1,0 +1,37 @@
+{
+  "id": 74385,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74385",
+  "nomeCivil": "HIDEKAZU TAKAYAMA",
+  "ultimoStatus": {
+    "id": 74385,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74385",
+    "nome": "TAKAYAMA",
+    "siglaPartido": "PSC",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36833",
+    "siglaUf": "PR",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/74385.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "TAKAYAMA",
+    "gabinete": {
+      "nome": "910",
+      "predio": "4",
+      "sala": "910",
+      "andar": "9",
+      "telefone": "3215-5910",
+      "email": "dep.takayama@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1948-04-20",
+  "dataFalecimento": null,
+  "ufNascimento": "PR",
+  "municipioNascimento": "Rolândia",
+  "escolaridade": "Superior Incompleto"
+}

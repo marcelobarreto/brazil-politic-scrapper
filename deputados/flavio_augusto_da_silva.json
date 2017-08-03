@@ -1,0 +1,37 @@
+{
+  "id": 178978,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178978",
+  "nomeCivil": "FLAVIO AUGUSTO DA SILVA",
+  "ultimoStatus": {
+    "id": 178978,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178978",
+    "nome": "FLAVINHO",
+    "siglaPartido": "PSB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36832",
+    "siglaUf": "SP",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/178978.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "FLAVINHO",
+    "gabinete": {
+      "nome": "369",
+      "predio": "3",
+      "sala": "369",
+      "andar": null,
+      "telefone": "3215-5369",
+      "email": "dep.flavinho@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1971-11-13",
+  "dataFalecimento": null,
+  "ufNascimento": "SP",
+  "municipioNascimento": "Guaratinguetá",
+  "escolaridade": "Ensino Fundamental"
+}

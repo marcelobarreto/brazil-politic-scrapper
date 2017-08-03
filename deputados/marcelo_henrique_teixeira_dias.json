@@ -1,0 +1,37 @@
+{
+  "id": 179000,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/179000",
+  "nomeCivil": "MARCELO HENRIQUE TEIXEIRA DIAS",
+  "ultimoStatus": {
+    "id": 179000,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/179000",
+    "nome": "MARCELO ÁLVARO ANTÔNIO",
+    "siglaPartido": "PR",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36814",
+    "siglaUf": "MG",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/179000.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "MARCELO ÁLVARO ANTÔNIO",
+    "gabinete": {
+      "nome": "824",
+      "predio": "4",
+      "sala": "824",
+      "andar": "8",
+      "telefone": "3215-5824",
+      "email": "dep.marceloalvaroantonio@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1974-02-16",
+  "dataFalecimento": null,
+  "ufNascimento": "MG",
+  "municipioNascimento": "Belo Horizonte",
+  "escolaridade": "Superior Incompleto"
+}

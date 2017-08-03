@@ -1,0 +1,37 @@
+{
+  "id": 178870,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178870",
+  "nomeCivil": "RÔNEY TANIOS NEMER",
+  "ultimoStatus": {
+    "id": 178870,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178870",
+    "nome": "RÔNEY NEMER",
+    "siglaPartido": "PP",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36809",
+    "siglaUf": "DF",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/178870.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "RÔNEY NEMER",
+    "gabinete": {
+      "nome": "572",
+      "predio": "3",
+      "sala": "572",
+      "andar": null,
+      "telefone": "3215-5572",
+      "email": "dep.roneynemer@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1963-02-08",
+  "dataFalecimento": null,
+  "ufNascimento": "MG",
+  "municipioNascimento": "Viçosa",
+  "escolaridade": "Superior"
+}

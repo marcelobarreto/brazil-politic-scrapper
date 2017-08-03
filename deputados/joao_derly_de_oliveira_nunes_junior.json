@@ -1,0 +1,37 @@
+{
+  "id": 178965,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178965",
+  "nomeCivil": "JOAO DERLY DE OLIVEIRA NUNES JUNIOR",
+  "ultimoStatus": {
+    "id": 178965,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178965",
+    "nome": "JOÃO DERLY",
+    "siglaPartido": "REDE",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36886",
+    "siglaUf": "RS",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/178965.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "JOÃO DERLY",
+    "gabinete": {
+      "nome": "901",
+      "predio": "4",
+      "sala": "901",
+      "andar": "9",
+      "telefone": "3215-5901",
+      "email": "dep.joaoderly@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1981-06-02",
+  "dataFalecimento": null,
+  "ufNascimento": "RS",
+  "municipioNascimento": "Porto Alegre",
+  "escolaridade": "Superior Incompleto"
+}

@@ -1,0 +1,37 @@
+{
+  "id": 141411,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141411",
+  "nomeCivil": "DAGOBERTO NOGUEIRA FILHO",
+  "ultimoStatus": {
+    "id": 141411,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141411",
+    "nome": "DAGOBERTO NOGUEIRA",
+    "siglaPartido": "PDT",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36786",
+    "siglaUf": "MS",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/141411.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "DAGOBERTO NOGUEIRA",
+    "gabinete": {
+      "nome": "654",
+      "predio": "4",
+      "sala": "654",
+      "andar": "6",
+      "telefone": "3215-5654",
+      "email": "dep.dagobertonogueira@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1955-07-21",
+  "dataFalecimento": null,
+  "ufNascimento": "SP",
+  "municipioNascimento": "São José do Rio Preto",
+  "escolaridade": "Superior"
+}

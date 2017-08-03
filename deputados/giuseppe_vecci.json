@@ -1,0 +1,37 @@
+{
+  "id": 178878,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178878",
+  "nomeCivil": "GIUSEPPE VECCI",
+  "ultimoStatus": {
+    "id": 178878,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178878",
+    "nome": "GIUSEPPE VECCI",
+    "siglaPartido": "PSDB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36835",
+    "siglaUf": "GO",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/178878.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "GIUSEPPE VECCI",
+    "gabinete": {
+      "nome": "383",
+      "predio": "3",
+      "sala": "383",
+      "andar": null,
+      "telefone": "3215-5383",
+      "email": "dep.giuseppevecci@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1957-01-14",
+  "dataFalecimento": null,
+  "ufNascimento": "GO",
+  "municipioNascimento": "Itauçu",
+  "escolaridade": "Superior"
+}

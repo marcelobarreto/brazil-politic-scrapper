@@ -1,0 +1,37 @@
+{
+  "id": 178854,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178854",
+  "nomeCivil": "ELMAR JOSE VIEIRA NASCIMENTO",
+  "ultimoStatus": {
+    "id": 178854,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178854",
+    "nome": "ELMAR NASCIMENTO",
+    "siglaPartido": "DEM",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36769",
+    "siglaUf": "BA",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/178854.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "ELMAR NASCIMENTO",
+    "gabinete": {
+      "nome": "935",
+      "predio": "4",
+      "sala": "935",
+      "andar": "9",
+      "telefone": "3215-5935",
+      "email": "dep.elmarnascimento@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1970-07-06",
+  "dataFalecimento": null,
+  "ufNascimento": "BA",
+  "municipioNascimento": "Campo Formoso",
+  "escolaridade": "Pós-Graduação"
+}

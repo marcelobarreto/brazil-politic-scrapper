@@ -1,0 +1,43 @@
+{
+  "id": 160588,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160588",
+  "nomeCivil": "DIEGO LEONARDO DE ANDRADE CARVALHO",
+  "ultimoStatus": {
+    "id": 160588,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160588",
+    "nome": "DIEGO ANDRADE",
+    "siglaPartido": "PSD",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36834",
+    "siglaUf": "MG",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/160588.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "DIEGO ANDRADE",
+    "gabinete": {
+      "nome": "307",
+      "predio": "4",
+      "sala": "307",
+      "andar": "3",
+      "telefone": "3215-5307",
+      "email": "dep.diegoandrade@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [
+    "https://twitter.com/@diegoandrademg",
+    "https://www.facebook.com/diegoandrademg",
+    "http://www.twitter.com/deputadorenzo",
+    "http://www.facebook.com/deputadorenzobraz",
+    "https://plus.google.com/#104276966338840106077/posts"
+  ],
+  "dataNascimento": "1977-08-08",
+  "dataFalecimento": null,
+  "ufNascimento": "MG",
+  "municipioNascimento": "Belo Horizonte",
+  "escolaridade": null
+}

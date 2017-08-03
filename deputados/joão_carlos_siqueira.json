@@ -1,0 +1,37 @@
+{
+  "id": 160556,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160556",
+  "nomeCivil": "JOÃO CARLOS SIQUEIRA",
+  "ultimoStatus": {
+    "id": 160556,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160556",
+    "nome": "PADRE JOÃO",
+    "siglaPartido": "PT",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36844",
+    "siglaUf": "MG",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/160556.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "PADRE JOÃO",
+    "gabinete": {
+      "nome": "743",
+      "predio": "4",
+      "sala": "743",
+      "andar": "7",
+      "telefone": "3215-5743",
+      "email": "dep.padrejoao@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1967-02-28",
+  "dataFalecimento": null,
+  "ufNascimento": "MG",
+  "municipioNascimento": "Urucânia",
+  "escolaridade": null
+}

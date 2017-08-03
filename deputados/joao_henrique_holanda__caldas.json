@@ -1,0 +1,37 @@
+{
+  "id": 178842,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178842",
+  "nomeCivil": "JOAO HENRIQUE HOLANDA  CALDAS",
+  "ultimoStatus": {
+    "id": 178842,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178842",
+    "nome": "JHC",
+    "siglaPartido": "PSB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36832",
+    "siglaUf": "AL",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/178842.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "JHC",
+    "gabinete": {
+      "nome": "958",
+      "predio": "4",
+      "sala": "958",
+      "andar": "9",
+      "telefone": "3215-5958",
+      "email": "dep.jhc@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1987-07-22",
+  "dataFalecimento": null,
+  "ufNascimento": "AL",
+  "municipioNascimento": "Maceió",
+  "escolaridade": "Superior"
+}

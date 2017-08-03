@@ -1,0 +1,37 @@
+{
+  "id": 160641,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160641",
+  "nomeCivil": "MARCIVANIA DO SOCORRO DA ROCHA FLEXA",
+  "ultimoStatus": {
+    "id": 160641,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160641",
+    "nome": "PROFESSORA MARCIVANIA",
+    "siglaPartido": "PCdoB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36779",
+    "siglaUf": "AP",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/160641.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "PROFESSORA MARCIVANIA",
+    "gabinete": {
+      "nome": "338",
+      "predio": "4",
+      "sala": "338",
+      "andar": "3",
+      "telefone": "3215-5338",
+      "email": "dep.professoramarcivania@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "F",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1973-06-21",
+  "dataFalecimento": null,
+  "ufNascimento": "AP",
+  "municipioNascimento": "Macapá",
+  "escolaridade": null
+}

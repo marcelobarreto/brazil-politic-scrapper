@@ -1,0 +1,41 @@
+{
+  "id": 73805,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73805",
+  "nomeCivil": "ROBERTO JOÃO PEREIRA FREIRE",
+  "ultimoStatus": {
+    "id": 73805,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73805",
+    "nome": "ROBERTO FREIRE",
+    "siglaPartido": "PPS",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36813",
+    "siglaUf": "SP",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/73805.jpg",
+    "data": "2015-03-20",
+    "nomeEleitoral": "ROBERTO FREIRE",
+    "gabinete": {
+      "nome": "242",
+      "predio": "4",
+      "sala": "242",
+      "andar": "2",
+      "telefone": "3215-5242",
+      "email": "dep.robertofreire@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Suplente",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [
+    "http://www.twitter.com/freire_roberto",
+    "https://www.facebook.com/DepRobertoFreire",
+    "https://www.youtube.com/user/robertofreire2010"
+  ],
+  "dataNascimento": "1942-04-20",
+  "dataFalecimento": null,
+  "ufNascimento": "PE",
+  "municipioNascimento": "Recife",
+  "escolaridade": null
+}

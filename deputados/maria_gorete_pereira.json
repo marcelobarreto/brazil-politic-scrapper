@@ -1,0 +1,37 @@
+{
+  "id": 129618,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/129618",
+  "nomeCivil": "MARIA GORETE PEREIRA",
+  "ultimoStatus": {
+    "id": 129618,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/129618",
+    "nome": "GORETE PEREIRA",
+    "siglaPartido": "PR",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36814",
+    "siglaUf": "CE",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/129618.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "GORETE PEREIRA",
+    "gabinete": {
+      "nome": "206",
+      "predio": "4",
+      "sala": "206",
+      "andar": "2",
+      "telefone": "3215-5206",
+      "email": "dep.goretepereira@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "F",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1952-04-10",
+  "dataFalecimento": null,
+  "ufNascimento": "CE",
+  "municipioNascimento": "Juazeiro do Norte",
+  "escolaridade": null
+}

@@ -1,0 +1,37 @@
+{
+  "id": 160610,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160610",
+  "nomeCivil": "VALMIR CARLOS DA ASSUNÇÃO",
+  "ultimoStatus": {
+    "id": 160610,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160610",
+    "nome": "VALMIR ASSUNÇÃO",
+    "siglaPartido": "PT",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36844",
+    "siglaUf": "BA",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/160610.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "VALMIR ASSUNÇÃO",
+    "gabinete": {
+      "nome": "739",
+      "predio": "4",
+      "sala": "739",
+      "andar": "7",
+      "telefone": "3215-5739",
+      "email": "dep.valmirassuncao@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1964-12-17",
+  "dataFalecimento": null,
+  "ufNascimento": "BA",
+  "municipioNascimento": "Itamaraju",
+  "escolaridade": null
+}

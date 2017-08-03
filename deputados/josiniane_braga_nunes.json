@@ -1,0 +1,42 @@
+{
+  "id": 114941,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/114941",
+  "nomeCivil": "JOSINIANE BRAGA NUNES",
+  "ultimoStatus": {
+    "id": 114941,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/114941",
+    "nome": "JOSI NUNES",
+    "siglaPartido": "PMDB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36800",
+    "siglaUf": "TO",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/114941.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "JOSI NUNES",
+    "gabinete": {
+      "nome": "950",
+      "predio": "4",
+      "sala": "950",
+      "andar": "9",
+      "telefone": "3215-5950",
+      "email": "dep.josinunes@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "F",
+  "urlWebsite": null,
+  "redeSocial": [
+    "facebook.com/josinunesto",
+    "instagran.com/josinunesto",
+    "twitter.com/josinunesto",
+    "youtube.com/josinunesto"
+  ],
+  "dataNascimento": "1962-05-10",
+  "dataFalecimento": null,
+  "ufNascimento": "TO",
+  "municipioNascimento": "Porto Nacional",
+  "escolaridade": "Mestrado"
+}

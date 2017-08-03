@@ -1,0 +1,39 @@
+{
+  "id": 160659,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160659",
+  "nomeCivil": "IOLANDA KEIKO MIASHIRO OTA",
+  "ultimoStatus": {
+    "id": 160659,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160659",
+    "nome": "KEIKO OTA",
+    "siglaPartido": "PSB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36832",
+    "siglaUf": "SP",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/160659.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "KEIKO OTA",
+    "gabinete": {
+      "nome": "523",
+      "predio": "4",
+      "sala": "523",
+      "andar": "5",
+      "telefone": "3215-5523",
+      "email": "dep.keikoota@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "F",
+  "urlWebsite": null,
+  "redeSocial": [
+    "http://www.twitter.com/joaoverdade"
+  ],
+  "dataNascimento": "1956-09-28",
+  "dataFalecimento": null,
+  "ufNascimento": "SP",
+  "municipioNascimento": "Olímpia",
+  "escolaridade": null
+}

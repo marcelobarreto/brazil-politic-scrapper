@@ -1,0 +1,37 @@
+{
+  "id": 74160,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74160",
+  "nomeCivil": "PATRUS ANANIAS DE SOUSA",
+  "ultimoStatus": {
+    "id": 74160,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74160",
+    "nome": "PATRUS ANANIAS",
+    "siglaPartido": "PT",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36844",
+    "siglaUf": "MG",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/74160.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "PATRUS ANANIAS",
+    "gabinete": {
+      "nome": "720",
+      "predio": "4",
+      "sala": "720",
+      "andar": "7",
+      "telefone": "3215-5720",
+      "email": "dep.patrusananias@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1952-01-26",
+  "dataFalecimento": null,
+  "ufNascimento": "MG",
+  "municipioNascimento": "Bocaiúva",
+  "escolaridade": "Doutorado"
+}

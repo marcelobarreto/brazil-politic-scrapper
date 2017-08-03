@@ -1,0 +1,37 @@
+{
+  "id": 178907,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178907",
+  "nomeCivil": "FRANCISCO ALVES DE AGUIAR",
+  "ultimoStatus": {
+    "id": 178907,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178907",
+    "nome": "FRANCISCO CHAPADINHA",
+    "siglaPartido": "PODE",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36896",
+    "siglaUf": "PA",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/178907.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "FRANCISCO CHAPADINHA",
+    "gabinete": {
+      "nome": "385",
+      "predio": "3",
+      "sala": "385",
+      "andar": null,
+      "telefone": "3215-5385",
+      "email": "dep.franciscochapadinha@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1956-08-24",
+  "dataFalecimento": null,
+  "ufNascimento": "PI",
+  "municipioNascimento": "Batalha",
+  "escolaridade": "Ensino Médio"
+}

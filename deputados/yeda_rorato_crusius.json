@@ -1,0 +1,37 @@
+{
+  "id": 73992,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73992",
+  "nomeCivil": "YEDA RORATO CRUSIUS",
+  "ultimoStatus": {
+    "id": 73992,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73992",
+    "nome": "YEDA CRUSIUS",
+    "siglaPartido": "PSDB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36835",
+    "siglaUf": "RS",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/73992.jpg",
+    "data": "2017-01-05",
+    "nomeEleitoral": "YEDA CRUSIUS",
+    "gabinete": {
+      "nome": "445",
+      "predio": "4",
+      "sala": "445",
+      "andar": "4",
+      "telefone": "3215-5445",
+      "email": "dep.yedacrusius@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Efetivado",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "F",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1944-07-26",
+  "dataFalecimento": null,
+  "ufNascimento": "SP",
+  "municipioNascimento": "São Paulo",
+  "escolaridade": null
+}

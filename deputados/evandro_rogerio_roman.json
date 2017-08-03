@@ -1,0 +1,37 @@
+{
+  "id": 178930,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178930",
+  "nomeCivil": "EVANDRO ROGERIO ROMAN",
+  "ultimoStatus": {
+    "id": 178930,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178930",
+    "nome": "EVANDRO ROMAN",
+    "siglaPartido": "PSD",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36834",
+    "siglaUf": "PR",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/178930.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "EVANDRO ROMAN",
+    "gabinete": {
+      "nome": "303",
+      "predio": "4",
+      "sala": "303",
+      "andar": "3",
+      "telefone": "3215-5303",
+      "email": "dep.evandroroman@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1973-03-03",
+  "dataFalecimento": null,
+  "ufNascimento": "RS",
+  "municipioNascimento": "Erval Grande",
+  "escolaridade": "Doutorado"
+}

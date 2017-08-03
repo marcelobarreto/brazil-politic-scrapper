@@ -1,0 +1,37 @@
+{
+  "id": 74161,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74161",
+  "nomeCivil": "REGINALDO LÁZARO DE OLIVEIRA LOPES",
+  "ultimoStatus": {
+    "id": 74161,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74161",
+    "nome": "REGINALDO LOPES",
+    "siglaPartido": "PT",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36844",
+    "siglaUf": "MG",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/74161.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "REGINALDO LOPES",
+    "gabinete": {
+      "nome": "426",
+      "predio": "4",
+      "sala": "426",
+      "andar": "4",
+      "telefone": "3215-5426",
+      "email": "dep.reginaldolopes@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1973-04-02",
+  "dataFalecimento": null,
+  "ufNascimento": "MG",
+  "municipioNascimento": "Bom Sucesso",
+  "escolaridade": null
+}

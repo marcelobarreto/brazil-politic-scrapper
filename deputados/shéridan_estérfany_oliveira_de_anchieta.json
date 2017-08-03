@@ -1,0 +1,37 @@
+{
+  "id": 178961,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178961",
+  "nomeCivil": "SHÉRIDAN ESTÉRFANY OLIVEIRA DE ANCHIETA",
+  "ultimoStatus": {
+    "id": 178961,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178961",
+    "nome": "SHÉRIDAN",
+    "siglaPartido": "PSDB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36835",
+    "siglaUf": "RR",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/178961.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "SHÉRIDAN",
+    "gabinete": {
+      "nome": "246",
+      "predio": "4",
+      "sala": "246",
+      "andar": "2",
+      "telefone": "3215-5246",
+      "email": "dep.sheridan@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "F",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1984-04-11",
+  "dataFalecimento": null,
+  "ufNascimento": "RR",
+  "municipioNascimento": "Boa Vista",
+  "escolaridade": "Superior"
+}

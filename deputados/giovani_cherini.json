@@ -1,0 +1,37 @@
+{
+  "id": 160673,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160673",
+  "nomeCivil": "GIOVANI CHERINI",
+  "ultimoStatus": {
+    "id": 160673,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160673",
+    "nome": "GIOVANI CHERINI",
+    "siglaPartido": "PR",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36814",
+    "siglaUf": "RS",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/160673.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "GIOVANI CHERINI",
+    "gabinete": {
+      "nome": "468",
+      "predio": "3",
+      "sala": "468",
+      "andar": null,
+      "telefone": "3215-5468",
+      "email": "dep.giovanicherini@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1960-06-23",
+  "dataFalecimento": null,
+  "ufNascimento": "RS",
+  "municipioNascimento": "Soledade",
+  "escolaridade": null
+}

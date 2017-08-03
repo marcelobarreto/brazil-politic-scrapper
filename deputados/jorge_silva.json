@@ -1,0 +1,37 @@
+{
+  "id": 160643,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160643",
+  "nomeCivil": "JORGE SILVA",
+  "ultimoStatus": {
+    "id": 160643,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160643",
+    "nome": "DR. JORGE SILVA",
+    "siglaPartido": "PHS",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36793",
+    "siglaUf": "ES",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/160643.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "DR. JORGE SILVA",
+    "gabinete": {
+      "nome": "227",
+      "predio": "4",
+      "sala": "227",
+      "andar": "2",
+      "telefone": "3215-5227",
+      "email": "dep.dr.jorgesilva@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1952-06-03",
+  "dataFalecimento": null,
+  "ufNascimento": "ES",
+  "municipioNascimento": "São Mateus",
+  "escolaridade": null
+}

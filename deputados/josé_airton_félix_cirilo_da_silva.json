@@ -1,0 +1,37 @@
+{
+  "id": 141464,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141464",
+  "nomeCivil": "JOSÉ AIRTON FÉLIX CIRILO DA SILVA",
+  "ultimoStatus": {
+    "id": 141464,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141464",
+    "nome": "JOSÉ AIRTON CIRILO",
+    "siglaPartido": "PT",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36844",
+    "siglaUf": "CE",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/141464.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "JOSÉ AIRTON CIRILO",
+    "gabinete": {
+      "nome": "319",
+      "predio": "4",
+      "sala": "319",
+      "andar": "3",
+      "telefone": "3215-5319",
+      "email": "dep.joseairtoncirilo@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1957-02-21",
+  "dataFalecimento": null,
+  "ufNascimento": "CE",
+  "municipioNascimento": "Aracati",
+  "escolaridade": null
+}

@@ -1,0 +1,37 @@
+{
+  "id": 160636,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160636",
+  "nomeCivil": "JOSÉ WILSON SANTIAGO FILHO",
+  "ultimoStatus": {
+    "id": 160636,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160636",
+    "nome": "WILSON FILHO",
+    "siglaPartido": "PTB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36845",
+    "siglaUf": "PB",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/160636.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "WILSON FILHO",
+    "gabinete": {
+      "nome": "534",
+      "predio": "4",
+      "sala": "534",
+      "andar": "5",
+      "telefone": "3215-5534",
+      "email": "dep.wilsonfilho@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1989-08-10",
+  "dataFalecimento": null,
+  "ufNascimento": "PB",
+  "municipioNascimento": "João Pessoa",
+  "escolaridade": null
+}

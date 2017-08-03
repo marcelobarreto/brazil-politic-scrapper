@@ -1,0 +1,40 @@
+{
+  "id": 74351,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74351",
+  "nomeCivil": "JOSUÉ BENGTSON",
+  "ultimoStatus": {
+    "id": 74351,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74351",
+    "nome": "JOSUÉ BENGTSON",
+    "siglaPartido": "PTB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36845",
+    "siglaUf": "PA",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/74351.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "JOSUÉ BENGTSON",
+    "gabinete": {
+      "nome": "505",
+      "predio": "4",
+      "sala": "505",
+      "andar": "5",
+      "telefone": "3215-5505",
+      "email": "dep.josuebengtson@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [
+    "http://twitter.com/JosueBengtson",
+    "http://www.facebook.com/JosueBengtson"
+  ],
+  "dataNascimento": "1944-05-27",
+  "dataFalecimento": null,
+  "ufNascimento": "SP",
+  "municipioNascimento": "Getulina",
+  "escolaridade": null
+}

@@ -1,0 +1,37 @@
+{
+  "id": 178926,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178926",
+  "nomeCivil": "RODRIGO RODRIGUES DE SOUZA MARTINS",
+  "ultimoStatus": {
+    "id": 178926,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178926",
+    "nome": "RODRIGO MARTINS",
+    "siglaPartido": "PSB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36832",
+    "siglaUf": "PI",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/178926.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "RODRIGO MARTINS",
+    "gabinete": {
+      "nome": "558",
+      "predio": "4",
+      "sala": "558",
+      "andar": "5",
+      "telefone": "3215-5558",
+      "email": "dep.rodrigomartins@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1982-08-02",
+  "dataFalecimento": null,
+  "ufNascimento": "PI",
+  "municipioNascimento": "Teresina",
+  "escolaridade": "Pós-Graduação"
+}

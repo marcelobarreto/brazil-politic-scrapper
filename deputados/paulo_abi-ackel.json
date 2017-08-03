@@ -1,0 +1,37 @@
+{
+  "id": 141516,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141516",
+  "nomeCivil": "PAULO ABI-ACKEL",
+  "ultimoStatus": {
+    "id": 141516,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141516",
+    "nome": "PAULO ABI-ACKEL",
+    "siglaPartido": "PSDB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36835",
+    "siglaUf": "MG",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/141516.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "PAULO ABI-ACKEL",
+    "gabinete": {
+      "nome": "460",
+      "predio": "4",
+      "sala": "460",
+      "andar": "4",
+      "telefone": "3215-5460",
+      "email": "dep.pauloabi-ackel@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1963-06-21",
+  "dataFalecimento": null,
+  "ufNascimento": "MG",
+  "municipioNascimento": "Belo Horizonte",
+  "escolaridade": null
+}

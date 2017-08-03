@@ -1,0 +1,37 @@
+{
+  "id": 164359,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/164359",
+  "nomeCivil": "WALDIR SOARES DE OLIVEIRA",
+  "ultimoStatus": {
+    "id": 164359,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/164359",
+    "nome": "DELEGADO WALDIR",
+    "siglaPartido": "PR",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36814",
+    "siglaUf": "GO",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/164359.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "DELEGADO WALDIR",
+    "gabinete": {
+      "nome": "645",
+      "predio": "4",
+      "sala": "645",
+      "andar": "6",
+      "telefone": "3215-5645",
+      "email": "dep.delegadowaldir@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1962-11-28",
+  "dataFalecimento": null,
+  "ufNascimento": "PR",
+  "municipioNascimento": "Jacarezinho",
+  "escolaridade": null
+}

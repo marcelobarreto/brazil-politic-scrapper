@@ -1,0 +1,37 @@
+{
+  "id": 198963,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/198963",
+  "nomeCivil": "ROGÉRIO SILVA SANTOS",
+  "ultimoStatus": {
+    "id": 198963,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/198963",
+    "nome": "ROGÉRIO SILVA",
+    "siglaPartido": "PMDB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36800",
+    "siglaUf": "MT",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/198963.jpg",
+    "data": "2017-07-12",
+    "nomeEleitoral": "ROGÉRIO SILVA",
+    "gabinete": {
+      "nome": "913",
+      "predio": "4",
+      "sala": "913",
+      "andar": "9",
+      "telefone": "3215-5913",
+      "email": "dep.rogeriosilva@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Suplente",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1978-09-17",
+  "dataFalecimento": null,
+  "ufNascimento": "MT",
+  "municipioNascimento": "Tangará da Serra",
+  "escolaridade": "Superior"
+}

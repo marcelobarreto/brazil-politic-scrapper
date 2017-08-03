@@ -1,0 +1,37 @@
+{
+  "id": 73463,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73463",
+  "nomeCivil": "OSMAR JOSÉ SERRAGLIO",
+  "ultimoStatus": {
+    "id": 73463,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73463",
+    "nome": "OSMAR SERRAGLIO",
+    "siglaPartido": "PMDB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36800",
+    "siglaUf": "PR",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/73463.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "OSMAR SERRAGLIO",
+    "gabinete": {
+      "nome": "845",
+      "predio": "4",
+      "sala": "845",
+      "andar": "8",
+      "telefone": "3215-5845",
+      "email": "dep.osmarserraglio@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1948-05-23",
+  "dataFalecimento": null,
+  "ufNascimento": "RS",
+  "municipioNascimento": "Erechim",
+  "escolaridade": null
+}

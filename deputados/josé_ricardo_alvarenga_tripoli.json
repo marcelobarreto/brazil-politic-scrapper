@@ -1,0 +1,40 @@
+{
+  "id": 141472,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141472",
+  "nomeCivil": "JOSÉ RICARDO ALVARENGA TRIPOLI",
+  "ultimoStatus": {
+    "id": 141472,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141472",
+    "nome": "RICARDO TRIPOLI",
+    "siglaPartido": "PSDB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36835",
+    "siglaUf": "SP",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/141472.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "RICARDO TRIPOLI",
+    "gabinete": {
+      "nome": "241",
+      "predio": "4",
+      "sala": "241",
+      "andar": "2",
+      "telefone": "3215-5241",
+      "email": "dep.ricardotripoli@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [
+    "http://twitter.com/ricardotripoli",
+    "http://twitter.com/ricardotripoli"
+  ],
+  "dataNascimento": "1952-04-17",
+  "dataFalecimento": null,
+  "ufNascimento": "SP",
+  "municipioNascimento": "São Paulo",
+  "escolaridade": null
+}

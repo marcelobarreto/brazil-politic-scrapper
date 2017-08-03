@@ -1,0 +1,37 @@
+{
+  "id": 134812,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/134812",
+  "nomeCivil": "EDMILSON BRITO RODRIGUES",
+  "ultimoStatus": {
+    "id": 134812,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/134812",
+    "nome": "EDMILSON RODRIGUES",
+    "siglaPartido": "PSOL",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36839",
+    "siglaUf": "PA",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/134812.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "EDMILSON RODRIGUES",
+    "gabinete": {
+      "nome": "301",
+      "predio": "4",
+      "sala": "301",
+      "andar": "3",
+      "telefone": "3215-5301",
+      "email": "dep.edmilsonrodrigues@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1957-05-26",
+  "dataFalecimento": null,
+  "ufNascimento": "PA",
+  "municipioNascimento": "Belém",
+  "escolaridade": "Doutorado"
+}

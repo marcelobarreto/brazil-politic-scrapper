@@ -1,0 +1,40 @@
+{
+  "id": 178802,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178802",
+  "nomeCivil": "LUIZ CARLOS RAMOS",
+  "ultimoStatus": {
+    "id": 178802,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178802",
+    "nome": "LUIZ CARLOS RAMOS ",
+    "siglaPartido": "PODE",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36896",
+    "siglaUf": "RJ",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/178802.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "LUIZ CARLOS RAMOS ",
+    "gabinete": {
+      "nome": "636",
+      "predio": "4",
+      "sala": "636",
+      "andar": "6",
+      "telefone": "3215-5636",
+      "email": "dep.luizcarlosramos@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [
+    "luizcarlosramos",
+    "@lcrbr"
+  ],
+  "dataNascimento": "1951-06-08",
+  "dataFalecimento": null,
+  "ufNascimento": "RJ",
+  "municipioNascimento": "Rio de Janeiro",
+  "escolaridade": "Ensino Médio"
+}

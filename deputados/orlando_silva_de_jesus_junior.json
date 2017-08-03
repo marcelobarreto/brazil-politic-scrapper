@@ -1,0 +1,37 @@
+{
+  "id": 178987,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178987",
+  "nomeCivil": "ORLANDO SILVA DE JESUS JUNIOR",
+  "ultimoStatus": {
+    "id": 178987,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178987",
+    "nome": "ORLANDO SILVA",
+    "siglaPartido": "PCdoB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36779",
+    "siglaUf": "SP",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/178987.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "ORLANDO SILVA",
+    "gabinete": {
+      "nome": "923",
+      "predio": "4",
+      "sala": "923",
+      "andar": "9",
+      "telefone": "3215-5923",
+      "email": "dep.orlandosilva@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1971-05-27",
+  "dataFalecimento": null,
+  "ufNascimento": "BA",
+  "municipioNascimento": "Salvador",
+  "escolaridade": "Superior Incompleto"
+}

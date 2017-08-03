@@ -1,0 +1,37 @@
+{
+  "id": 178997,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178997",
+  "nomeCivil": "MOSES HAENDEL MELO RODRIGUES",
+  "ultimoStatus": {
+    "id": 178997,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178997",
+    "nome": "MOSES RODRIGUES",
+    "siglaPartido": "PMDB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36800",
+    "siglaUf": "CE",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/178997.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "MOSES RODRIGUES",
+    "gabinete": {
+      "nome": "809",
+      "predio": "4",
+      "sala": "809",
+      "andar": "8",
+      "telefone": "3215-5809",
+      "email": "dep.mosesrodrigues@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1978-06-06",
+  "dataFalecimento": null,
+  "ufNascimento": "CE",
+  "municipioNascimento": "Sobral",
+  "escolaridade": "Doutorado Incompleto"
+}

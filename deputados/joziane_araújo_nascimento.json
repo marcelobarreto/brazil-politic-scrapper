@@ -1,0 +1,37 @@
+{
+  "id": 178851,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178851",
+  "nomeCivil": "JOZIANE ARAÚJO NASCIMENTO",
+  "ultimoStatus": {
+    "id": 178851,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178851",
+    "nome": "JOZI ARAÚJO",
+    "siglaPartido": "PODE",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36896",
+    "siglaUf": "AP",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/178851.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "JOZI ARAÚJO",
+    "gabinete": {
+      "nome": "309",
+      "predio": "4",
+      "sala": "309",
+      "andar": "3",
+      "telefone": "3215-5309",
+      "email": "dep.joziaraujo@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "F",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1979-03-26",
+  "dataFalecimento": null,
+  "ufNascimento": "PA",
+  "municipioNascimento": "Itaituba",
+  "escolaridade": "Ensino Médio"
+}

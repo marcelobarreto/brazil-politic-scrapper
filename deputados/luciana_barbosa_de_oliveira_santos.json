@@ -1,0 +1,37 @@
+{
+  "id": 160628,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160628",
+  "nomeCivil": "LUCIANA BARBOSA DE OLIVEIRA SANTOS",
+  "ultimoStatus": {
+    "id": 160628,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160628",
+    "nome": "LUCIANA SANTOS",
+    "siglaPartido": "PCdoB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36779",
+    "siglaUf": "PE",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/160628.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "LUCIANA SANTOS",
+    "gabinete": {
+      "nome": "524",
+      "predio": "4",
+      "sala": "524",
+      "andar": "5",
+      "telefone": "3215-5524",
+      "email": "dep.lucianasantos@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "F",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1965-12-29",
+  "dataFalecimento": null,
+  "ufNascimento": "PE",
+  "municipioNascimento": "Recife",
+  "escolaridade": null
+}

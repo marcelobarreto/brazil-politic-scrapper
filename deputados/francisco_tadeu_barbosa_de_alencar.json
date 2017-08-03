@@ -1,0 +1,37 @@
+{
+  "id": 178922,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178922",
+  "nomeCivil": "FRANCISCO TADEU BARBOSA DE ALENCAR",
+  "ultimoStatus": {
+    "id": 178922,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178922",
+    "nome": "TADEU ALENCAR",
+    "siglaPartido": "PSB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36832",
+    "siglaUf": "PE",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/178922.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "TADEU ALENCAR",
+    "gabinete": {
+      "nome": "820",
+      "predio": "4",
+      "sala": "820",
+      "andar": "8",
+      "telefone": "3215-5820",
+      "email": "dep.tadeualencar@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1963-04-08",
+  "dataFalecimento": null,
+  "ufNascimento": "CE",
+  "municipioNascimento": "Juazeiro do Norte",
+  "escolaridade": "Superior"
+}

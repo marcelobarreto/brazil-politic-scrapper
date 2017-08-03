@@ -1,0 +1,28 @@
+{
+  "id": 36809,
+  "sigla": "PP",
+  "nome": "Partido Progressista",
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/partidos/36809",
+  "status": {
+    "data": "2017-02-15 12:05:00.68",
+    "idLegislatura": "55",
+    "situacao": "Ativo",
+    "totalPosse": "38",
+    "totalMemebros": "47",
+    "uriMembros": "https://dadosabertos.camara.leg.br/api/v2/deputados?legislatura=55&partido=PP",
+    "lider": {
+      "id": 160541,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160541",
+      "nome": "ARTHUR LIRA",
+      "siglaPartido": "PP",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36809",
+      "uf": "AL",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.gov.br/internet/deputado/bandep/160541.jpg"
+    }
+  },
+  "numeroEleitoral": null,
+  "urlLogo": "http://www.camara.leg.br/internet/Deputado/img/partidos/PP.gif",
+  "urlWebSite": null,
+  "urlFacebook": null
+}

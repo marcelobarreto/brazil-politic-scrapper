@@ -1,0 +1,37 @@
+{
+  "id": 92346,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/92346",
+  "nomeCivil": "EDUARDO NANTES BOLSONARO",
+  "ultimoStatus": {
+    "id": 92346,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/92346",
+    "nome": "EDUARDO BOLSONARO",
+    "siglaPartido": "PSC",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36833",
+    "siglaUf": "SP",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/92346.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "EDUARDO BOLSONARO",
+    "gabinete": {
+      "nome": "481",
+      "predio": "3",
+      "sala": "481",
+      "andar": null,
+      "telefone": "3215-5481",
+      "email": "dep.eduardobolsonaro@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1984-07-10",
+  "dataFalecimento": null,
+  "ufNascimento": "RJ",
+  "municipioNascimento": "Rio de Janeiro",
+  "escolaridade": "Superior"
+}

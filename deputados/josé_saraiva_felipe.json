@@ -1,0 +1,37 @@
+{
+  "id": 74762,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74762",
+  "nomeCivil": "JOSÉ SARAIVA FELIPE",
+  "ultimoStatus": {
+    "id": 74762,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74762",
+    "nome": "SARAIVA FELIPE",
+    "siglaPartido": "PMDB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36800",
+    "siglaUf": "MG",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/74762.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "SARAIVA FELIPE",
+    "gabinete": {
+      "nome": "429",
+      "predio": "4",
+      "sala": "429",
+      "andar": "4",
+      "telefone": "3215-5429",
+      "email": "dep.saraivafelipe@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1952-03-26",
+  "dataFalecimento": null,
+  "ufNascimento": "MG",
+  "municipioNascimento": "Belo Horizonte",
+  "escolaridade": "Mestrado"
+}

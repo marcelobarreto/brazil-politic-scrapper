@@ -1,0 +1,37 @@
+{
+  "id": 178895,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178895",
+  "nomeCivil": "MISAEL ARTUR FERREIRA VARELLA",
+  "ultimoStatus": {
+    "id": 178895,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178895",
+    "nome": "MISAEL VARELLA",
+    "siglaPartido": "DEM",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36769",
+    "siglaUf": "MG",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/178895.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "MISAEL VARELLA",
+    "gabinete": {
+      "nome": "721",
+      "predio": "4",
+      "sala": "721",
+      "andar": "7",
+      "telefone": "3215-5721",
+      "email": "dep.misaelvarella@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1959-11-27",
+  "dataFalecimento": null,
+  "ufNascimento": "MG",
+  "municipioNascimento": "Muriaé",
+  "escolaridade": "Pós-Graduação"
+}

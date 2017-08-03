@@ -1,0 +1,37 @@
+{
+  "id": 74277,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74277",
+  "nomeCivil": "ANTONIO ADOLPHO LOBBE NETO",
+  "ultimoStatus": {
+    "id": 74277,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74277",
+    "nome": "LOBBE NETO",
+    "siglaPartido": "PSDB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36835",
+    "siglaUf": "SP",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/74277.jpg",
+    "data": "2015-02-03",
+    "nomeEleitoral": "LOBBE NETO",
+    "gabinete": {
+      "nome": "275",
+      "predio": "3",
+      "sala": "275",
+      "andar": null,
+      "telefone": "3215-5275",
+      "email": "dep.lobbeneto@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Efetivado",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1957-06-18",
+  "dataFalecimento": null,
+  "ufNascimento": "SP",
+  "municipioNascimento": "São Paulo",
+  "escolaridade": null
+}

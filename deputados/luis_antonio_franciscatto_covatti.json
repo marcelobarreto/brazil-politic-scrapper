@@ -1,0 +1,37 @@
+{
+  "id": 178963,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178963",
+  "nomeCivil": "LUIS ANTONIO FRANCISCATTO COVATTI",
+  "ultimoStatus": {
+    "id": 178963,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178963",
+    "nome": "COVATTI FILHO",
+    "siglaPartido": "PP",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36809",
+    "siglaUf": "RS",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/178963.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "COVATTI FILHO",
+    "gabinete": {
+      "nome": "228",
+      "predio": "4",
+      "sala": "228",
+      "andar": "2",
+      "telefone": "3215-5228",
+      "email": "dep.covattifilho@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1987-07-25",
+  "dataFalecimento": null,
+  "ufNascimento": "RS",
+  "municipioNascimento": "Frederico Westphalen",
+  "escolaridade": "Superior Incompleto"
+}

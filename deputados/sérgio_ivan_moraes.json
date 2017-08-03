@@ -1,0 +1,37 @@
+{
+  "id": 141542,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141542",
+  "nomeCivil": "SÉRGIO IVAN MORAES",
+  "ultimoStatus": {
+    "id": 141542,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141542",
+    "nome": "SÉRGIO MORAES",
+    "siglaPartido": "PTB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36845",
+    "siglaUf": "RS",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/141542.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "SÉRGIO MORAES",
+    "gabinete": {
+      "nome": "258",
+      "predio": "4",
+      "sala": "258",
+      "andar": "2",
+      "telefone": "3215-5258",
+      "email": "dep.sergiomoraes@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1958-04-27",
+  "dataFalecimento": null,
+  "ufNascimento": "RS",
+  "municipioNascimento": "Santa Cruz do Sul",
+  "escolaridade": null
+}

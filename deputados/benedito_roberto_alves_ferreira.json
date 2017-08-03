@@ -1,0 +1,37 @@
+{
+  "id": 152610,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/152610",
+  "nomeCivil": "BENEDITO ROBERTO ALVES FERREIRA",
+  "ultimoStatus": {
+    "id": 152610,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/152610",
+    "nome": "ROBERTO ALVES",
+    "siglaPartido": "PRB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36815",
+    "siglaUf": "SP",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/152610.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "ROBERTO ALVES",
+    "gabinete": {
+      "nome": "946",
+      "predio": "4",
+      "sala": "946",
+      "andar": "9",
+      "telefone": "3215-5946",
+      "email": "dep.robertoalves@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1960-05-27",
+  "dataFalecimento": null,
+  "ufNascimento": "SP",
+  "municipioNascimento": "Taubaté",
+  "escolaridade": "Superior"
+}

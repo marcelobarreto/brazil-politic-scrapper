@@ -1,0 +1,39 @@
+{
+  "id": 160646,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160646",
+  "nomeCivil": "FERNANDO DESTITO FRANCISCHINI",
+  "ultimoStatus": {
+    "id": 160646,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160646",
+    "nome": "DELEGADO FRANCISCHINI",
+    "siglaPartido": "SD",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36765",
+    "siglaUf": "PR",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/160646.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "DELEGADO FRANCISCHINI",
+    "gabinete": {
+      "nome": "265",
+      "predio": "3",
+      "sala": "265",
+      "andar": null,
+      "telefone": "3215-5265",
+      "email": "dep.delegadofrancischini@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [
+    "http://www.twitter.com/francischini_"
+  ],
+  "dataNascimento": "1970-03-26",
+  "dataFalecimento": null,
+  "ufNascimento": "PR",
+  "municipioNascimento": "Londrina",
+  "escolaridade": null
+}

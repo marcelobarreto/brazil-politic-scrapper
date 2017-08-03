@@ -1,0 +1,40 @@
+{
+  "id": 76287,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/76287",
+  "nomeCivil": "MARCELO VIVIANI GONÇALVES",
+  "ultimoStatus": {
+    "id": 76287,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/76287",
+    "nome": "MARCELO MATOS",
+    "siglaPartido": "PHS",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36793",
+    "siglaUf": "RJ",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/76287.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "MARCELO MATOS",
+    "gabinete": {
+      "nome": "579",
+      "predio": "3",
+      "sala": "579",
+      "andar": null,
+      "telefone": "3215-5579",
+      "email": "dep.marcelomatos@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [
+    "http://twitter.com/#!/marcelomatos_rj",
+    "http://facebook.com/deputadomarcelomatos"
+  ],
+  "dataNascimento": "1968-05-26",
+  "dataFalecimento": null,
+  "ufNascimento": "RJ",
+  "municipioNascimento": "São João de Meriti",
+  "escolaridade": null
+}

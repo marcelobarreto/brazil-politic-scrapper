@@ -1,0 +1,37 @@
+{
+  "id": 185500,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/185500",
+  "nomeCivil": "DEOCLIDES ANTONIO SANTOS NETO MACEDO",
+  "ultimoStatus": {
+    "id": 185500,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/185500",
+    "nome": "DEOCLIDES MACEDO",
+    "siglaPartido": "PDT",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36786",
+    "siglaUf": "MA",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/185500.jpg",
+    "data": "2015-02-26",
+    "nomeEleitoral": "DEOCLIDES MACEDO",
+    "gabinete": {
+      "nome": "350",
+      "predio": "4",
+      "sala": "350",
+      "andar": "3",
+      "telefone": "3215-5350",
+      "email": "dep.deoclidesmacedo@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Suplente",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1962-12-09",
+  "dataFalecimento": null,
+  "ufNascimento": "MA",
+  "municipioNascimento": "Porto Franco",
+  "escolaridade": "Superior"
+}

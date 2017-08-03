@@ -1,0 +1,40 @@
+{
+  "id": 160515,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160515",
+  "nomeCivil": "RONALDO JOSÉ BENEDET",
+  "ultimoStatus": {
+    "id": 160515,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160515",
+    "nome": "RONALDO BENEDET",
+    "siglaPartido": "PMDB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36800",
+    "siglaUf": "SC",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/160515.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "RONALDO BENEDET",
+    "gabinete": {
+      "nome": "918",
+      "predio": "4",
+      "sala": "918",
+      "andar": "9",
+      "telefone": "3215-5918",
+      "email": "dep.ronaldobenedet@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [
+    "http://www.orkut.com.br/ronaldobenedet",
+    "http://www.twitter.com/ronaldo_benedet"
+  ],
+  "dataNascimento": "1956-03-09",
+  "dataFalecimento": null,
+  "ufNascimento": "SC",
+  "municipioNascimento": "Criciúma",
+  "escolaridade": "Pós-Graduação"
+}

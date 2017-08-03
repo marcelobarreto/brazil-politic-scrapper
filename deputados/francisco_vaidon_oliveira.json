@@ -1,0 +1,37 @@
+{
+  "id": 195866,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/195866",
+  "nomeCivil": "FRANCISCO VAIDON OLIVEIRA",
+  "ultimoStatus": {
+    "id": 195866,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/195866",
+    "nome": "VAIDON OLIVEIRA",
+    "siglaPartido": "DEM",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36769",
+    "siglaUf": "CE",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/195866.jpg",
+    "data": "2017-01-02",
+    "nomeEleitoral": "VAIDON OLIVEIRA",
+    "gabinete": {
+      "nome": "570",
+      "predio": "3",
+      "sala": "570",
+      "andar": null,
+      "telefone": "3215-5570",
+      "email": "dep.vaidonoliveira@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Efetivado",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1975-04-02",
+  "dataFalecimento": null,
+  "ufNascimento": "CE",
+  "municipioNascimento": "Acaraú",
+  "escolaridade": "Ensino Médio"
+}

@@ -1,0 +1,40 @@
+{
+  "id": 160565,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160565",
+  "nomeCivil": "MARA CRISTINA GABRILLI",
+  "ultimoStatus": {
+    "id": 160565,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160565",
+    "nome": "MARA GABRILLI",
+    "siglaPartido": "PSDB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36835",
+    "siglaUf": "SP",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/160565.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "MARA GABRILLI",
+    "gabinete": {
+      "nome": "226",
+      "predio": "4",
+      "sala": "226",
+      "andar": "2",
+      "telefone": "3215-5226",
+      "email": "dep.maragabrilli@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "F",
+  "urlWebsite": null,
+  "redeSocial": [
+    "http://www.twitter.com/maragabrilli",
+    "http://www.facebook.com/maragabrilli"
+  ],
+  "dataNascimento": "1967-09-28",
+  "dataFalecimento": null,
+  "ufNascimento": "SP",
+  "municipioNascimento": "São Paulo",
+  "escolaridade": null
+}

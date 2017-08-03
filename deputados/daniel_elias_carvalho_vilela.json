@@ -1,0 +1,37 @@
+{
+  "id": 144523,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/144523",
+  "nomeCivil": "DANIEL ELIAS CARVALHO VILELA",
+  "ultimoStatus": {
+    "id": 144523,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/144523",
+    "nome": "DANIEL VILELA",
+    "siglaPartido": "PMDB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36800",
+    "siglaUf": "GO",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/144523.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "DANIEL VILELA",
+    "gabinete": {
+      "nome": "471",
+      "predio": "3",
+      "sala": "471",
+      "andar": null,
+      "telefone": "3215-5471",
+      "email": "dep.danielvilela@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1983-10-23",
+  "dataFalecimento": null,
+  "ufNascimento": "GO",
+  "municipioNascimento": "Jataí",
+  "escolaridade": "Pós-Graduação"
+}

@@ -1,0 +1,37 @@
+{
+  "id": 189593,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/189593",
+  "nomeCivil": "WADIH NEMER DAMOUS FILHO",
+  "ultimoStatus": {
+    "id": 189593,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/189593",
+    "nome": "WADIH DAMOUS",
+    "siglaPartido": "PT",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36844",
+    "siglaUf": "RJ",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/189593.jpg",
+    "data": "2015-05-19",
+    "nomeEleitoral": "WADIH DAMOUS",
+    "gabinete": {
+      "nome": "413",
+      "predio": "4",
+      "sala": "413",
+      "andar": "4",
+      "telefone": "3215-5413",
+      "email": "dep.wadihdamous@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Efetivado",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1956-04-11",
+  "dataFalecimento": null,
+  "ufNascimento": "RJ",
+  "municipioNascimento": "Rio de Janeiro",
+  "escolaridade": "Superior"
+}

@@ -1,0 +1,37 @@
+{
+  "id": 178917,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178917",
+  "nomeCivil": "JOAO FERNANDO PONTUAL COUTINHO",
+  "ultimoStatus": {
+    "id": 178917,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178917",
+    "nome": "JOÃO FERNANDO COUTINHO",
+    "siglaPartido": "PSB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36832",
+    "siglaUf": "PE",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/178917.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "JOÃO FERNANDO COUTINHO",
+    "gabinete": {
+      "nome": "567",
+      "predio": "3",
+      "sala": "567",
+      "andar": null,
+      "telefone": "3215-5567",
+      "email": "dep.joaofernandocoutinho@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1979-08-22",
+  "dataFalecimento": null,
+  "ufNascimento": "PE",
+  "municipioNascimento": "Recife",
+  "escolaridade": "Superior"
+}

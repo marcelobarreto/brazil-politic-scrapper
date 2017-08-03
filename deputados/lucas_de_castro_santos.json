@@ -1,0 +1,37 @@
+{
+  "id": 178879,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178879",
+  "nomeCivil": "LUCAS DE CASTRO SANTOS",
+  "ultimoStatus": {
+    "id": 178879,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178879",
+    "nome": "LUCAS VERGILIO",
+    "siglaPartido": "SD",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36765",
+    "siglaUf": "GO",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/178879.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "LUCAS VERGILIO",
+    "gabinete": {
+      "nome": "816",
+      "predio": "4",
+      "sala": "816",
+      "andar": "8",
+      "telefone": "3215-5816",
+      "email": "dep.lucasvergilio@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1987-04-08",
+  "dataFalecimento": null,
+  "ufNascimento": "GO",
+  "municipioNascimento": "Goiânia",
+  "escolaridade": "Superior"
+}

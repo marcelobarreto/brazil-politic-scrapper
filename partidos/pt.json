@@ -1,0 +1,28 @@
+{
+  "id": 36844,
+  "sigla": "PT",
+  "nome": "Partido dos Trabalhadores",
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/partidos/36844",
+  "status": {
+    "data": "2017-01-02 10:49:58.583",
+    "idLegislatura": "55",
+    "situacao": "Ativo",
+    "totalPosse": "68",
+    "totalMemebros": "58",
+    "uriMembros": "https://dadosabertos.camara.leg.br/api/v2/deputados?legislatura=55&partido=PT",
+    "lider": {
+      "id": 141398,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141398",
+      "nome": "CARLOS ZARATTINI",
+      "siglaPartido": "PT",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36844",
+      "uf": "SP",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.gov.br/internet/deputado/bandep/141398.jpg"
+    }
+  },
+  "numeroEleitoral": null,
+  "urlLogo": "http://www.camara.leg.br/internet/Deputado/img/partidos/PT.gif",
+  "urlWebSite": null,
+  "urlFacebook": null
+}

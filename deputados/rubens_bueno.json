@@ -1,0 +1,37 @@
+{
+  "id": 73466,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73466",
+  "nomeCivil": "RUBENS BUENO",
+  "ultimoStatus": {
+    "id": 73466,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73466",
+    "nome": "RUBENS BUENO",
+    "siglaPartido": "PPS",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36813",
+    "siglaUf": "PR",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/73466.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "RUBENS BUENO",
+    "gabinete": {
+      "nome": "623",
+      "predio": "4",
+      "sala": "623",
+      "andar": "6",
+      "telefone": "3215-5623",
+      "email": "dep.rubensbueno@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1948-05-23",
+  "dataFalecimento": null,
+  "ufNascimento": "PR",
+  "municipioNascimento": "Sertanópolis",
+  "escolaridade": null
+}

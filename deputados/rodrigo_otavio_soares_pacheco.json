@@ -1,0 +1,37 @@
+{
+  "id": 178897,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178897",
+  "nomeCivil": "RODRIGO OTAVIO SOARES PACHECO",
+  "ultimoStatus": {
+    "id": 178897,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178897",
+    "nome": "RODRIGO PACHECO",
+    "siglaPartido": "PMDB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36800",
+    "siglaUf": "MG",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/178897.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "RODRIGO PACHECO",
+    "gabinete": {
+      "nome": "510",
+      "predio": "4",
+      "sala": "510",
+      "andar": "5",
+      "telefone": "3215-5510",
+      "email": "dep.rodrigopacheco@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1976-11-03",
+  "dataFalecimento": null,
+  "ufNascimento": "RO",
+  "municipioNascimento": "Porto Velho",
+  "escolaridade": "Superior"
+}

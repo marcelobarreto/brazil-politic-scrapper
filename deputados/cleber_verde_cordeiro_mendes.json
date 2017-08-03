@@ -1,0 +1,37 @@
+{
+  "id": 141408,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141408",
+  "nomeCivil": "CLEBER VERDE CORDEIRO MENDES",
+  "ultimoStatus": {
+    "id": 141408,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141408",
+    "nome": "CLEBER VERDE",
+    "siglaPartido": "PRB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36815",
+    "siglaUf": "MA",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/141408.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "CLEBER VERDE",
+    "gabinete": {
+      "nome": "710",
+      "predio": "4",
+      "sala": "710",
+      "andar": "7",
+      "telefone": "3215-5710",
+      "email": "dep.cleberverde@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1972-05-10",
+  "dataFalecimento": null,
+  "ufNascimento": "MA",
+  "municipioNascimento": "Santa Luzia",
+  "escolaridade": null
+}

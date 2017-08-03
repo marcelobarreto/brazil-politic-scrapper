@@ -1,0 +1,37 @@
+{
+  "id": 73483,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73483",
+  "nomeCivil": "LUIS CARLOS HEINZE",
+  "ultimoStatus": {
+    "id": 73483,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73483",
+    "nome": "LUIS CARLOS HEINZE",
+    "siglaPartido": "PP",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36809",
+    "siglaUf": "RS",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/73483.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "LUIS CARLOS HEINZE",
+    "gabinete": {
+      "nome": "526",
+      "predio": "4",
+      "sala": "526",
+      "andar": "5",
+      "telefone": "3215-5526",
+      "email": "dep.luiscarlosheinze@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1950-09-14",
+  "dataFalecimento": null,
+  "ufNascimento": "RS",
+  "municipioNascimento": "Candelária",
+  "escolaridade": null
+}

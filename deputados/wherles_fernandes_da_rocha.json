@@ -1,0 +1,37 @@
+{
+  "id": 178840,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178840",
+  "nomeCivil": "WHERLES FERNANDES DA ROCHA",
+  "ultimoStatus": {
+    "id": 178840,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178840",
+    "nome": "ROCHA",
+    "siglaPartido": "PSDB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36835",
+    "siglaUf": "AC",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/178840.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "ROCHA",
+    "gabinete": {
+      "nome": "607",
+      "predio": "4",
+      "sala": "607",
+      "andar": "6",
+      "telefone": "3215-5607",
+      "email": "dep.rocha@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1968-10-23",
+  "dataFalecimento": null,
+  "ufNascimento": "AC",
+  "municipioNascimento": "Rio Branco",
+  "escolaridade": "Superior"
+}

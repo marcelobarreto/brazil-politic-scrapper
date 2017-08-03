@@ -1,0 +1,37 @@
+{
+  "id": 191945,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/191945",
+  "nomeCivil": "JOSÉ AUGUSTO NALIN",
+  "ultimoStatus": {
+    "id": 191945,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/191945",
+    "nome": "ZÉ AUGUSTO NALIN",
+    "siglaPartido": "PMDB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36800",
+    "siglaUf": "RJ",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/191945.jpg",
+    "data": "2015-10-08",
+    "nomeEleitoral": "ZÉ AUGUSTO NALIN",
+    "gabinete": {
+      "nome": "302",
+      "predio": "4",
+      "sala": "302",
+      "andar": "3",
+      "telefone": "3215-5302",
+      "email": "dep.zeaugustonalin@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Suplente",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1956-05-06",
+  "dataFalecimento": null,
+  "ufNascimento": "ES",
+  "municipioNascimento": "Cachoeiro de Itapemirim",
+  "escolaridade": "Superior"
+}

@@ -1,0 +1,37 @@
+{
+  "id": 73531,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73531",
+  "nomeCivil": "IVAN VALENTE",
+  "ultimoStatus": {
+    "id": 73531,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73531",
+    "nome": "IVAN VALENTE",
+    "siglaPartido": "PSOL",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36839",
+    "siglaUf": "SP",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/73531.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "IVAN VALENTE",
+    "gabinete": {
+      "nome": "716",
+      "predio": "4",
+      "sala": "716",
+      "andar": "7",
+      "telefone": "3215-5716",
+      "email": "dep.ivanvalente@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1946-07-05",
+  "dataFalecimento": null,
+  "ufNascimento": "SP",
+  "municipioNascimento": "São Paulo",
+  "escolaridade": null
+}

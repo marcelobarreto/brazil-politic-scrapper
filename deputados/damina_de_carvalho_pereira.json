@@ -1,0 +1,37 @@
+{
+  "id": 178892,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178892",
+  "nomeCivil": "DAMINA DE CARVALHO PEREIRA",
+  "ultimoStatus": {
+    "id": 178892,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178892",
+    "nome": "DÂMINA PEREIRA",
+    "siglaPartido": "PSL",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36837",
+    "siglaUf": "MG",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/178892.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "DÂMINA PEREIRA",
+    "gabinete": {
+      "nome": "434",
+      "predio": "4",
+      "sala": "434",
+      "andar": "4",
+      "telefone": "3215-5434",
+      "email": "dep.daminapereira@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "F",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1952-12-02",
+  "dataFalecimento": null,
+  "ufNascimento": "MG",
+  "municipioNascimento": "Lavras",
+  "escolaridade": "Superior"
+}

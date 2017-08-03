@@ -1,0 +1,37 @@
+{
+  "id": 141522,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141522",
+  "nomeCivil": "RAIMUNDO SABINO CASTELO BRANCO MAUÉS",
+  "ultimoStatus": {
+    "id": 141522,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141522",
+    "nome": "SABINO CASTELO BRANCO",
+    "siglaPartido": "PTB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36845",
+    "siglaUf": "AM",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/141522.jpg",
+    "data": "2016-12-22",
+    "nomeEleitoral": "SABINO CASTELO BRANCO",
+    "gabinete": {
+      "nome": "474",
+      "predio": "3",
+      "sala": "474",
+      "andar": null,
+      "telefone": "3215-5474",
+      "email": "dep.sabinocastelobranco@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Efetivado",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1964-08-31",
+  "dataFalecimento": null,
+  "ufNascimento": "AM",
+  "municipioNascimento": "Manaus",
+  "escolaridade": "Superior Incompleto"
+}

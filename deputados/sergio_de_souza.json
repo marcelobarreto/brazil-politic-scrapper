@@ -1,0 +1,40 @@
+{
+  "id": 178933,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178933",
+  "nomeCivil": "SERGIO DE SOUZA",
+  "ultimoStatus": {
+    "id": 178933,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178933",
+    "nome": "SERGIO SOUZA",
+    "siglaPartido": "PMDB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36800",
+    "siglaUf": "PR",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/178933.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "SERGIO SOUZA",
+    "gabinete": {
+      "nome": "702",
+      "predio": "4",
+      "sala": "702",
+      "andar": "7",
+      "telefone": "3215-5702",
+      "email": "dep.sergiosouza@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [
+    "https://www.facebook.com/sergiosouza1512",
+    "https://twitter.com/_sergiosouza"
+  ],
+  "dataNascimento": "1971-03-13",
+  "dataFalecimento": null,
+  "ufNascimento": "PR",
+  "municipioNascimento": "Ivaiporã",
+  "escolaridade": "Pós-Graduação"
+}

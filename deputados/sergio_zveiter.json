@@ -1,0 +1,42 @@
+{
+  "id": 160612,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160612",
+  "nomeCivil": "SERGIO ZVEITER",
+  "ultimoStatus": {
+    "id": 160612,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160612",
+    "nome": "SERGIO ZVEITER",
+    "siglaPartido": "PMDB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36800",
+    "siglaUf": "RJ",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/160612.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "SERGIO ZVEITER",
+    "gabinete": {
+      "nome": "437",
+      "predio": "4",
+      "sala": "437",
+      "andar": "4",
+      "telefone": "3215-5437",
+      "email": "dep.sergiozveiter@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [
+    "twitter.com/zveitersergio",
+    "http://www.facebook.com/sergio.zveiter",
+    "http://twitter.com/iracemaportela",
+    "http://www.facebook.com/iracemaportella"
+  ],
+  "dataNascimento": "1956-05-18",
+  "dataFalecimento": null,
+  "ufNascimento": "RJ",
+  "municipioNascimento": "Niterói",
+  "escolaridade": null
+}

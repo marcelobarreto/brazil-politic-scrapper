@@ -1,0 +1,37 @@
+{
+  "id": 74665,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74665",
+  "nomeCivil": "JAIME MARTINS FILHO",
+  "ultimoStatus": {
+    "id": 74665,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74665",
+    "nome": "JAIME MARTINS",
+    "siglaPartido": "PSD",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36834",
+    "siglaUf": "MG",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/74665.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "JAIME MARTINS",
+    "gabinete": {
+      "nome": "904",
+      "predio": "4",
+      "sala": "904",
+      "andar": "9",
+      "telefone": "3215-5904",
+      "email": "dep.jaimemartins@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1953-06-17",
+  "dataFalecimento": null,
+  "ufNascimento": "MG",
+  "municipioNascimento": "Nova Serrana",
+  "escolaridade": null
+}

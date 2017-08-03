@@ -1,0 +1,28 @@
+{
+  "id": 36833,
+  "sigla": "PSC",
+  "nome": "Partido Social Cristão",
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/partidos/36833",
+  "status": {
+    "data": "2017-02-16 11:59:59.45",
+    "idLegislatura": "55",
+    "situacao": "Ativo",
+    "totalPosse": "13",
+    "totalMemebros": "10",
+    "uriMembros": "https://dadosabertos.camara.leg.br/api/v2/deputados?legislatura=55&partido=PSC",
+    "lider": {
+      "id": 148134,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/148134",
+      "nome": "PROFESSOR VICTÓRIO GALLI",
+      "siglaPartido": "PSC",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36833",
+      "uf": "MT",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.gov.br/internet/deputado/bandep/148134.jpg"
+    }
+  },
+  "numeroEleitoral": null,
+  "urlLogo": "http://www.camara.leg.br/internet/Deputado/img/partidos/PSC.gif",
+  "urlWebSite": null,
+  "urlFacebook": null
+}

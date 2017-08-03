@@ -1,0 +1,40 @@
+{
+  "id": 178911,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178911",
+  "nomeCivil": "SIMONE MARIA MORGADO FERREIRA",
+  "ultimoStatus": {
+    "id": 178911,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178911",
+    "nome": "SIMONE MORGADO",
+    "siglaPartido": "PMDB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36800",
+    "siglaUf": "PA",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/178911.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "SIMONE MORGADO",
+    "gabinete": {
+      "nome": "440",
+      "predio": "4",
+      "sala": "440",
+      "andar": "4",
+      "telefone": "3215-5440",
+      "email": "dep.simonemorgado@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "F",
+  "urlWebsite": null,
+  "redeSocial": [
+    "https://www.facebook.com/pages/Simone-Morgado",
+    "@simone_morgado"
+  ],
+  "dataNascimento": "1967-04-06",
+  "dataFalecimento": null,
+  "ufNascimento": "PA",
+  "municipioNascimento": "Belém",
+  "escolaridade": "Superior"
+}

@@ -1,0 +1,37 @@
+{
+  "id": 160517,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160517",
+  "nomeCivil": "PAULO ROBERTO FOLETTO",
+  "ultimoStatus": {
+    "id": 160517,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160517",
+    "nome": "PAULO FOLETTO",
+    "siglaPartido": "PSB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36832",
+    "siglaUf": "ES",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/160517.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "PAULO FOLETTO",
+    "gabinete": {
+      "nome": "839",
+      "predio": "4",
+      "sala": "839",
+      "andar": "8",
+      "telefone": "3215-5839",
+      "email": "dep.paulofoletto@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1956-04-30",
+  "dataFalecimento": null,
+  "ufNascimento": "ES",
+  "municipioNascimento": "Colatina",
+  "escolaridade": null
+}

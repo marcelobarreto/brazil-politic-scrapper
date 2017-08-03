@@ -1,0 +1,37 @@
+{
+  "id": 160639,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160639",
+  "nomeCivil": "MARIA AUXILIADORA SEABRA REZENDE",
+  "ultimoStatus": {
+    "id": 160639,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160639",
+    "nome": "PROFESSORA DORINHA SEABRA REZENDE",
+    "siglaPartido": "DEM",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36769",
+    "siglaUf": "TO",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/160639.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "PROFESSORA DORINHA SEABRA REZENDE",
+    "gabinete": {
+      "nome": "432",
+      "predio": "4",
+      "sala": "432",
+      "andar": "4",
+      "telefone": "3215-5432",
+      "email": "dep.professoradorinhaseabrarezende@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "F",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1964-10-01",
+  "dataFalecimento": null,
+  "ufNascimento": "GO",
+  "municipioNascimento": "Goiânia",
+  "escolaridade": null
+}

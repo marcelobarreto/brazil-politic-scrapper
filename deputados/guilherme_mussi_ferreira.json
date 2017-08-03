@@ -1,0 +1,39 @@
+{
+  "id": 160667,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160667",
+  "nomeCivil": "GUILHERME MUSSI FERREIRA",
+  "ultimoStatus": {
+    "id": 160667,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160667",
+    "nome": "GUILHERME MUSSI",
+    "siglaPartido": "PP",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36809",
+    "siglaUf": "SP",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/160667.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "GUILHERME MUSSI",
+    "gabinete": {
+      "nome": "712",
+      "predio": "4",
+      "sala": "712",
+      "andar": "7",
+      "telefone": "3215-5712",
+      "email": "dep.guilhermemussi@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [
+    "http://www.facebook.com/deputadoonofre"
+  ],
+  "dataNascimento": "1982-10-14",
+  "dataFalecimento": null,
+  "ufNascimento": "PR",
+  "municipioNascimento": "Curitiba",
+  "escolaridade": null
+}

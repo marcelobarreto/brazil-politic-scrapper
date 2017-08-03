@@ -1,0 +1,37 @@
+{
+  "id": 141441,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141441",
+  "nomeCivil": "GEORGE HILTON DOS SANTOS CECÍLIO",
+  "ultimoStatus": {
+    "id": 141441,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141441",
+    "nome": "GEORGE HILTON",
+    "siglaPartido": "PSB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36832",
+    "siglaUf": "MG",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/141441.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "GEORGE HILTON",
+    "gabinete": {
+      "nome": "804",
+      "predio": "4",
+      "sala": "804",
+      "andar": "8",
+      "telefone": "3215-5804",
+      "email": "dep.georgehilton@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1971-06-11",
+  "dataFalecimento": null,
+  "ufNascimento": "BA",
+  "municipioNascimento": "Alagoinhas",
+  "escolaridade": null
+}

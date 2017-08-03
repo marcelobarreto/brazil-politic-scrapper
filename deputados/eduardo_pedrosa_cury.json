@@ -1,0 +1,37 @@
+{
+  "id": 178977,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178977",
+  "nomeCivil": "EDUARDO PEDROSA CURY",
+  "ultimoStatus": {
+    "id": 178977,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178977",
+    "nome": "EDUARDO CURY",
+    "siglaPartido": "PSDB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36835",
+    "siglaUf": "SP",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/178977.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "EDUARDO CURY",
+    "gabinete": {
+      "nome": "368",
+      "predio": "3",
+      "sala": "368",
+      "andar": null,
+      "telefone": "3215-5368",
+      "email": "dep.eduardocury@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1963-09-19",
+  "dataFalecimento": null,
+  "ufNascimento": "SP",
+  "municipioNascimento": "São José dos Campos",
+  "escolaridade": "Superior"
+}

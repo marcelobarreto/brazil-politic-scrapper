@@ -1,0 +1,28 @@
+{
+  "id": 36813,
+  "sigla": "PPS",
+  "nome": "Partido Popular Socialista",
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/partidos/36813",
+  "status": {
+    "data": "2017-02-01 10:55:01.467",
+    "idLegislatura": "55",
+    "situacao": "Ativo",
+    "totalPosse": "10",
+    "totalMemebros": "10",
+    "uriMembros": "https://dadosabertos.camara.leg.br/api/v2/deputados?legislatura=55&partido=PPS",
+    "lider": {
+      "id": 160602,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160602",
+      "nome": "ARNALDO JORDY",
+      "siglaPartido": "PPS",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36813",
+      "uf": "PA",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.gov.br/internet/deputado/bandep/160602.jpg"
+    }
+  },
+  "numeroEleitoral": null,
+  "urlLogo": "http://www.camara.leg.br/internet/Deputado/img/partidos/PPS.gif",
+  "urlWebSite": null,
+  "urlFacebook": null
+}

@@ -1,0 +1,37 @@
+{
+  "id": 73535,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73535",
+  "nomeCivil": "JORGE TADEU MUDALEN",
+  "ultimoStatus": {
+    "id": 73535,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73535",
+    "nome": "JORGE TADEU MUDALEN",
+    "siglaPartido": "DEM",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36769",
+    "siglaUf": "SP",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/73535.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "JORGE TADEU MUDALEN",
+    "gabinete": {
+      "nome": "538",
+      "predio": "4",
+      "sala": "538",
+      "andar": "5",
+      "telefone": "3215-5538",
+      "email": "dep.jorgetadeumudalen@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1955-01-03",
+  "dataFalecimento": null,
+  "ufNascimento": "SP",
+  "municipioNascimento": "Guarulhos",
+  "escolaridade": null
+}

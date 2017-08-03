@@ -1,0 +1,37 @@
+{
+  "id": 74571,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74571",
+  "nomeCivil": "NELSON VICENTE PORTELA PELLEGRINO",
+  "ultimoStatus": {
+    "id": 74571,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74571",
+    "nome": "NELSON PELLEGRINO",
+    "siglaPartido": "PT",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36844",
+    "siglaUf": "BA",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/74571.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "NELSON PELLEGRINO",
+    "gabinete": {
+      "nome": "826",
+      "predio": "4",
+      "sala": "826",
+      "andar": "8",
+      "telefone": "3215-5826",
+      "email": "dep.nelsonpellegrino@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1960-12-27",
+  "dataFalecimento": null,
+  "ufNascimento": "BA",
+  "municipioNascimento": "Salvador",
+  "escolaridade": null
+}

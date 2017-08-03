@@ -1,0 +1,37 @@
+{
+  "id": 94931,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/94931",
+  "nomeCivil": "LÚCIO QUADROS VIEIRA LIMA",
+  "ultimoStatus": {
+    "id": 94931,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/94931",
+    "nome": "LUCIO VIEIRA LIMA",
+    "siglaPartido": "PMDB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36800",
+    "siglaUf": "BA",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/94931.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "LUCIO VIEIRA LIMA",
+    "gabinete": {
+      "nome": "612",
+      "predio": "4",
+      "sala": "612",
+      "andar": "6",
+      "telefone": "3215-5612",
+      "email": "dep.luciovieiralima@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1962-11-19",
+  "dataFalecimento": null,
+  "ufNascimento": "BA",
+  "municipioNascimento": "Salvador",
+  "escolaridade": null
+}

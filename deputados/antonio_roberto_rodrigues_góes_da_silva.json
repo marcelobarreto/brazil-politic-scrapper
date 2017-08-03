@@ -1,0 +1,37 @@
+{
+  "id": 178995,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178995",
+  "nomeCivil": "ANTONIO ROBERTO RODRIGUES GÓES DA SILVA",
+  "ultimoStatus": {
+    "id": 178995,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178995",
+    "nome": "ROBERTO GÓES",
+    "siglaPartido": "PDT",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36786",
+    "siglaUf": "AP",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/178995.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "ROBERTO GÓES",
+    "gabinete": {
+      "nome": "462",
+      "predio": "4",
+      "sala": "462",
+      "andar": "4",
+      "telefone": "3215-5462",
+      "email": "dep.robertogoes@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1966-06-22",
+  "dataFalecimento": null,
+  "ufNascimento": "AP",
+  "municipioNascimento": "Porto Grande",
+  "escolaridade": "Superior"
+}

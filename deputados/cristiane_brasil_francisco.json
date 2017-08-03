@@ -1,0 +1,37 @@
+{
+  "id": 93472,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/93472",
+  "nomeCivil": "CRISTIANE BRASIL FRANCISCO",
+  "ultimoStatus": {
+    "id": 93472,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/93472",
+    "nome": "CRISTIANE BRASIL",
+    "siglaPartido": "PTB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36845",
+    "siglaUf": "RJ",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/93472.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "CRISTIANE BRASIL",
+    "gabinete": {
+      "nome": "644",
+      "predio": "4",
+      "sala": "644",
+      "andar": "6",
+      "telefone": "3215-5644",
+      "email": "dep.cristianebrasil@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "F",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1973-12-21",
+  "dataFalecimento": null,
+  "ufNascimento": "RJ",
+  "municipioNascimento": "Petrópolis",
+  "escolaridade": "Pós-Graduação"
+}

@@ -1,0 +1,37 @@
+{
+  "id": 160575,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160575",
+  "nomeCivil": "ÉRIKA JUCÁ KOKAY",
+  "ultimoStatus": {
+    "id": 160575,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160575",
+    "nome": "ERIKA KOKAY",
+    "siglaPartido": "PT",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36844",
+    "siglaUf": "DF",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/160575.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "ERIKA KOKAY",
+    "gabinete": {
+      "nome": "203",
+      "predio": "4",
+      "sala": "203",
+      "andar": "2",
+      "telefone": "3215-5203",
+      "email": "dep.erikakokay@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "F",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1957-08-15",
+  "dataFalecimento": null,
+  "ufNascimento": "CE",
+  "municipioNascimento": "Fortaleza",
+  "escolaridade": null
+}

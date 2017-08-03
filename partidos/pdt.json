@@ -1,0 +1,28 @@
+{
+  "id": 36786,
+  "sigla": "PDT",
+  "nome": "Partido Democrático Trabalhista",
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/partidos/36786",
+  "status": {
+    "data": "2016-01-08 14:49:34.53",
+    "idLegislatura": "55",
+    "situacao": "Ativo",
+    "totalPosse": "20",
+    "totalMemebros": "18",
+    "uriMembros": "https://dadosabertos.camara.leg.br/api/v2/deputados?legislatura=55&partido=PDT",
+    "lider": {
+      "id": 167493,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/167493",
+      "nome": "WEVERTON ROCHA",
+      "siglaPartido": "PDT",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36786",
+      "uf": "MA",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.gov.br/internet/deputado/bandep/167493.jpg"
+    }
+  },
+  "numeroEleitoral": null,
+  "urlLogo": "http://www.camara.leg.br/internet/Deputado/img/partidos/PDT.gif",
+  "urlWebSite": null,
+  "urlFacebook": null
+}

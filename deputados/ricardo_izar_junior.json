@@ -1,0 +1,37 @@
+{
+  "id": 160655,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160655",
+  "nomeCivil": "RICARDO IZAR JUNIOR",
+  "ultimoStatus": {
+    "id": 160655,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160655",
+    "nome": "RICARDO IZAR",
+    "siglaPartido": "PP",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36809",
+    "siglaUf": "SP",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/160655.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "RICARDO IZAR",
+    "gabinete": {
+      "nome": "634",
+      "predio": "4",
+      "sala": "634",
+      "andar": "6",
+      "telefone": "3215-5634",
+      "email": "dep.ricardoizar@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1968-08-01",
+  "dataFalecimento": null,
+  "ufNascimento": "SP",
+  "municipioNascimento": "São Paulo",
+  "escolaridade": null
+}

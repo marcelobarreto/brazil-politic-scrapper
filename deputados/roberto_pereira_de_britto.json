@@ -1,0 +1,37 @@
+{
+  "id": 141529,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141529",
+  "nomeCivil": "ROBERTO PEREIRA DE BRITTO",
+  "ultimoStatus": {
+    "id": 141529,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141529",
+    "nome": "ROBERTO BRITTO",
+    "siglaPartido": "PP",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36809",
+    "siglaUf": "BA",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/141529.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "ROBERTO BRITTO",
+    "gabinete": {
+      "nome": "733",
+      "predio": "4",
+      "sala": "733",
+      "andar": "7",
+      "telefone": "3215-5733",
+      "email": "dep.robertobritto@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1951-04-03",
+  "dataFalecimento": null,
+  "ufNascimento": "BA",
+  "municipioNascimento": "Jequié",
+  "escolaridade": null
+}

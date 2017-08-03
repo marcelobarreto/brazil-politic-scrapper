@@ -1,0 +1,37 @@
+{
+  "id": 160669,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160669",
+  "nomeCivil": "GENECIAS MATEUS NORONHA",
+  "ultimoStatus": {
+    "id": 160669,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160669",
+    "nome": "GENECIAS NORONHA",
+    "siglaPartido": "SD",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36765",
+    "siglaUf": "CE",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/160669.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "GENECIAS NORONHA",
+    "gabinete": {
+      "nome": "244",
+      "predio": "4",
+      "sala": "244",
+      "andar": "2",
+      "telefone": "3215-5244",
+      "email": "dep.geneciasnoronha@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1963-03-13",
+  "dataFalecimento": null,
+  "ufNascimento": "CE",
+  "municipioNascimento": "Fortaleza",
+  "escolaridade": null
+}

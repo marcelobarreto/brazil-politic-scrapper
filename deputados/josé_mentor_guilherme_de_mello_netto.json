@@ -1,0 +1,37 @@
+{
+  "id": 74275,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74275",
+  "nomeCivil": "JOSÉ MENTOR GUILHERME DE MELLO NETTO",
+  "ultimoStatus": {
+    "id": 74275,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74275",
+    "nome": "JOSÉ MENTOR",
+    "siglaPartido": "PT",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36844",
+    "siglaUf": "SP",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/74275.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "JOSÉ MENTOR",
+    "gabinete": {
+      "nome": "502",
+      "predio": "4",
+      "sala": "502",
+      "andar": "5",
+      "telefone": "3215-5502",
+      "email": "dep.josementor@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1948-09-30",
+  "dataFalecimento": null,
+  "ufNascimento": "SP",
+  "municipioNascimento": "Santa Isabel",
+  "escolaridade": null
+}

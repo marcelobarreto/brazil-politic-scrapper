@@ -1,0 +1,37 @@
+{
+  "id": 160676,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160676",
+  "nomeCivil": "FERNANDO DANTAS TORRES",
+  "ultimoStatus": {
+    "id": 160676,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160676",
+    "nome": "FERNANDO TORRES",
+    "siglaPartido": "PSD",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36834",
+    "siglaUf": "BA",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/160676.jpg",
+    "data": "2015-02-03",
+    "nomeEleitoral": "FERNANDO TORRES",
+    "gabinete": {
+      "nome": "576",
+      "predio": "3",
+      "sala": "576",
+      "andar": null,
+      "telefone": "3215-5576",
+      "email": "dep.fernandotorres@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Efetivado",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1968-12-28",
+  "dataFalecimento": null,
+  "ufNascimento": "BA",
+  "municipioNascimento": "Feira de Santana",
+  "escolaridade": null
+}

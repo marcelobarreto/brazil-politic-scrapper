@@ -1,0 +1,37 @@
+{
+  "id": 178833,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178833",
+  "nomeCivil": "ALEXANDRE AUGUSTUS SERFIOTIS",
+  "ultimoStatus": {
+    "id": 178833,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178833",
+    "nome": "ALEXANDRE SERFIOTIS",
+    "siglaPartido": "PMDB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36800",
+    "siglaUf": "RJ",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/178833.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "ALEXANDRE SERFIOTIS",
+    "gabinete": {
+      "nome": "554",
+      "predio": "4",
+      "sala": "554",
+      "andar": "5",
+      "telefone": "3215-5554",
+      "email": "dep.alexandreserfiotis@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1975-11-29",
+  "dataFalecimento": null,
+  "ufNascimento": "RJ",
+  "municipioNascimento": "Porto Real",
+  "escolaridade": "Pós-Graduação"
+}

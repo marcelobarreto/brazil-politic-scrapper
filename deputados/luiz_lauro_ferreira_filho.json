@@ -1,0 +1,37 @@
+{
+  "id": 178982,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178982",
+  "nomeCivil": "LUIZ LAURO FERREIRA FILHO",
+  "ultimoStatus": {
+    "id": 178982,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178982",
+    "nome": "LUIZ LAURO FILHO",
+    "siglaPartido": "PSB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36832",
+    "siglaUf": "SP",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/178982.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "LUIZ LAURO FILHO",
+    "gabinete": {
+      "nome": "418",
+      "predio": "4",
+      "sala": "418",
+      "andar": "4",
+      "telefone": "3215-5418",
+      "email": "dep.luizlaurofilho@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1978-06-10",
+  "dataFalecimento": null,
+  "ufNascimento": "SP",
+  "municipioNascimento": "Campinas",
+  "escolaridade": "Pós-Graduação"
+}

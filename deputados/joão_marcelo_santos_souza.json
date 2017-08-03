@@ -1,0 +1,37 @@
+{
+  "id": 112437,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/112437",
+  "nomeCivil": "JOÃO MARCELO SANTOS SOUZA",
+  "ultimoStatus": {
+    "id": 112437,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/112437",
+    "nome": "JOÃO MARCELO SOUZA",
+    "siglaPartido": "PMDB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36800",
+    "siglaUf": "MA",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/112437.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "JOÃO MARCELO SOUZA",
+    "gabinete": {
+      "nome": "639",
+      "predio": "4",
+      "sala": "639",
+      "andar": "6",
+      "telefone": "3215-5639",
+      "email": "dep.joaomarcelosouza@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1973-11-11",
+  "dataFalecimento": null,
+  "ufNascimento": "MA",
+  "municipioNascimento": "São Luís",
+  "escolaridade": "Superior"
+}

@@ -1,0 +1,39 @@
+{
+  "id": 178860,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178860",
+  "nomeCivil": "PAULO VELLOSO DANTAS AZI",
+  "ultimoStatus": {
+    "id": 178860,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178860",
+    "nome": "PAULO AZI",
+    "siglaPartido": "DEM",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36769",
+    "siglaUf": "BA",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/178860.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "PAULO AZI",
+    "gabinete": {
+      "nome": "635",
+      "predio": "4",
+      "sala": "635",
+      "andar": "6",
+      "telefone": "3215-5635",
+      "email": "dep.pauloazi@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [
+    "Paulo Azi"
+  ],
+  "dataNascimento": "1963-01-14",
+  "dataFalecimento": null,
+  "ufNascimento": "BA",
+  "municipioNascimento": "Salvador",
+  "escolaridade": "Superior"
+}

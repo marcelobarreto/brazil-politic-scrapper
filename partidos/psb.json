@@ -1,0 +1,28 @@
+{
+  "id": 36832,
+  "sigla": "PSB",
+  "nome": "Partido Socialista Brasileiro",
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/partidos/36832",
+  "status": {
+    "data": "2017-02-01 10:15:01.367",
+    "idLegislatura": "55",
+    "situacao": "Ativo",
+    "totalPosse": "34",
+    "totalMemebros": "35",
+    "uriMembros": "https://dadosabertos.camara.leg.br/api/v2/deputados?legislatura=55&partido=PSB",
+    "lider": {
+      "id": 178901,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178901",
+      "nome": "TEREZA CRISTINA",
+      "siglaPartido": "PSB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36832",
+      "uf": "MS",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.gov.br/internet/deputado/bandep/178901.jpg"
+    }
+  },
+  "numeroEleitoral": null,
+  "urlLogo": "http://www.camara.leg.br/internet/Deputado/img/partidos/PSB.gif",
+  "urlWebSite": null,
+  "urlFacebook": null
+}

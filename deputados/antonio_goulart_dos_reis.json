@@ -1,0 +1,37 @@
+{
+  "id": 178980,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178980",
+  "nomeCivil": "ANTONIO GOULART DOS REIS",
+  "ultimoStatus": {
+    "id": 178980,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178980",
+    "nome": "GOULART",
+    "siglaPartido": "PSD",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36834",
+    "siglaUf": "SP",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/178980.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "GOULART",
+    "gabinete": {
+      "nome": "533",
+      "predio": "4",
+      "sala": "533",
+      "andar": "5",
+      "telefone": "3215-5533",
+      "email": "dep.goulart@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1953-12-23",
+  "dataFalecimento": null,
+  "ufNascimento": "MG",
+  "municipioNascimento": "Vargem Bonita",
+  "escolaridade": "Ensino Médio"
+}

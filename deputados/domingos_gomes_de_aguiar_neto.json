@@ -1,0 +1,40 @@
+{
+  "id": 143632,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/143632",
+  "nomeCivil": "DOMINGOS GOMES DE AGUIAR NETO",
+  "ultimoStatus": {
+    "id": 143632,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/143632",
+    "nome": "DOMINGOS NETO",
+    "siglaPartido": "PSD",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36834",
+    "siglaUf": "CE",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/143632.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "DOMINGOS NETO",
+    "gabinete": {
+      "nome": "546",
+      "predio": "4",
+      "sala": "546",
+      "andar": "5",
+      "telefone": "3215-5546",
+      "email": "dep.domingosneto@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [
+    "http://twitter.com/#!/@domingos_neto",
+    "http://www.facebook.com/DeputadoDomingosNeto2"
+  ],
+  "dataNascimento": "1988-04-29",
+  "dataFalecimento": null,
+  "ufNascimento": "CE",
+  "municipioNascimento": "Fortaleza",
+  "escolaridade": null
+}

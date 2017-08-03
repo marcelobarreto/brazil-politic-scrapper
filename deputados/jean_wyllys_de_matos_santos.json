@@ -1,0 +1,37 @@
+{
+  "id": 160672,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160672",
+  "nomeCivil": "JEAN WYLLYS DE MATOS SANTOS",
+  "ultimoStatus": {
+    "id": 160672,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160672",
+    "nome": "JEAN WYLLYS",
+    "siglaPartido": "PSOL",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36839",
+    "siglaUf": "RJ",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/160672.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "JEAN WYLLYS",
+    "gabinete": {
+      "nome": "646",
+      "predio": "4",
+      "sala": "646",
+      "andar": "6",
+      "telefone": "3215-5646",
+      "email": "dep.jeanwyllys@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1974-03-10",
+  "dataFalecimento": null,
+  "ufNascimento": "BA",
+  "municipioNascimento": "Alagoinhas",
+  "escolaridade": null
+}

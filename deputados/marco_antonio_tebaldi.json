@@ -1,0 +1,40 @@
+{
+  "id": 160536,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160536",
+  "nomeCivil": "MARCO ANTONIO TEBALDI",
+  "ultimoStatus": {
+    "id": 160536,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160536",
+    "nome": "MARCO TEBALDI",
+    "siglaPartido": "PSDB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36835",
+    "siglaUf": "SC",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/160536.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "MARCO TEBALDI",
+    "gabinete": {
+      "nome": "284",
+      "predio": "3",
+      "sala": "284",
+      "andar": null,
+      "telefone": "3215-5284",
+      "email": "dep.marcotebaldi@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [
+    "http://www.orkut.com.br/marcotebaldi",
+    "http://www.twitter.com/mtebaldi"
+  ],
+  "dataNascimento": "1958-01-31",
+  "dataFalecimento": null,
+  "ufNascimento": "RS",
+  "municipioNascimento": "Erechim",
+  "escolaridade": null
+}

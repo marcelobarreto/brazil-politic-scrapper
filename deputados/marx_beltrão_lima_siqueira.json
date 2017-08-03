@@ -1,0 +1,37 @@
+{
+  "id": 178843,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178843",
+  "nomeCivil": "MARX BELTRÃO LIMA SIQUEIRA",
+  "ultimoStatus": {
+    "id": 178843,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178843",
+    "nome": "MARX BELTRÃO",
+    "siglaPartido": "PMDB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36800",
+    "siglaUf": "AL",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/178843.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "MARX BELTRÃO",
+    "gabinete": {
+      "nome": "412",
+      "predio": "4",
+      "sala": "412",
+      "andar": "4",
+      "telefone": "3215-5412",
+      "email": "dep.marxbeltrao@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1979-11-28",
+  "dataFalecimento": null,
+  "ufNascimento": "AL",
+  "municipioNascimento": "Maceió",
+  "escolaridade": "Superior"
+}

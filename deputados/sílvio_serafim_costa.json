@@ -1,0 +1,37 @@
+{
+  "id": 4930,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/4930",
+  "nomeCivil": "SÍLVIO SERAFIM COSTA",
+  "ultimoStatus": {
+    "id": 4930,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/4930",
+    "nome": "SILVIO COSTA",
+    "siglaPartido": "PTdoB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36847",
+    "siglaUf": "PE",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/4930.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "SILVIO COSTA",
+    "gabinete": {
+      "nome": "417",
+      "predio": "4",
+      "sala": "417",
+      "andar": "4",
+      "telefone": "3215-5417",
+      "email": "dep.silviocosta@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1956-12-23",
+  "dataFalecimento": null,
+  "ufNascimento": "PE",
+  "municipioNascimento": "Rio Formoso",
+  "escolaridade": null
+}

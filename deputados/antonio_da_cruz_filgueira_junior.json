@@ -1,0 +1,37 @@
+{
+  "id": 178885,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178885",
+  "nomeCivil": "ANTONIO DA CRUZ FILGUEIRA JUNIOR",
+  "ultimoStatus": {
+    "id": 178885,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178885",
+    "nome": "JUNIOR MARRECA",
+    "siglaPartido": "PEN",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36761",
+    "siglaUf": "MA",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/178885.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "JUNIOR MARRECA",
+    "gabinete": {
+      "nome": "537",
+      "predio": "4",
+      "sala": "537",
+      "andar": "5",
+      "telefone": "3215-5537",
+      "email": "dep.juniormarreca@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1970-03-02",
+  "dataFalecimento": null,
+  "ufNascimento": "PE",
+  "municipioNascimento": "Salgueiro",
+  "escolaridade": "Superior"
+}

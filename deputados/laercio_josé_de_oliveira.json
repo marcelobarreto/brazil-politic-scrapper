@@ -1,0 +1,37 @@
+{
+  "id": 151208,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/151208",
+  "nomeCivil": "LAERCIO JOSÉ DE OLIVEIRA",
+  "ultimoStatus": {
+    "id": 151208,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/151208",
+    "nome": "LAERCIO OLIVEIRA",
+    "siglaPartido": "SD",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36765",
+    "siglaUf": "SE",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/151208.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "LAERCIO OLIVEIRA",
+    "gabinete": {
+      "nome": "629",
+      "predio": "4",
+      "sala": "629",
+      "andar": "6",
+      "telefone": "3215-5629",
+      "email": "dep.laerciooliveira@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1959-04-15",
+  "dataFalecimento": null,
+  "ufNascimento": "PE",
+  "municipioNascimento": "Recife",
+  "escolaridade": null
+}

@@ -1,0 +1,37 @@
+{
+  "id": 178901,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178901",
+  "nomeCivil": "TEREZA CRISTINA CORREA DA COSTA DIAS",
+  "ultimoStatus": {
+    "id": 178901,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178901",
+    "nome": "TEREZA CRISTINA",
+    "siglaPartido": "PSB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36832",
+    "siglaUf": "MS",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/178901.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "TEREZA CRISTINA",
+    "gabinete": {
+      "nome": "448",
+      "predio": "4",
+      "sala": "448",
+      "andar": "4",
+      "telefone": "3215-5448",
+      "email": "dep.terezacristina@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "F",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1954-07-06",
+  "dataFalecimento": null,
+  "ufNascimento": "MS",
+  "municipioNascimento": "Campo Grande",
+  "escolaridade": "Superior"
+}

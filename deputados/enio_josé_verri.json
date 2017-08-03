@@ -1,0 +1,39 @@
+{
+  "id": 132504,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/132504",
+  "nomeCivil": "ENIO JOSÉ VERRI",
+  "ultimoStatus": {
+    "id": 132504,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/132504",
+    "nome": "ENIO VERRI",
+    "siglaPartido": "PT",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36844",
+    "siglaUf": "PR",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/132504.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "ENIO VERRI",
+    "gabinete": {
+      "nome": "472",
+      "predio": "3",
+      "sala": "472",
+      "andar": null,
+      "telefone": "3215-5472",
+      "email": "dep.enioverri@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [
+    "https://pt-br.facebook.com/enio.verri"
+  ],
+  "dataNascimento": "1961-03-27",
+  "dataFalecimento": null,
+  "ufNascimento": "PR",
+  "municipioNascimento": "Maringá",
+  "escolaridade": "Doutorado"
+}

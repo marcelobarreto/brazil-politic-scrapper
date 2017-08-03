@@ -1,0 +1,39 @@
+{
+  "id": 160601,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160601",
+  "nomeCivil": "MARCO ANTÔNIO FELICIANO",
+  "ultimoStatus": {
+    "id": 160601,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160601",
+    "nome": "PR. MARCO FELICIANO",
+    "siglaPartido": "PSC",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36833",
+    "siglaUf": "SP",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/160601.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "PR. MARCO FELICIANO",
+    "gabinete": {
+      "nome": "254",
+      "predio": "4",
+      "sala": "254",
+      "andar": "2",
+      "telefone": "3215-5254",
+      "email": "dep.pr.marcofeliciano@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [
+    "http://twitter.com/alceu_moreira"
+  ],
+  "dataNascimento": "1972-10-12",
+  "dataFalecimento": null,
+  "ufNascimento": "SP",
+  "municipioNascimento": "Orlândia",
+  "escolaridade": null
+}

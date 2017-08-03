@@ -1,0 +1,37 @@
+{
+  "id": 74171,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74171",
+  "nomeCivil": "FRANCISCO RODRIGUES DE ALENCAR FILHO",
+  "ultimoStatus": {
+    "id": 74171,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74171",
+    "nome": "CHICO ALENCAR",
+    "siglaPartido": "PSOL",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36839",
+    "siglaUf": "RJ",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/74171.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "CHICO ALENCAR",
+    "gabinete": {
+      "nome": "848",
+      "predio": "4",
+      "sala": "848",
+      "andar": "8",
+      "telefone": "3215-5848",
+      "email": "dep.chicoalencar@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1949-10-19",
+  "dataFalecimento": null,
+  "ufNascimento": "RJ",
+  "municipioNascimento": "Rio de Janeiro",
+  "escolaridade": null
+}

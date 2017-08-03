@@ -1,0 +1,41 @@
+{
+  "id": 74366,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74366",
+  "nomeCivil": "JOÃO CAMPOS DE ARAÚJO",
+  "ultimoStatus": {
+    "id": 74366,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74366",
+    "nome": "JOÃO CAMPOS",
+    "siglaPartido": "PRB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36815",
+    "siglaUf": "GO",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/74366.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "JOÃO CAMPOS",
+    "gabinete": {
+      "nome": "315",
+      "predio": "4",
+      "sala": "315",
+      "andar": "3",
+      "telefone": "3215-5315",
+      "email": "dep.joaocampos@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": "http://www.joaocampos.com.br/feed/",
+  "redeSocial": [
+    "https://twitter.com/depjoaocampos",
+    "http://www.facebook.com/depjoaocampos",
+    "http://www.youtube.com/user/joaocampos4565?feature=results_main"
+  ],
+  "dataNascimento": "1962-12-28",
+  "dataFalecimento": null,
+  "ufNascimento": "TO",
+  "municipioNascimento": "Peixe",
+  "escolaridade": null
+}

@@ -1,0 +1,37 @@
+{
+  "id": 141560,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141560",
+  "nomeCivil": "WALTER SHINDI IIHOSHI",
+  "ultimoStatus": {
+    "id": 141560,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141560",
+    "nome": "WALTER IHOSHI",
+    "siglaPartido": "PSD",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36834",
+    "siglaUf": "SP",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/141560.jpg",
+    "data": "2015-02-03",
+    "nomeEleitoral": "WALTER IHOSHI",
+    "gabinete": {
+      "nome": "372",
+      "predio": "3",
+      "sala": "372",
+      "andar": null,
+      "telefone": "3215-5372",
+      "email": "dep.walterihoshi@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Efetivado",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1961-07-17",
+  "dataFalecimento": null,
+  "ufNascimento": "SP",
+  "municipioNascimento": "São Paulo",
+  "escolaridade": null
+}

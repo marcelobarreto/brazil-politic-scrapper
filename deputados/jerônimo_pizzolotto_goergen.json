@@ -1,0 +1,37 @@
+{
+  "id": 160570,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160570",
+  "nomeCivil": "JERÔNIMO PIZZOLOTTO GOERGEN",
+  "ultimoStatus": {
+    "id": 160570,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160570",
+    "nome": "JERÔNIMO GOERGEN",
+    "siglaPartido": "PP",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36809",
+    "siglaUf": "RS",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/160570.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "JERÔNIMO GOERGEN",
+    "gabinete": {
+      "nome": "316",
+      "predio": "4",
+      "sala": "316",
+      "andar": "3",
+      "telefone": "3215-5316",
+      "email": "dep.jeronimogoergen@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1976-01-20",
+  "dataFalecimento": null,
+  "ufNascimento": "RS",
+  "municipioNascimento": "Palmeira das Missões",
+  "escolaridade": null
+}

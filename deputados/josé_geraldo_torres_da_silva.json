@@ -1,0 +1,37 @@
+{
+  "id": 73931,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73931",
+  "nomeCivil": "JOSÉ GERALDO TORRES DA SILVA",
+  "ultimoStatus": {
+    "id": 73931,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73931",
+    "nome": "ZÉ GERALDO",
+    "siglaPartido": "PT",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36844",
+    "siglaUf": "PA",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/73931.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "ZÉ GERALDO",
+    "gabinete": {
+      "nome": "266",
+      "predio": "3",
+      "sala": "266",
+      "andar": null,
+      "telefone": "3215-5266",
+      "email": "dep.zegeraldo@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1961-12-21",
+  "dataFalecimento": null,
+  "ufNascimento": "ES",
+  "municipioNascimento": "São Gabriel da Palha",
+  "escolaridade": "Primário"
+}

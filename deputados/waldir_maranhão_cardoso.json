@@ -1,0 +1,37 @@
+{
+  "id": 141558,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141558",
+  "nomeCivil": "WALDIR MARANHÃO CARDOSO",
+  "ultimoStatus": {
+    "id": 141558,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141558",
+    "nome": "WALDIR MARANHÃO",
+    "siglaPartido": "PP",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36809",
+    "siglaUf": "MA",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/141558.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "WALDIR MARANHÃO",
+    "gabinete": {
+      "nome": "005",
+      "predio": "x",
+      "sala": "005",
+      "andar": null,
+      "telefone": "3215-5005",
+      "email": "dep.waldirmaranhao@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1955-08-04",
+  "dataFalecimento": null,
+  "ufNascimento": "MA",
+  "municipioNascimento": "São Luís",
+  "escolaridade": "Mestrado"
+}

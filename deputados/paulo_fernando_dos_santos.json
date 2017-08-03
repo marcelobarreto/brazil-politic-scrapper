@@ -1,0 +1,37 @@
+{
+  "id": 171617,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/171617",
+  "nomeCivil": "PAULO FERNANDO DOS SANTOS",
+  "ultimoStatus": {
+    "id": 171617,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/171617",
+    "nome": "PAULÃO",
+    "siglaPartido": "PT",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36844",
+    "siglaUf": "AL",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/171617.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "PAULÃO",
+    "gabinete": {
+      "nome": "366",
+      "predio": "3",
+      "sala": "366",
+      "andar": null,
+      "telefone": "3215-5366",
+      "email": "dep.paulao@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1957-09-15",
+  "dataFalecimento": null,
+  "ufNascimento": "AL",
+  "municipioNascimento": "Maceió",
+  "escolaridade": null
+}

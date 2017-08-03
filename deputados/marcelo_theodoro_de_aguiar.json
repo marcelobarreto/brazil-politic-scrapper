@@ -1,0 +1,37 @@
+{
+  "id": 160660,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160660",
+  "nomeCivil": "MARCELO THEODORO DE AGUIAR",
+  "ultimoStatus": {
+    "id": 160660,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160660",
+    "nome": "MARCELO AGUIAR",
+    "siglaPartido": "DEM",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36769",
+    "siglaUf": "SP",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/160660.jpg",
+    "data": "2015-02-03",
+    "nomeEleitoral": "MARCELO AGUIAR",
+    "gabinete": {
+      "nome": "367",
+      "predio": "3",
+      "sala": "367",
+      "andar": null,
+      "telefone": "3215-5367",
+      "email": "dep.marceloaguiar@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Suplente",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1973-09-16",
+  "dataFalecimento": null,
+  "ufNascimento": "SP",
+  "municipioNascimento": "São Paulo",
+  "escolaridade": null
+}

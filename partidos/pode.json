@@ -1,0 +1,28 @@
+{
+  "id": 36896,
+  "sigla": "PODE",
+  "nome": "Podemos",
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/partidos/36896",
+  "status": {
+    "data": "2017-08-02 21:05:01.443",
+    "idLegislatura": "55",
+    "situacao": "Ativo",
+    "totalPosse": "0",
+    "totalMemebros": "14",
+    "uriMembros": "https://dadosabertos.camara.leg.br/api/v2/deputados?legislatura=55&partido=PODE",
+    "lider": {
+      "id": 178920,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178920",
+      "nome": "RICARDO TEOBALDO",
+      "siglaPartido": "PODE",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36896",
+      "uf": "PE",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.gov.br/internet/deputado/bandep/178920.jpg"
+    }
+  },
+  "numeroEleitoral": null,
+  "urlLogo": "http://www.camara.leg.br/internet/Deputado/img/partidos/PODE.gif",
+  "urlWebSite": null,
+  "urlFacebook": null
+}

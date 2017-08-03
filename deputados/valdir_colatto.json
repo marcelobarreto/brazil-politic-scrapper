@@ -1,0 +1,37 @@
+{
+  "id": 74010,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74010",
+  "nomeCivil": "VALDIR COLATTO",
+  "ultimoStatus": {
+    "id": 74010,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74010",
+    "nome": "VALDIR COLATTO",
+    "siglaPartido": "PMDB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36800",
+    "siglaUf": "SC",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/74010.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "VALDIR COLATTO",
+    "gabinete": {
+      "nome": "516",
+      "predio": "4",
+      "sala": "516",
+      "andar": "5",
+      "telefone": "3215-5516",
+      "email": "dep.valdircolatto@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1949-10-15",
+  "dataFalecimento": null,
+  "ufNascimento": "RS",
+  "municipioNascimento": "Lagoa Vermelha",
+  "escolaridade": null
+}

@@ -1,0 +1,40 @@
+{
+  "id": 163321,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/163321",
+  "nomeCivil": "RONALDO NOGUEIRA DE OLIVEIRA",
+  "ultimoStatus": {
+    "id": 163321,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/163321",
+    "nome": "RONALDO NOGUEIRA",
+    "siglaPartido": "PTB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36845",
+    "siglaUf": "RS",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/163321.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "RONALDO NOGUEIRA",
+    "gabinete": {
+      "nome": "625",
+      "predio": "4",
+      "sala": "625",
+      "andar": "6",
+      "telefone": "3215-5625",
+      "email": "dep.ronaldonogueira@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [
+    "http://twitter.com/Dep_Lucena",
+    "http://www.facebook.com/dep.lucena"
+  ],
+  "dataNascimento": "1966-04-25",
+  "dataFalecimento": null,
+  "ufNascimento": "RS",
+  "municipioNascimento": "Carazinho",
+  "escolaridade": "Superior"
+}

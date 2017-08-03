@@ -1,0 +1,28 @@
+{
+  "id": 36886,
+  "sigla": "REDE",
+  "nome": "Rede Sustentabilidade",
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/partidos/36886",
+  "status": {
+    "data": null,
+    "idLegislatura": "55",
+    "situacao": "Ativo",
+    "totalPosse": "0",
+    "totalMemebros": "4",
+    "uriMembros": "https://dadosabertos.camara.leg.br/api/v2/deputados?legislatura=55&partido=REDE",
+    "lider": {
+      "id": 160511,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160511",
+      "nome": "ALESSANDRO MOLON",
+      "siglaPartido": "REDE",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36886",
+      "uf": "RJ",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.gov.br/internet/deputado/bandep/160511.jpg"
+    }
+  },
+  "numeroEleitoral": null,
+  "urlLogo": "http://www.camara.leg.br/internet/Deputado/img/partidos/REDE.gif",
+  "urlWebSite": null,
+  "urlFacebook": null
+}

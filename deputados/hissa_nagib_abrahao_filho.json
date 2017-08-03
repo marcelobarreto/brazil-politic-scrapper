@@ -1,0 +1,37 @@
+{
+  "id": 178849,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178849",
+  "nomeCivil": "HISSA NAGIB ABRAHAO FILHO",
+  "ultimoStatus": {
+    "id": 178849,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178849",
+    "nome": "HISSA ABRAHÃO",
+    "siglaPartido": "PDT",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36786",
+    "siglaUf": "AM",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/178849.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "HISSA ABRAHÃO",
+    "gabinete": {
+      "nome": "272",
+      "predio": "3",
+      "sala": "272",
+      "andar": null,
+      "telefone": "3215-5272",
+      "email": "dep.hissaabrahao@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1980-08-02",
+  "dataFalecimento": null,
+  "ufNascimento": "AM",
+  "municipioNascimento": "Manaus",
+  "escolaridade": "Mestrado"
+}

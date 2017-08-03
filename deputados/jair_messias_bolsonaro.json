@@ -1,0 +1,37 @@
+{
+  "id": 74847,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74847",
+  "nomeCivil": "JAIR MESSIAS BOLSONARO",
+  "ultimoStatus": {
+    "id": 74847,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74847",
+    "nome": "JAIR BOLSONARO",
+    "siglaPartido": "PSC",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36833",
+    "siglaUf": "RJ",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/74847.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "JAIR BOLSONARO",
+    "gabinete": {
+      "nome": "482",
+      "predio": "3",
+      "sala": "482",
+      "andar": null,
+      "telefone": "3215-5482",
+      "email": "dep.jairbolsonaro@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1955-03-21",
+  "dataFalecimento": null,
+  "ufNascimento": "SP",
+  "municipioNascimento": "Campinas",
+  "escolaridade": null
+}

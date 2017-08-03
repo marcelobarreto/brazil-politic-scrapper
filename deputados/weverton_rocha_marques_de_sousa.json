@@ -1,0 +1,37 @@
+{
+  "id": 167493,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/167493",
+  "nomeCivil": "WEVERTON ROCHA MARQUES DE SOUSA",
+  "ultimoStatus": {
+    "id": 167493,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/167493",
+    "nome": "WEVERTON ROCHA",
+    "siglaPartido": "PDT",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36786",
+    "siglaUf": "MA",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/167493.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "WEVERTON ROCHA",
+    "gabinete": {
+      "nome": "405",
+      "predio": "4",
+      "sala": "405",
+      "andar": "4",
+      "telefone": "3215-5405",
+      "email": "dep.wevertonrocha@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1979-10-08",
+  "dataFalecimento": null,
+  "ufNascimento": "MA",
+  "municipioNascimento": "Imperatriz",
+  "escolaridade": null
+}

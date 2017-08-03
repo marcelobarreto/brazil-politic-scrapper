@@ -1,0 +1,37 @@
+{
+  "id": 113247,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/113247",
+  "nomeCivil": "VALMIR PRASCIDELLI",
+  "ultimoStatus": {
+    "id": 113247,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/113247",
+    "nome": "VALMIR PRASCIDELLI",
+    "siglaPartido": "PT",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36844",
+    "siglaUf": "SP",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/113247.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "VALMIR PRASCIDELLI",
+    "gabinete": {
+      "nome": "837",
+      "predio": "4",
+      "sala": "837",
+      "andar": "8",
+      "telefone": "3215-5837",
+      "email": "dep.valmirprascidelli@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1964-04-09",
+  "dataFalecimento": null,
+  "ufNascimento": "SP",
+  "municipioNascimento": "Osasco",
+  "escolaridade": "Superior"
+}

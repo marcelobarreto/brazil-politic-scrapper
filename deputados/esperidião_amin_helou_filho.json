@@ -1,0 +1,37 @@
+{
+  "id": 160649,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160649",
+  "nomeCivil": "ESPERIDIÃO AMIN HELOU FILHO",
+  "ultimoStatus": {
+    "id": 160649,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160649",
+    "nome": "ESPERIDIÃO AMIN",
+    "siglaPartido": "PP",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36809",
+    "siglaUf": "SC",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/160649.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "ESPERIDIÃO AMIN",
+    "gabinete": {
+      "nome": "252",
+      "predio": "4",
+      "sala": "252",
+      "andar": "2",
+      "telefone": "3215-5252",
+      "email": "dep.esperidiaoamin@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1947-12-21",
+  "dataFalecimento": null,
+  "ufNascimento": "SC",
+  "municipioNascimento": "Florianópolis",
+  "escolaridade": "Doutorado"
+}

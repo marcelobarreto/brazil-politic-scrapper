@@ -1,0 +1,37 @@
+{
+  "id": 73666,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73666",
+  "nomeCivil": "JOVAIR DE OLIVEIRA ARANTES",
+  "ultimoStatus": {
+    "id": 73666,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73666",
+    "nome": "JOVAIR ARANTES",
+    "siglaPartido": "PTB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36845",
+    "siglaUf": "GO",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/73666.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "JOVAIR ARANTES",
+    "gabinete": {
+      "nome": "504",
+      "predio": "4",
+      "sala": "504",
+      "andar": "5",
+      "telefone": "3215-5504",
+      "email": "dep.jovairarantes@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1951-06-04",
+  "dataFalecimento": null,
+  "ufNascimento": "GO",
+  "municipioNascimento": "Buriti Alegre",
+  "escolaridade": null
+}

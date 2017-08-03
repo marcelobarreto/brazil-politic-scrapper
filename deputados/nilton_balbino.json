@@ -1,0 +1,37 @@
+{
+  "id": 74359,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74359",
+  "nomeCivil": "NILTON BALBINO",
+  "ultimoStatus": {
+    "id": 74359,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74359",
+    "nome": "NILTON CAPIXABA",
+    "siglaPartido": "PTB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36845",
+    "siglaUf": "RO",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/74359.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "NILTON CAPIXABA",
+    "gabinete": {
+      "nome": "724",
+      "predio": "4",
+      "sala": "724",
+      "andar": "7",
+      "telefone": "3215-5724",
+      "email": "dep.niltoncapixaba@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1960-02-09",
+  "dataFalecimento": null,
+  "ufNascimento": "MG",
+  "municipioNascimento": "Cuparaque",
+  "escolaridade": null
+}

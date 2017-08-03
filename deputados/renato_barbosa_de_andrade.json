@@ -1,0 +1,37 @@
+{
+  "id": 171620,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/171620",
+  "nomeCivil": "RENATO BARBOSA DE ANDRADE",
+  "ultimoStatus": {
+    "id": 171620,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/171620",
+    "nome": "RENATO ANDRADE",
+    "siglaPartido": "PP",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36809",
+    "siglaUf": "MG",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/171620.jpg",
+    "data": "2017-01-02",
+    "nomeEleitoral": "RENATO ANDRADE",
+    "gabinete": {
+      "nome": "483",
+      "predio": "3",
+      "sala": "483",
+      "andar": null,
+      "telefone": "3215-5483",
+      "email": "dep.renatoandrade@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Efetivado",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1971-03-12",
+  "dataFalecimento": null,
+  "ufNascimento": "SP",
+  "municipioNascimento": "Ribeirão Preto",
+  "escolaridade": null
+}

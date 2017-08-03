@@ -1,0 +1,39 @@
+{
+  "id": 160535,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160535",
+  "nomeCivil": "DIONILSO MATEUS MARCON",
+  "ultimoStatus": {
+    "id": 160535,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160535",
+    "nome": "MARCON",
+    "siglaPartido": "PT",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36844",
+    "siglaUf": "RS",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/160535.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "MARCON",
+    "gabinete": {
+      "nome": "569",
+      "predio": "3",
+      "sala": "569",
+      "andar": null,
+      "telefone": "3215-5569",
+      "email": "dep.marcon@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [
+    "http://www.twitter.com/dep.marcon"
+  ],
+  "dataNascimento": "1964-09-21",
+  "dataFalecimento": null,
+  "ufNascimento": "RS",
+  "municipioNascimento": "Ronda Alta",
+  "escolaridade": null
+}

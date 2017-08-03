@@ -1,0 +1,37 @@
+{
+  "id": 178905,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178905",
+  "nomeCivil": "FABIO PAULINO GARCIA",
+  "ultimoStatus": {
+    "id": 178905,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178905",
+    "nome": "FABIO GARCIA",
+    "siglaPartido": "PSB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36832",
+    "siglaUf": "MT",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/178905.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "FABIO GARCIA",
+    "gabinete": {
+      "nome": "278",
+      "predio": "3",
+      "sala": "278",
+      "andar": null,
+      "telefone": "3215-5278",
+      "email": "dep.fabiogarcia@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1977-06-29",
+  "dataFalecimento": null,
+  "ufNascimento": "DF",
+  "municipioNascimento": "Brasília",
+  "escolaridade": "Pós-Graduação"
+}

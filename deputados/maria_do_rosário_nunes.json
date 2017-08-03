@@ -1,0 +1,37 @@
+{
+  "id": 74398,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74398",
+  "nomeCivil": "MARIA DO ROSÁRIO NUNES",
+  "ultimoStatus": {
+    "id": 74398,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74398",
+    "nome": "MARIA DO ROSÁRIO",
+    "siglaPartido": "PT",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36844",
+    "siglaUf": "RS",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/74398.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "MARIA DO ROSÁRIO",
+    "gabinete": {
+      "nome": "312",
+      "predio": "4",
+      "sala": "312",
+      "andar": "3",
+      "telefone": "3215-5312",
+      "email": "dep.mariadorosario@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "F",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1966-11-22",
+  "dataFalecimento": null,
+  "ufNascimento": "RS",
+  "municipioNascimento": "Veranópolis",
+  "escolaridade": null
+}

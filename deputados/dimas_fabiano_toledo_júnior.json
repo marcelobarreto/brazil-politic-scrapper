@@ -1,0 +1,37 @@
+{
+  "id": 160599,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160599",
+  "nomeCivil": "DIMAS FABIANO TOLEDO JÚNIOR",
+  "ultimoStatus": {
+    "id": 160599,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160599",
+    "nome": "DIMAS FABIANO",
+    "siglaPartido": "PP",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36809",
+    "siglaUf": "MG",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/160599.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "DIMAS FABIANO",
+    "gabinete": {
+      "nome": "325",
+      "predio": "4",
+      "sala": "325",
+      "andar": "3",
+      "telefone": "3215-5325",
+      "email": "dep.dimasfabiano@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1973-05-23",
+  "dataFalecimento": null,
+  "ufNascimento": "RJ",
+  "municipioNascimento": "Macaé",
+  "escolaridade": null
+}

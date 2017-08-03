@@ -1,0 +1,37 @@
+{
+  "id": 178868,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178868",
+  "nomeCivil": "LUIZ ODORICO MONTEIRO DE ANDRADE",
+  "ultimoStatus": {
+    "id": 178868,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178868",
+    "nome": "ODORICO MONTEIRO",
+    "siglaPartido": "PSB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36832",
+    "siglaUf": "CE",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/178868.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "ODORICO MONTEIRO",
+    "gabinete": {
+      "nome": "582",
+      "predio": "3",
+      "sala": "582",
+      "andar": null,
+      "telefone": "3215-5582",
+      "email": "dep.odoricomonteiro@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1961-08-11",
+  "dataFalecimento": null,
+  "ufNascimento": "CE",
+  "municipioNascimento": "Arneiroz",
+  "escolaridade": "Doutorado"
+}

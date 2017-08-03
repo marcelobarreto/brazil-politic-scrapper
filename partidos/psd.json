@@ -1,0 +1,28 @@
+{
+  "id": 36834,
+  "sigla": "PSD",
+  "nome": "Partido Social Democrático",
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/partidos/36834",
+  "status": {
+    "data": "2017-02-01 11:55:00.457",
+    "idLegislatura": "55",
+    "situacao": "Ativo",
+    "totalPosse": "36",
+    "totalMemebros": "38",
+    "uriMembros": "https://dadosabertos.camara.leg.br/api/v2/deputados?legislatura=55&partido=PSD",
+    "lider": {
+      "id": 141500,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141500",
+      "nome": "MARCOS MONTES",
+      "siglaPartido": "PSD",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36834",
+      "uf": "MG",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.gov.br/internet/deputado/bandep/141500.jpg"
+    }
+  },
+  "numeroEleitoral": null,
+  "urlLogo": "http://www.camara.leg.br/internet/Deputado/img/partidos/PSD.gif",
+  "urlWebSite": null,
+  "urlFacebook": null
+}

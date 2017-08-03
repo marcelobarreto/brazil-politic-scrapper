@@ -1,0 +1,28 @@
+{
+  "id": 36835,
+  "sigla": "PSDB",
+  "nome": "Partido da Social Democracia Brasileira",
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/partidos/36835",
+  "status": {
+    "data": "2017-02-02 09:57:01.017",
+    "idLegislatura": "55",
+    "situacao": "Ativo",
+    "totalPosse": "54",
+    "totalMemebros": "47",
+    "uriMembros": "https://dadosabertos.camara.leg.br/api/v2/deputados?legislatura=55&partido=PSDB",
+    "lider": {
+      "id": 141472,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141472",
+      "nome": "RICARDO TRIPOLI",
+      "siglaPartido": "PSDB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36835",
+      "uf": "SP",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.gov.br/internet/deputado/bandep/141472.jpg"
+    }
+  },
+  "numeroEleitoral": null,
+  "urlLogo": "http://www.camara.leg.br/internet/Deputado/img/partidos/PSDB.gif",
+  "urlWebSite": null,
+  "urlFacebook": null
+}

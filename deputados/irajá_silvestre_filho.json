@@ -1,0 +1,43 @@
+{
+  "id": 81232,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/81232",
+  "nomeCivil": "IRAJÁ SILVESTRE FILHO",
+  "ultimoStatus": {
+    "id": 81232,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/81232",
+    "nome": "IRAJÁ ABREU",
+    "siglaPartido": "PSD",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36834",
+    "siglaUf": "TO",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/81232.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "IRAJÁ ABREU",
+    "gabinete": {
+      "nome": "802",
+      "predio": "4",
+      "sala": "802",
+      "andar": "8",
+      "telefone": "3215-5802",
+      "email": "dep.irajaabreu@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [
+    "http://twitter.com/redenewton",
+    "http://twitter.com/profnewtonlima",
+    "www.flickr.com/redenewtonlima",
+    "www.facebook.com/redenewtonlima",
+    "www.youtube.com/redenewtonlima"
+  ],
+  "dataNascimento": "1983-02-03",
+  "dataFalecimento": null,
+  "ufNascimento": "GO",
+  "municipioNascimento": "Goiânia",
+  "escolaridade": null
+}

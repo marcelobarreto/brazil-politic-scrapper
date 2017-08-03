@@ -1,0 +1,37 @@
+{
+  "id": 141413,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141413",
+  "nomeCivil": "DÉCIO NERY DE LIMA",
+  "ultimoStatus": {
+    "id": 141413,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141413",
+    "nome": "DÉCIO LIMA",
+    "siglaPartido": "PT",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36844",
+    "siglaUf": "SC",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/141413.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "DÉCIO LIMA",
+    "gabinete": {
+      "nome": "218",
+      "predio": "4",
+      "sala": "218",
+      "andar": "2",
+      "telefone": "3215-5218",
+      "email": "dep.deciolima@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1960-10-01",
+  "dataFalecimento": null,
+  "ufNascimento": "SC",
+  "municipioNascimento": "Itajaí",
+  "escolaridade": null
+}

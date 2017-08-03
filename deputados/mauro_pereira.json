@@ -1,0 +1,37 @@
+{
+  "id": 124411,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/124411",
+  "nomeCivil": "MAURO PEREIRA",
+  "ultimoStatus": {
+    "id": 124411,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/124411",
+    "nome": "MAURO PEREIRA",
+    "siglaPartido": "PMDB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36800",
+    "siglaUf": "RS",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/124411.jpg",
+    "data": "2015-02-12",
+    "nomeEleitoral": "MAURO PEREIRA",
+    "gabinete": {
+      "nome": "843",
+      "predio": "4",
+      "sala": "843",
+      "andar": "8",
+      "telefone": "3215-5843",
+      "email": "dep.mauropereira@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Suplente",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1958-09-01",
+  "dataFalecimento": null,
+  "ufNascimento": "SP",
+  "municipioNascimento": "Dracena",
+  "escolaridade": "Ensino Médio"
+}

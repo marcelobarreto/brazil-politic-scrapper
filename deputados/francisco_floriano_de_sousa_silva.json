@@ -1,0 +1,37 @@
+{
+  "id": 160677,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160677",
+  "nomeCivil": "FRANCISCO FLORIANO DE SOUSA SILVA",
+  "ultimoStatus": {
+    "id": 160677,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160677",
+    "nome": "FRANCISCO FLORIANO",
+    "siglaPartido": "DEM",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36769",
+    "siglaUf": "RJ",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/160677.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "FRANCISCO FLORIANO",
+    "gabinete": {
+      "nome": "719",
+      "predio": "4",
+      "sala": "719",
+      "andar": "7",
+      "telefone": "3215-5719",
+      "email": "dep.franciscofloriano@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1959-09-21",
+  "dataFalecimento": null,
+  "ufNascimento": "RJ",
+  "municipioNascimento": "Rio de Janeiro",
+  "escolaridade": null
+}

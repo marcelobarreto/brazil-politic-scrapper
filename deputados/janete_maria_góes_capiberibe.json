@@ -1,0 +1,37 @@
+{
+  "id": 73926,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73926",
+  "nomeCivil": "JANETE MARIA GÓES CAPIBERIBE",
+  "ultimoStatus": {
+    "id": 73926,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73926",
+    "nome": "JANETE CAPIBERIBE",
+    "siglaPartido": "PSB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36832",
+    "siglaUf": "AP",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/73926.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "JANETE CAPIBERIBE",
+    "gabinete": {
+      "nome": "209",
+      "predio": "4",
+      "sala": "209",
+      "andar": "2",
+      "telefone": "3215-5209",
+      "email": "dep.janetecapiberibe@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "F",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1949-05-12",
+  "dataFalecimento": null,
+  "ufNascimento": "AP",
+  "municipioNascimento": "Amapá",
+  "escolaridade": null
+}

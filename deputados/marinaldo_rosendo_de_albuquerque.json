@@ -1,0 +1,39 @@
+{
+  "id": 178919,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178919",
+  "nomeCivil": "MARINALDO ROSENDO DE ALBUQUERQUE",
+  "ultimoStatus": {
+    "id": 178919,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178919",
+    "nome": "MARINALDO ROSENDO",
+    "siglaPartido": "PSB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36832",
+    "siglaUf": "PE",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/178919.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "MARINALDO ROSENDO",
+    "gabinete": {
+      "nome": "827",
+      "predio": "4",
+      "sala": "827",
+      "andar": "8",
+      "telefone": "3215-5827",
+      "email": "dep.marinaldorosendo@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [
+    "www.facebook.com/marinaldorosendo"
+  ],
+  "dataNascimento": "1965-11-01",
+  "dataFalecimento": null,
+  "ufNascimento": "PE",
+  "municipioNascimento": "Timbaúba",
+  "escolaridade": "Ensino Médio"
+}

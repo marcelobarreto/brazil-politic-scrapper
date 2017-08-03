@@ -1,0 +1,37 @@
+{
+  "id": 178880,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178880",
+  "nomeCivil": "MARCOS ABRAO RORIZ SOARES DE CARVALHO",
+  "ultimoStatus": {
+    "id": 178880,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178880",
+    "nome": "MARCOS ABRÃO",
+    "siglaPartido": "PPS",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36813",
+    "siglaUf": "GO",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/178880.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "MARCOS ABRÃO",
+    "gabinete": {
+      "nome": "375",
+      "predio": "3",
+      "sala": "375",
+      "andar": null,
+      "telefone": "3215-5375",
+      "email": "dep.marcosabrao@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1971-02-15",
+  "dataFalecimento": null,
+  "ufNascimento": "GO",
+  "municipioNascimento": "Goiânia",
+  "escolaridade": "Superior"
+}

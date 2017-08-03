@@ -1,0 +1,37 @@
+{
+  "id": 178989,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178989",
+  "nomeCivil": "RENATA HELLMEISTER DE ABREU",
+  "ultimoStatus": {
+    "id": 178989,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178989",
+    "nome": "RENATA ABREU",
+    "siglaPartido": "PODE",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36896",
+    "siglaUf": "SP",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/178989.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "RENATA ABREU",
+    "gabinete": {
+      "nome": "726",
+      "predio": "4",
+      "sala": "726",
+      "andar": "7",
+      "telefone": "3215-5726",
+      "email": "dep.renataabreu@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "F",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1982-04-15",
+  "dataFalecimento": null,
+  "ufNascimento": "SP",
+  "municipioNascimento": "São Paulo",
+  "escolaridade": "Superior"
+}

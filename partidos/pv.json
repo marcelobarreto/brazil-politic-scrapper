@@ -1,0 +1,28 @@
+{
+  "id": 36851,
+  "sigla": "PV",
+  "nome": "Partido Verde",
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/partidos/36851",
+  "status": {
+    "data": "2017-04-12 13:01:00.783",
+    "idLegislatura": "55",
+    "situacao": "Ativo",
+    "totalPosse": "8",
+    "totalMemebros": "7",
+    "uriMembros": "https://dadosabertos.camara.leg.br/api/v2/deputados?legislatura=55&partido=PV",
+    "lider": {
+      "id": 178832,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178832",
+      "nome": "LEANDRE",
+      "siglaPartido": "PV",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36851",
+      "uf": "PR",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.gov.br/internet/deputado/bandep/178832.jpg"
+    }
+  },
+  "numeroEleitoral": null,
+  "urlLogo": "http://www.camara.leg.br/internet/Deputado/img/partidos/PV.gif",
+  "urlWebSite": null,
+  "urlFacebook": null
+}

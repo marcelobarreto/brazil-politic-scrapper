@@ -1,0 +1,37 @@
+{
+  "id": 141445,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141445",
+  "nomeCivil": "GILBERTO JOSÉ SPIER VARGAS",
+  "ultimoStatus": {
+    "id": 141445,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141445",
+    "nome": "PEPE VARGAS",
+    "siglaPartido": "PT",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36844",
+    "siglaUf": "RS",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/141445.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "PEPE VARGAS",
+    "gabinete": {
+      "nome": "858",
+      "predio": "4",
+      "sala": "858",
+      "andar": "8",
+      "telefone": "3215-5858",
+      "email": "dep.pepevargas@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1958-10-29",
+  "dataFalecimento": null,
+  "ufNascimento": "RS",
+  "municipioNascimento": "Nova Petrópolis",
+  "escolaridade": null
+}

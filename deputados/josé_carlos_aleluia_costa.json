@@ -1,0 +1,37 @@
+{
+  "id": 74553,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74553",
+  "nomeCivil": "JOSÉ CARLOS ALELUIA COSTA",
+  "ultimoStatus": {
+    "id": 74553,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74553",
+    "nome": "JOSÉ CARLOS ALELUIA",
+    "siglaPartido": "DEM",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36769",
+    "siglaUf": "BA",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/74553.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "JOSÉ CARLOS ALELUIA",
+    "gabinete": {
+      "nome": "854",
+      "predio": "4",
+      "sala": "854",
+      "andar": "8",
+      "telefone": "3215-5854",
+      "email": "dep.josecarlosaleluia@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1947-12-09",
+  "dataFalecimento": null,
+  "ufNascimento": "BA",
+  "municipioNascimento": "Salvador",
+  "escolaridade": "Superior"
+}

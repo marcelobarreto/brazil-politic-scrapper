@@ -1,0 +1,37 @@
+{
+  "id": 141450,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141450",
+  "nomeCivil": "HUGO LEAL MELO DA SILVA",
+  "ultimoStatus": {
+    "id": 141450,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141450",
+    "nome": "HUGO LEAL",
+    "siglaPartido": "PSB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36832",
+    "siglaUf": "RJ",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/141450.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "HUGO LEAL",
+    "gabinete": {
+      "nome": "631",
+      "predio": "4",
+      "sala": "631",
+      "andar": "6",
+      "telefone": "3215-5631",
+      "email": "dep.hugoleal@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1962-08-06",
+  "dataFalecimento": null,
+  "ufNascimento": "MG",
+  "municipioNascimento": "Ouro Fino",
+  "escolaridade": null
+}

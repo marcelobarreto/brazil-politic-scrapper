@@ -1,0 +1,37 @@
+{
+  "id": 160666,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160666",
+  "nomeCivil": "FELIX DE ALMEIDA MENDONÇA JÚNIOR",
+  "ultimoStatus": {
+    "id": 160666,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160666",
+    "nome": "FÉLIX MENDONÇA JÚNIOR",
+    "siglaPartido": "PDT",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36786",
+    "siglaUf": "BA",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/160666.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "FÉLIX MENDONÇA JÚNIOR",
+    "gabinete": {
+      "nome": "912",
+      "predio": "4",
+      "sala": "912",
+      "andar": "9",
+      "telefone": "3215-5912",
+      "email": "dep.felixmendoncajunior@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1963-11-29",
+  "dataFalecimento": null,
+  "ufNascimento": "BA",
+  "municipioNascimento": "Itabuna",
+  "escolaridade": null
+}

@@ -1,0 +1,37 @@
+{
+  "id": 74467,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74467",
+  "nomeCivil": "DAMIÃO FELICIANO DA SILVA",
+  "ultimoStatus": {
+    "id": 74467,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74467",
+    "nome": "DAMIÃO FELICIANO",
+    "siglaPartido": "PDT",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36786",
+    "siglaUf": "PB",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/74467.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "DAMIÃO FELICIANO",
+    "gabinete": {
+      "nome": "938",
+      "predio": "4",
+      "sala": "938",
+      "andar": "9",
+      "telefone": "3215-5938",
+      "email": "dep.damiaofeliciano@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1952-04-28",
+  "dataFalecimento": null,
+  "ufNascimento": "PB",
+  "municipioNascimento": "Campina Grande",
+  "escolaridade": null
+}

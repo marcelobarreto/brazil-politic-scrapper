@@ -1,0 +1,37 @@
+{
+  "id": 141483,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141483",
+  "nomeCivil": "LINDOMAR BARBOSA ALVES",
+  "ultimoStatus": {
+    "id": 141483,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141483",
+    "nome": "LINDOMAR GARÇON",
+    "siglaPartido": "PRB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36815",
+    "siglaUf": "RO",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/141483.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "LINDOMAR GARÇON",
+    "gabinete": {
+      "nome": "548",
+      "predio": "4",
+      "sala": "548",
+      "andar": "5",
+      "telefone": "3215-5548",
+      "email": "dep.lindomargarcon@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1969-10-18",
+  "dataFalecimento": null,
+  "ufNascimento": "MT",
+  "municipioNascimento": "Rondonópolis",
+  "escolaridade": "Superior"
+}

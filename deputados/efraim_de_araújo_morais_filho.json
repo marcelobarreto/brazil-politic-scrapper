@@ -1,0 +1,39 @@
+{
+  "id": 141422,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141422",
+  "nomeCivil": "EFRAIM DE ARAÚJO MORAIS FILHO",
+  "ultimoStatus": {
+    "id": 141422,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141422",
+    "nome": "EFRAIM FILHO",
+    "siglaPartido": "DEM",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36769",
+    "siglaUf": "PB",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/141422.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "EFRAIM FILHO",
+    "gabinete": {
+      "nome": "744",
+      "predio": "4",
+      "sala": "744",
+      "andar": "7",
+      "telefone": "3215-5744",
+      "email": "dep.efraimfilho@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [
+    "http://www.twitter.com/efraimfilho"
+  ],
+  "dataNascimento": "1979-03-18",
+  "dataFalecimento": null,
+  "ufNascimento": "PB",
+  "municipioNascimento": "João Pessoa",
+  "escolaridade": null
+}

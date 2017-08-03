@@ -1,0 +1,28 @@
+{
+  "id": 36815,
+  "sigla": "PRB",
+  "nome": "Partido Republicano Brasileiro",
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/partidos/36815",
+  "status": {
+    "data": "2017-02-01 09:20:01.403",
+    "idLegislatura": "55",
+    "situacao": "Ativo",
+    "totalPosse": "21",
+    "totalMemebros": "22",
+    "uriMembros": "https://dadosabertos.camara.leg.br/api/v2/deputados?legislatura=55&partido=PRB",
+    "lider": {
+      "id": 141408,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141408",
+      "nome": "CLEBER VERDE",
+      "siglaPartido": "PRB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36815",
+      "uf": "MA",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.gov.br/internet/deputado/bandep/141408.jpg"
+    }
+  },
+  "numeroEleitoral": null,
+  "urlLogo": "http://www.camara.leg.br/internet/Deputado/img/partidos/PRB.gif",
+  "urlWebSite": null,
+  "urlFacebook": null
+}

@@ -1,0 +1,40 @@
+{
+  "id": 67138,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/67138",
+  "nomeCivil": "IRACEMA MARIA PORTELLA NUNES NOGUEIRA LIMA",
+  "ultimoStatus": {
+    "id": 67138,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/67138",
+    "nome": "IRACEMA PORTELLA",
+    "siglaPartido": "PP",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36809",
+    "siglaUf": "PI",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/67138.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "IRACEMA PORTELLA",
+    "gabinete": {
+      "nome": "924",
+      "predio": "4",
+      "sala": "924",
+      "andar": "9",
+      "telefone": "3215-5924",
+      "email": "dep.iracemaportella@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "F",
+  "urlWebsite": null,
+  "redeSocial": [
+    "http://twitter.com/iracemaportela",
+    "http://www.facebook.com/iracemaportella"
+  ],
+  "dataNascimento": "1966-04-23",
+  "dataFalecimento": null,
+  "ufNascimento": "PI",
+  "municipioNascimento": "Teresina",
+  "escolaridade": null
+}

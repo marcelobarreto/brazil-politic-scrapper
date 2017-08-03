@@ -1,0 +1,28 @@
+{
+  "id": 36793,
+  "sigla": "PHS",
+  "nome": "Partido Humanista da Solidariedade",
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/partidos/36793",
+  "status": {
+    "data": "2017-01-31 11:00:23.717",
+    "idLegislatura": "55",
+    "situacao": "Ativo",
+    "totalPosse": "5",
+    "totalMemebros": "7",
+    "uriMembros": "https://dadosabertos.camara.leg.br/api/v2/deputados?legislatura=55&partido=PHS",
+    "lider": {
+      "id": 178929,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178929",
+      "nome": "DIEGO GARCIA",
+      "siglaPartido": "PHS",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36793",
+      "uf": "PR",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.gov.br/internet/deputado/bandep/178929.jpg"
+    }
+  },
+  "numeroEleitoral": null,
+  "urlLogo": "http://www.camara.leg.br/internet/Deputado/img/partidos/PHS.gif",
+  "urlWebSite": null,
+  "urlFacebook": null
+}

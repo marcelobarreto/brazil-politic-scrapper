@@ -1,0 +1,37 @@
+{
+  "id": 141507,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141507",
+  "nomeCivil": "MAURO MARIANI",
+  "ultimoStatus": {
+    "id": 141507,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141507",
+    "nome": "MAURO MARIANI",
+    "siglaPartido": "PMDB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36800",
+    "siglaUf": "SC",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/141507.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "MAURO MARIANI",
+    "gabinete": {
+      "nome": "925",
+      "predio": "4",
+      "sala": "925",
+      "andar": "9",
+      "telefone": "3215-5925",
+      "email": "dep.mauromariani@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1964-01-08",
+  "dataFalecimento": null,
+  "ufNascimento": "PR",
+  "municipioNascimento": "Bituruna",
+  "escolaridade": null
+}

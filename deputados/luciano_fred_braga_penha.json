@@ -1,0 +1,37 @@
+{
+  "id": 193982,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/193982",
+  "nomeCivil": "LUCIANO FRED BRAGA PENHA",
+  "ultimoStatus": {
+    "id": 193982,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/193982",
+    "nome": "PASTOR LUCIANO BRAGA",
+    "siglaPartido": "PRB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36815",
+    "siglaUf": "BA",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/193982.jpg",
+    "data": "2016-04-18",
+    "nomeEleitoral": "PASTOR LUCIANO BRAGA",
+    "gabinete": {
+      "nome": "810",
+      "predio": "4",
+      "sala": "810",
+      "andar": "8",
+      "telefone": "3215-5810",
+      "email": "dep.pastorlucianobraga@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Suplente",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1967-08-31",
+  "dataFalecimento": null,
+  "ufNascimento": "CE",
+  "municipioNascimento": "Juazeiro do Norte",
+  "escolaridade": "Superior Incompleto"
+}

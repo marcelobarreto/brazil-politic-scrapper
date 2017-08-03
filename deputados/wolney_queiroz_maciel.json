@@ -1,0 +1,37 @@
+{
+  "id": 74439,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74439",
+  "nomeCivil": "WOLNEY QUEIROZ MACIEL",
+  "ultimoStatus": {
+    "id": 74439,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74439",
+    "nome": "WOLNEY QUEIROZ",
+    "siglaPartido": "PDT",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36786",
+    "siglaUf": "PE",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/74439.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "WOLNEY QUEIROZ",
+    "gabinete": {
+      "nome": "936",
+      "predio": "4",
+      "sala": "936",
+      "andar": "9",
+      "telefone": "3215-5936",
+      "email": "dep.wolneyqueiroz@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1972-12-12",
+  "dataFalecimento": null,
+  "ufNascimento": "PE",
+  "municipioNascimento": "Caruaru",
+  "escolaridade": null
+}

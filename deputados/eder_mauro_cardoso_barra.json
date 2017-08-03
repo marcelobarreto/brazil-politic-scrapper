@@ -1,0 +1,37 @@
+{
+  "id": 178908,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178908",
+  "nomeCivil": "EDER MAURO CARDOSO BARRA",
+  "ultimoStatus": {
+    "id": 178908,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178908",
+    "nome": "DELEGADO ÉDER MAURO",
+    "siglaPartido": "PSD",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36834",
+    "siglaUf": "PA",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/178908.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "DELEGADO ÉDER MAURO",
+    "gabinete": {
+      "nome": "586",
+      "predio": "3",
+      "sala": "586",
+      "andar": null,
+      "telefone": "3215-5586",
+      "email": "dep.delegadoedermauro@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1960-12-14",
+  "dataFalecimento": null,
+  "ufNascimento": "PA",
+  "municipioNascimento": "Belém",
+  "escolaridade": "Superior"
+}

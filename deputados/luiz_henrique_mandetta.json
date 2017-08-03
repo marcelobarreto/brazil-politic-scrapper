@@ -1,0 +1,39 @@
+{
+  "id": 160633,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160633",
+  "nomeCivil": "LUIZ HENRIQUE MANDETTA",
+  "ultimoStatus": {
+    "id": 160633,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160633",
+    "nome": "MANDETTA",
+    "siglaPartido": "DEM",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36769",
+    "siglaUf": "MS",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/160633.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "MANDETTA",
+    "gabinete": {
+      "nome": "577",
+      "predio": "3",
+      "sala": "577",
+      "andar": null,
+      "telefone": "3215-5577",
+      "email": "dep.mandetta@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [
+    "http://www.facebook.com/deputadojosehumberto"
+  ],
+  "dataNascimento": "1964-11-30",
+  "dataFalecimento": null,
+  "ufNascimento": "MS",
+  "municipioNascimento": "Campo Grande",
+  "escolaridade": null
+}

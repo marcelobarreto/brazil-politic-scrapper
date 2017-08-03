@@ -1,0 +1,37 @@
+{
+  "id": 178966,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178966",
+  "nomeCivil": "GEOVANIA DE SA RODRIGUES",
+  "ultimoStatus": {
+    "id": 178966,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178966",
+    "nome": "GEOVANIA DE SÁ",
+    "siglaPartido": "PSDB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36835",
+    "siglaUf": "SC",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/178966.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "GEOVANIA DE SÁ",
+    "gabinete": {
+      "nome": "606",
+      "predio": "4",
+      "sala": "606",
+      "andar": "6",
+      "telefone": "3215-5606",
+      "email": "dep.geovaniadesa@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "F",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1972-03-30",
+  "dataFalecimento": null,
+  "ufNascimento": "SC",
+  "municipioNascimento": "Criciúma",
+  "escolaridade": "Pós-Graduação"
+}

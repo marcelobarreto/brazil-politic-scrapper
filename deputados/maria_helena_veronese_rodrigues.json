@@ -1,0 +1,37 @@
+{
+  "id": 64960,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/64960",
+  "nomeCivil": "MARIA HELENA VERONESE RODRIGUES",
+  "ultimoStatus": {
+    "id": 64960,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/64960",
+    "nome": "MARIA HELENA",
+    "siglaPartido": "PSB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36832",
+    "siglaUf": "RR",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/64960.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "MARIA HELENA",
+    "gabinete": {
+      "nome": "410",
+      "predio": "4",
+      "sala": "410",
+      "andar": "4",
+      "telefone": "3215-5410",
+      "email": "dep.mariahelena@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "F",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1949-06-15",
+  "dataFalecimento": null,
+  "ufNascimento": "RS",
+  "municipioNascimento": "Santo Ângelo",
+  "escolaridade": "Superior"
+}

@@ -1,0 +1,37 @@
+{
+  "id": 178845,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178845",
+  "nomeCivil": "RONALDO AUGUSTO LESSA SANTOS",
+  "ultimoStatus": {
+    "id": 178845,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178845",
+    "nome": "RONALDO LESSA",
+    "siglaPartido": "PDT",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36786",
+    "siglaUf": "AL",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/178845.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "RONALDO LESSA",
+    "gabinete": {
+      "nome": "722",
+      "predio": "4",
+      "sala": "722",
+      "andar": "7",
+      "telefone": "3215-5722",
+      "email": "dep.ronaldolessa@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1949-04-25",
+  "dataFalecimento": null,
+  "ufNascimento": "AL",
+  "municipioNascimento": "Maceió",
+  "escolaridade": "Superior"
+}

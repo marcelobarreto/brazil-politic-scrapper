@@ -1,0 +1,37 @@
+{
+  "id": 73714,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73714",
+  "nomeCivil": "José Reinaldo Carneiro Tavares",
+  "ultimoStatus": {
+    "id": 73714,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73714",
+    "nome": "JOSÉ REINALDO",
+    "siglaPartido": "PSB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36832",
+    "siglaUf": "MA",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/73714.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "JOSÉ REINALDO",
+    "gabinete": {
+      "nome": "529",
+      "predio": "4",
+      "sala": "529",
+      "andar": "5",
+      "telefone": "3215-5529",
+      "email": "dep.josereinaldo@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1939-03-19",
+  "dataFalecimento": null,
+  "ufNascimento": "MA",
+  "municipioNascimento": "São Luís",
+  "escolaridade": "Superior"
+}

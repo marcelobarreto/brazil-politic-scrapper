@@ -1,0 +1,37 @@
+{
+  "id": 74254,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74254",
+  "nomeCivil": "LEONARDO CARNEIRO MONTEIRO PICCIANI",
+  "ultimoStatus": {
+    "id": 74254,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74254",
+    "nome": "LEONARDO PICCIANI",
+    "siglaPartido": "PMDB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36800",
+    "siglaUf": "RJ",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/74254.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "LEONARDO PICCIANI",
+    "gabinete": {
+      "nome": "467",
+      "predio": "3",
+      "sala": "467",
+      "andar": null,
+      "telefone": "3215-5467",
+      "email": "dep.leonardopicciani@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1979-11-06",
+  "dataFalecimento": null,
+  "ufNascimento": "RJ",
+  "municipioNascimento": "Nilópolis",
+  "escolaridade": null
+}

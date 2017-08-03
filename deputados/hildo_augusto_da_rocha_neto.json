@@ -1,0 +1,37 @@
+{
+  "id": 178884,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178884",
+  "nomeCivil": "HILDO AUGUSTO DA ROCHA NETO",
+  "ultimoStatus": {
+    "id": 178884,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178884",
+    "nome": "HILDO ROCHA",
+    "siglaPartido": "PMDB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36800",
+    "siglaUf": "MA",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/178884.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "HILDO ROCHA",
+    "gabinete": {
+      "nome": "734",
+      "predio": "4",
+      "sala": "734",
+      "andar": "7",
+      "telefone": "3215-5734",
+      "email": "dep.hildorocha@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1960-04-22",
+  "dataFalecimento": null,
+  "ufNascimento": "MA",
+  "municipioNascimento": "São Luís",
+  "escolaridade": "Pós-Graduação"
+}

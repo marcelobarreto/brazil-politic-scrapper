@@ -1,0 +1,37 @@
+{
+  "id": 178873,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178873",
+  "nomeCivil": "HELDER IGNACIO SALOMAO",
+  "ultimoStatus": {
+    "id": 178873,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178873",
+    "nome": "HELDER SALOMÃO",
+    "siglaPartido": "PT",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36844",
+    "siglaUf": "ES",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/178873.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "HELDER SALOMÃO",
+    "gabinete": {
+      "nome": "573",
+      "predio": "3",
+      "sala": "573",
+      "andar": null,
+      "telefone": "3215-5573",
+      "email": "dep.heldersalomao@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1964-03-08",
+  "dataFalecimento": null,
+  "ufNascimento": "ES",
+  "municipioNascimento": "Colatina",
+  "escolaridade": "Pós-Graduação"
+}

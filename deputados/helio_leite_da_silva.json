@@ -1,0 +1,37 @@
+{
+  "id": 178909,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178909",
+  "nomeCivil": "HELIO LEITE DA SILVA",
+  "ultimoStatus": {
+    "id": 178909,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178909",
+    "nome": "HÉLIO LEITE",
+    "siglaPartido": "DEM",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36769",
+    "siglaUf": "PA",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/178909.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "HÉLIO LEITE",
+    "gabinete": {
+      "nome": "403",
+      "predio": "4",
+      "sala": "403",
+      "andar": "4",
+      "telefone": "3215-5403",
+      "email": "dep.helioleite@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1957-12-09",
+  "dataFalecimento": null,
+  "ufNascimento": "PA",
+  "municipioNascimento": "Castanhal",
+  "escolaridade": "Superior"
+}

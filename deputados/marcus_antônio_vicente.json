@@ -1,0 +1,37 @@
+{
+  "id": 74235,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74235",
+  "nomeCivil": "MARCUS ANTÔNIO VICENTE",
+  "ultimoStatus": {
+    "id": 74235,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74235",
+    "nome": "MARCUS VICENTE",
+    "siglaPartido": "PP",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36809",
+    "siglaUf": "ES",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/74235.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "MARCUS VICENTE",
+    "gabinete": {
+      "nome": "360",
+      "predio": "4",
+      "sala": "360",
+      "andar": "3",
+      "telefone": "3215-5360",
+      "email": "dep.marcusvicente@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1954-04-28",
+  "dataFalecimento": null,
+  "ufNascimento": "ES",
+  "municipioNascimento": "Ibiraçu",
+  "escolaridade": "Superior"
+}

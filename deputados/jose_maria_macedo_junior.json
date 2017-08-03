@@ -1,0 +1,37 @@
+{
+  "id": 178867,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178867",
+  "nomeCivil": "JOSE MARIA MACEDO JUNIOR",
+  "ultimoStatus": {
+    "id": 178867,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178867",
+    "nome": "MACEDO",
+    "siglaPartido": "PP",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36809",
+    "siglaUf": "CE",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/178867.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "MACEDO",
+    "gabinete": {
+      "nome": "214",
+      "predio": "4",
+      "sala": "214",
+      "andar": "2",
+      "telefone": "3215-5214",
+      "email": "dep.macedo@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1960-05-28",
+  "dataFalecimento": null,
+  "ufNascimento": "CE",
+  "municipioNascimento": "Fortaleza",
+  "escolaridade": "Superior Incompleto"
+}

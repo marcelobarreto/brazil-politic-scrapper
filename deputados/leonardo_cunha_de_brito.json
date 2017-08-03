@@ -1,0 +1,39 @@
+{
+  "id": 178825,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178825",
+  "nomeCivil": "LEONARDO CUNHA DE BRITO",
+  "ultimoStatus": {
+    "id": 178825,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178825",
+    "nome": "LEO DE BRITO",
+    "siglaPartido": "PT",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36844",
+    "siglaUf": "AC",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/178825.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "LEO DE BRITO",
+    "gabinete": {
+      "nome": "619",
+      "predio": "4",
+      "sala": "619",
+      "andar": "6",
+      "telefone": "3215-5619",
+      "email": "dep.leodebrito@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [
+    "www.facebook.com/leodopt1331"
+  ],
+  "dataNascimento": "1979-04-13",
+  "dataFalecimento": null,
+  "ufNascimento": "AC",
+  "municipioNascimento": "Rio Branco",
+  "escolaridade": "Mestrado"
+}

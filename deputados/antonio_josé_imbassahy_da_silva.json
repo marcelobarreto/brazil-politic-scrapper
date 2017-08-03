@@ -1,0 +1,43 @@
+{
+  "id": 160530,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160530",
+  "nomeCivil": "ANTONIO JOSÉ IMBASSAHY DA SILVA",
+  "ultimoStatus": {
+    "id": 160530,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160530",
+    "nome": "ANTONIO IMBASSAHY",
+    "siglaPartido": "PSDB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36835",
+    "siglaUf": "BA",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/160530.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "ANTONIO IMBASSAHY",
+    "gabinete": {
+      "nome": "618",
+      "predio": "4",
+      "sala": "618",
+      "andar": "6",
+      "telefone": "3215-5618",
+      "email": "dep.antonioimbassahy@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [
+    "http://www.orkut.com.br/Main#Profile?uid=1280179261670251204",
+    "https://twitter.com/#!/Dep_Imbassahy",
+    "http://www.flickr.com/photos/imbassahy/",
+    "https://www.facebook.com/antonio.imbassahy?sk=wall",
+    "http://www.youtube.com/user/DepImbassahy"
+  ],
+  "dataNascimento": "1948-03-12",
+  "dataFalecimento": null,
+  "ufNascimento": "BA",
+  "municipioNascimento": "Salvador",
+  "escolaridade": null
+}

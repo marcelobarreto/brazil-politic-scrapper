@@ -1,0 +1,37 @@
+{
+  "id": 118594,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/118594",
+  "nomeCivil": "MARCELO SQUASSONI",
+  "ultimoStatus": {
+    "id": 118594,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/118594",
+    "nome": "MARCELO SQUASSONI",
+    "siglaPartido": "PRB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36815",
+    "siglaUf": "SP",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/118594.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "MARCELO SQUASSONI",
+    "gabinete": {
+      "nome": "550",
+      "predio": "4",
+      "sala": "550",
+      "andar": "5",
+      "telefone": "3215-5550",
+      "email": "dep.marcelosquassoni@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1967-09-14",
+  "dataFalecimento": null,
+  "ufNascimento": "SP",
+  "municipioNascimento": "São Paulo",
+  "escolaridade": "Superior"
+}

@@ -1,0 +1,37 @@
+{
+  "id": 160617,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160617",
+  "nomeCivil": "THIAGO MELLO PEIXOTO DA SILVEIRA",
+  "ultimoStatus": {
+    "id": 160617,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160617",
+    "nome": "THIAGO PEIXOTO",
+    "siglaPartido": "PSD",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36834",
+    "siglaUf": "GO",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/160617.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "THIAGO PEIXOTO",
+    "gabinete": {
+      "nome": "941",
+      "predio": "4",
+      "sala": "941",
+      "andar": "9",
+      "telefone": "3215-5941",
+      "email": "dep.thiagopeixoto@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1974-07-22",
+  "dataFalecimento": null,
+  "ufNascimento": "DF",
+  "municipioNascimento": "Brasília",
+  "escolaridade": "Pós-Graduação"
+}

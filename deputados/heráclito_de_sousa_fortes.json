@@ -1,0 +1,37 @@
+{
+  "id": 97707,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/97707",
+  "nomeCivil": "HERÁCLITO DE SOUSA FORTES",
+  "ultimoStatus": {
+    "id": 97707,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/97707",
+    "nome": "HERÁCLITO FORTES",
+    "siglaPartido": "PSB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36832",
+    "siglaUf": "PI",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/97707.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "HERÁCLITO FORTES",
+    "gabinete": {
+      "nome": "708",
+      "predio": "4",
+      "sala": "708",
+      "andar": "7",
+      "telefone": "3215-5708",
+      "email": "dep.heraclitofortes@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1950-08-01",
+  "dataFalecimento": null,
+  "ufNascimento": "PI",
+  "municipioNascimento": "Teresina",
+  "escolaridade": "Superior Incompleto"
+}

@@ -1,0 +1,40 @@
+{
+  "id": 74075,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74075",
+  "nomeCivil": "ELCIONE THEREZINHA ZAHLUTH BARBALHO",
+  "ultimoStatus": {
+    "id": 74075,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74075",
+    "nome": "ELCIONE BARBALHO",
+    "siglaPartido": "PMDB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36800",
+    "siglaUf": "PA",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/74075.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "ELCIONE BARBALHO",
+    "gabinete": {
+      "nome": "919",
+      "predio": "4",
+      "sala": "919",
+      "andar": "9",
+      "telefone": "3215-5919",
+      "email": "dep.elcionebarbalho@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "F",
+  "urlWebsite": null,
+  "redeSocial": [
+    "http://twitter.com/elcionepmdb",
+    "http://www.facebook.com/elcionepmdb"
+  ],
+  "dataNascimento": "1944-10-05",
+  "dataFalecimento": null,
+  "ufNascimento": "PA",
+  "municipioNascimento": "Belém",
+  "escolaridade": null
+}

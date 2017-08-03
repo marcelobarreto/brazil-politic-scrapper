@@ -1,0 +1,37 @@
+{
+  "id": 99654,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/99654",
+  "nomeCivil": "ERIVELTON LIMA SANTANA",
+  "ultimoStatus": {
+    "id": 99654,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/99654",
+    "nome": "ERIVELTON SANTANA",
+    "siglaPartido": "PEN",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36761",
+    "siglaUf": "BA",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/99654.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "ERIVELTON SANTANA",
+    "gabinete": {
+      "nome": "756",
+      "predio": "4",
+      "sala": "756",
+      "andar": "7",
+      "telefone": "3215-5756",
+      "email": "dep.eriveltonsantana@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1965-01-29",
+  "dataFalecimento": null,
+  "ufNascimento": "BA",
+  "municipioNascimento": "Salvador",
+  "escolaridade": null
+}

@@ -1,0 +1,37 @@
+{
+  "id": 178889,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178889",
+  "nomeCivil": "JOSÉ CARLOS NUNES JÚNIOR",
+  "ultimoStatus": {
+    "id": 178889,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178889",
+    "nome": "ZÉ CARLOS",
+    "siglaPartido": "PT",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36844",
+    "siglaUf": "MA",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/178889.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "ZÉ CARLOS",
+    "gabinete": {
+      "nome": "748",
+      "predio": "4",
+      "sala": "748",
+      "andar": "7",
+      "telefone": "3215-5748",
+      "email": "dep.zecarlos@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1955-05-26",
+  "dataFalecimento": null,
+  "ufNascimento": "MA",
+  "municipioNascimento": "São Luís",
+  "escolaridade": "Superior"
+}

@@ -1,0 +1,37 @@
+{
+  "id": 74688,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74688",
+  "nomeCivil": "LUIZ SÉRGIO NÓBREGA DE OLIVEIRA",
+  "ultimoStatus": {
+    "id": 74688,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74688",
+    "nome": "LUIZ SÉRGIO",
+    "siglaPartido": "PT",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36844",
+    "siglaUf": "RJ",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/74688.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "LUIZ SÉRGIO",
+    "gabinete": {
+      "nome": "409",
+      "predio": "4",
+      "sala": "409",
+      "andar": "4",
+      "telefone": "3215-5409",
+      "email": "dep.luizsergio@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1958-04-09",
+  "dataFalecimento": null,
+  "ufNascimento": "RJ",
+  "municipioNascimento": "Angra dos Reis",
+  "escolaridade": null
+}

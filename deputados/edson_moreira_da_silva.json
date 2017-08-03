@@ -1,0 +1,42 @@
+{
+  "id": 178893,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178893",
+  "nomeCivil": "EDSON MOREIRA DA SILVA",
+  "ultimoStatus": {
+    "id": 178893,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178893",
+    "nome": "DELEGADO EDSON MOREIRA",
+    "siglaPartido": "PR",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36814",
+    "siglaUf": "MG",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/178893.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "DELEGADO EDSON MOREIRA",
+    "gabinete": {
+      "nome": "933",
+      "predio": "4",
+      "sala": "933",
+      "andar": "9",
+      "telefone": "3215-5933",
+      "email": "dep.delegadoedsonmoreira@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [
+    "Delegado Edson Moreira Político",
+    "@DelegadoMoreira",
+    "delegadomoreira",
+    "/user/DelegadoEdsonMoreira"
+  ],
+  "dataNascimento": "1959-04-16",
+  "dataFalecimento": null,
+  "ufNascimento": "SP",
+  "municipioNascimento": "São Paulo",
+  "escolaridade": "Pós-Graduação"
+}

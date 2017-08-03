@@ -1,0 +1,37 @@
+{
+  "id": 81366,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/81366",
+  "nomeCivil": "LUANA MARIA DA SILVA COSTA",
+  "ultimoStatus": {
+    "id": 81366,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/81366",
+    "nome": "LUANA COSTA",
+    "siglaPartido": "PSB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36832",
+    "siglaUf": "MA",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/81366.jpg",
+    "data": "2016-12-19",
+    "nomeEleitoral": "LUANA COSTA",
+    "gabinete": {
+      "nome": "324",
+      "predio": "4",
+      "sala": "324",
+      "andar": "3",
+      "telefone": "3215-5324",
+      "email": "dep.luanacosta@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Efetivado",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "F",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1969-10-14",
+  "dataFalecimento": null,
+  "ufNascimento": "MA",
+  "municipioNascimento": "Peri Mirim",
+  "escolaridade": "Superior"
+}

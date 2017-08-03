@@ -1,0 +1,41 @@
+{
+  "id": 160622,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160622",
+  "nomeCivil": "VICENTE CÂNDIDO DA SILVA",
+  "ultimoStatus": {
+    "id": 160622,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160622",
+    "nome": "VICENTE CANDIDO",
+    "siglaPartido": "PT",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36844",
+    "siglaUf": "SP",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/160622.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "VICENTE CANDIDO",
+    "gabinete": {
+      "nome": "819",
+      "predio": "4",
+      "sala": "819",
+      "andar": "8",
+      "telefone": "3215-5819",
+      "email": "dep.vicentecandido@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [
+    "https://twitter.com/vicente_candido",
+    "http://www.flickr.com/people/deputadovicentecandido/",
+    "https://www.facebook.com/deputadovicentecandido?fref=ts"
+  ],
+  "dataNascimento": "1959-11-17",
+  "dataFalecimento": null,
+  "ufNascimento": "MG",
+  "municipioNascimento": "Bom Jesus do Galho",
+  "escolaridade": "Pós-Graduação"
+}

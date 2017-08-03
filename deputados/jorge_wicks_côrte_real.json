@@ -1,0 +1,37 @@
+{
+  "id": 160572,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160572",
+  "nomeCivil": "JORGE WICKS CÔRTE REAL",
+  "ultimoStatus": {
+    "id": 160572,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160572",
+    "nome": "JORGE CÔRTE REAL",
+    "siglaPartido": "PTB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36845",
+    "siglaUf": "PE",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/160572.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "JORGE CÔRTE REAL",
+    "gabinete": {
+      "nome": "621",
+      "predio": "4",
+      "sala": "621",
+      "andar": "6",
+      "telefone": "3215-5621",
+      "email": "dep.jorgecortereal@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1951-05-09",
+  "dataFalecimento": null,
+  "ufNascimento": "BA",
+  "municipioNascimento": "Salvador",
+  "escolaridade": null
+}

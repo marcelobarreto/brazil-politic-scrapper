@@ -1,0 +1,39 @@
+{
+  "id": 74095,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74095",
+  "nomeCivil": "PAUDERNEY TOMAZ AVELINO",
+  "ultimoStatus": {
+    "id": 74095,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74095",
+    "nome": "PAUDERNEY AVELINO",
+    "siglaPartido": "DEM",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36769",
+    "siglaUf": "AM",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/74095.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "PAUDERNEY AVELINO",
+    "gabinete": {
+      "nome": "610",
+      "predio": "4",
+      "sala": "610",
+      "andar": "6",
+      "telefone": "3215-5610",
+      "email": "dep.pauderneyavelino@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [
+    "http://www.twitter.com/pauderney"
+  ],
+  "dataNascimento": "1954-09-24",
+  "dataFalecimento": null,
+  "ufNascimento": "AM",
+  "municipioNascimento": "Eirunepé",
+  "escolaridade": null
+}

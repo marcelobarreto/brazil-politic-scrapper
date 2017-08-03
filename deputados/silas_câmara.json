@@ -1,0 +1,37 @@
+{
+  "id": 74356,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74356",
+  "nomeCivil": "SILAS CÂMARA",
+  "ultimoStatus": {
+    "id": 74356,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74356",
+    "nome": "SILAS CÂMARA",
+    "siglaPartido": "PRB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36815",
+    "siglaUf": "AM",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/74356.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "SILAS CÂMARA",
+    "gabinete": {
+      "nome": "532",
+      "predio": "4",
+      "sala": "532",
+      "andar": "5",
+      "telefone": "3215-5532",
+      "email": "dep.silascamara@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1962-12-15",
+  "dataFalecimento": null,
+  "ufNascimento": "AC",
+  "municipioNascimento": "Rio Branco",
+  "escolaridade": null
+}

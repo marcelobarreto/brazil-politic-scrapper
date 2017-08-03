@@ -1,0 +1,41 @@
+{
+  "id": 160758,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160758",
+  "nomeCivil": "DOMINGOS SÁVIO CAMPOS RESENDE",
+  "ultimoStatus": {
+    "id": 160758,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160758",
+    "nome": "DOMINGOS SÁVIO",
+    "siglaPartido": "PSDB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36835",
+    "siglaUf": "MG",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/160758.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "DOMINGOS SÁVIO",
+    "gabinete": {
+      "nome": "345",
+      "predio": "4",
+      "sala": "345",
+      "andar": "3",
+      "telefone": "3215-5345",
+      "email": "dep.domingossavio@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [
+    "http://twitter.com/erosbiondini",
+    "http://www.facebook.com/erosbiondini",
+    "http://www.youtube.com/erosbiondini"
+  ],
+  "dataNascimento": "1957-03-25",
+  "dataFalecimento": null,
+  "ufNascimento": "MG",
+  "municipioNascimento": "São Tiago",
+  "escolaridade": null
+}

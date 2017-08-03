@@ -1,0 +1,37 @@
+{
+  "id": 178983,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178983",
+  "nomeCivil": "MARCIO LUIZ ALVINO DE SOUZA",
+  "ultimoStatus": {
+    "id": 178983,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178983",
+    "nome": "MARCIO ALVINO",
+    "siglaPartido": "PR",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36814",
+    "siglaUf": "SP",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/178983.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "MARCIO ALVINO",
+    "gabinete": {
+      "nome": "331",
+      "predio": "4",
+      "sala": "331",
+      "andar": "3",
+      "telefone": "3215-5331",
+      "email": "dep.marcioalvino@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1969-06-14",
+  "dataFalecimento": null,
+  "ufNascimento": "SP",
+  "municipioNascimento": "São Paulo",
+  "escolaridade": "Superior"
+}

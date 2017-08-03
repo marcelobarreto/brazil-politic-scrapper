@@ -1,0 +1,37 @@
+{
+  "id": 178904,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178904",
+  "nomeCivil": "EZEQUIEL ANGELO FONSECA",
+  "ultimoStatus": {
+    "id": 178904,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178904",
+    "nome": "EZEQUIEL FONSECA",
+    "siglaPartido": "PP",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36809",
+    "siglaUf": "MT",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/178904.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "EZEQUIEL FONSECA",
+    "gabinete": {
+      "nome": "658",
+      "predio": "4",
+      "sala": "658",
+      "andar": "6",
+      "telefone": "3215-5658",
+      "email": "dep.ezequielfonseca@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1963-10-28",
+  "dataFalecimento": null,
+  "ufNascimento": "SP",
+  "municipioNascimento": "Santa Albertina",
+  "escolaridade": "Superior"
+}

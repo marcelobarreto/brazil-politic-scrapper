@@ -1,0 +1,37 @@
+{
+  "id": 151965,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/151965",
+  "nomeCivil": "JOSÉ DE ANDRADE MAIA FILHO",
+  "ultimoStatus": {
+    "id": 151965,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/151965",
+    "nome": "MAIA FILHO",
+    "siglaPartido": "PP",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36809",
+    "siglaUf": "PI",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/151965.jpg",
+    "data": "2015-05-12",
+    "nomeEleitoral": "MAIA FILHO",
+    "gabinete": {
+      "nome": "624",
+      "predio": "4",
+      "sala": "624",
+      "andar": "6",
+      "telefone": "3215-5624",
+      "email": "dep.maiafilho@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Suplente",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1974-07-31",
+  "dataFalecimento": null,
+  "ufNascimento": "PI",
+  "municipioNascimento": "Picos",
+  "escolaridade": "Superior"
+}

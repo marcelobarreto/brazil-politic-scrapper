@@ -1,0 +1,37 @@
+{
+  "id": 74172,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74172",
+  "nomeCivil": "WANDERLEY ALVES DE OLIVEIRA",
+  "ultimoStatus": {
+    "id": 74172,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74172",
+    "nome": "DELEY",
+    "siglaPartido": "PTB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36845",
+    "siglaUf": "RJ",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/74172.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "DELEY",
+    "gabinete": {
+      "nome": "742",
+      "predio": "4",
+      "sala": "742",
+      "andar": "7",
+      "telefone": "3215-5742",
+      "email": "dep.deley@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1959-08-28",
+  "dataFalecimento": null,
+  "ufNascimento": "RJ",
+  "municipioNascimento": "Volta Redonda",
+  "escolaridade": null
+}

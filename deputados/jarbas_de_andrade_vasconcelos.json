@@ -1,0 +1,37 @@
+{
+  "id": 131943,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/131943",
+  "nomeCivil": "Jarbas de Andrade Vasconcelos",
+  "ultimoStatus": {
+    "id": 131943,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/131943",
+    "nome": "JARBAS VASCONCELOS",
+    "siglaPartido": "PMDB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36800",
+    "siglaUf": "PE",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/131943.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "JARBAS VASCONCELOS",
+    "gabinete": {
+      "nome": "304",
+      "predio": "4",
+      "sala": "304",
+      "andar": "3",
+      "telefone": "3215-5304",
+      "email": "dep.jarbasvasconcelos@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1942-08-23",
+  "dataFalecimento": null,
+  "ufNascimento": "PE",
+  "municipioNascimento": "Vicência",
+  "escolaridade": "Superior"
+}

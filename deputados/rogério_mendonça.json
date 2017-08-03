@@ -1,0 +1,37 @@
+{
+  "id": 160651,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160651",
+  "nomeCivil": "ROGÉRIO MENDONÇA",
+  "ultimoStatus": {
+    "id": 160651,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160651",
+    "nome": "ROGÉRIO PENINHA MENDONÇA",
+    "siglaPartido": "PMDB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36800",
+    "siglaUf": "SC",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/160651.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "ROGÉRIO PENINHA MENDONÇA",
+    "gabinete": {
+      "nome": "656",
+      "predio": "4",
+      "sala": "656",
+      "andar": "6",
+      "telefone": "3215-5656",
+      "email": "dep.rogeriopeninhamendonca@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1953-01-27",
+  "dataFalecimento": null,
+  "ufNascimento": "SC",
+  "municipioNascimento": "Nova Trento",
+  "escolaridade": null
+}

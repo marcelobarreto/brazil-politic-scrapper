@@ -1,0 +1,28 @@
+{
+  "id": 36837,
+  "sigla": "PSL",
+  "nome": "Partido Social Liberal",
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/partidos/36837",
+  "status": {
+    "data": null,
+    "idLegislatura": "55",
+    "situacao": "Ativo",
+    "totalPosse": "1",
+    "totalMemebros": "3",
+    "uriMembros": "https://dadosabertos.camara.leg.br/api/v2/deputados?legislatura=55&partido=PSL",
+    "lider": {
+      "id": 141454,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141454",
+      "nome": "ALFREDO KAEFER",
+      "siglaPartido": "PSL",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36837",
+      "uf": "PR",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.gov.br/internet/deputado/bandep/141454.jpg"
+    }
+  },
+  "numeroEleitoral": null,
+  "urlLogo": "http://www.camara.leg.br/internet/Deputado/img/partidos/PSL.gif",
+  "urlWebSite": null,
+  "urlFacebook": null
+}

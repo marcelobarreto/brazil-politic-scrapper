@@ -1,0 +1,37 @@
+{
+  "id": 141431,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141431",
+  "nomeCivil": "FERNANDO BEZERRA DE SOUZA COELHO FILHO",
+  "ultimoStatus": {
+    "id": 141431,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141431",
+    "nome": "FERNANDO COELHO FILHO",
+    "siglaPartido": "PSB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36832",
+    "siglaUf": "PE",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/141431.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "FERNANDO COELHO FILHO",
+    "gabinete": {
+      "nome": "662",
+      "predio": "4",
+      "sala": "662",
+      "andar": "6",
+      "telefone": "3215-5662",
+      "email": "dep.fernandocoelhofilho@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1984-02-28",
+  "dataFalecimento": null,
+  "ufNascimento": "PE",
+  "municipioNascimento": "Recife",
+  "escolaridade": null
+}

@@ -1,0 +1,37 @@
+{
+  "id": 160596,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160596",
+  "nomeCivil": "HEULER ABREU CRUVINEL",
+  "ultimoStatus": {
+    "id": 160596,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160596",
+    "nome": "HEULER CRUVINEL",
+    "siglaPartido": "PSD",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36834",
+    "siglaUf": "GO",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/160596.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "HEULER CRUVINEL",
+    "gabinete": {
+      "nome": "536",
+      "predio": "4",
+      "sala": "536",
+      "andar": "5",
+      "telefone": "3215-5536",
+      "email": "dep.heulercruvinel@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1978-02-06",
+  "dataFalecimento": null,
+  "ufNascimento": "GO",
+  "municipioNascimento": "Rio Verde",
+  "escolaridade": null
+}

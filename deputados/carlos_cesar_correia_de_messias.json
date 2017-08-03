@@ -1,0 +1,37 @@
+{
+  "id": 178838,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178838",
+  "nomeCivil": "CARLOS CESAR CORREIA DE MESSIAS",
+  "ultimoStatus": {
+    "id": 178838,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178838",
+    "nome": "CÉSAR MESSIAS",
+    "siglaPartido": "PSB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36832",
+    "siglaUf": "AC",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/178838.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "CÉSAR MESSIAS",
+    "gabinete": {
+      "nome": "956",
+      "predio": "4",
+      "sala": "956",
+      "andar": "9",
+      "telefone": "3215-5956",
+      "email": "dep.cesarmessias@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1958-07-05",
+  "dataFalecimento": null,
+  "ufNascimento": "AC",
+  "municipioNascimento": "Cruzeiro do Sul",
+  "escolaridade": "Superior Incompleto"
+}

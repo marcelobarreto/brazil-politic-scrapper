@@ -1,0 +1,37 @@
+{
+  "id": 141478,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141478",
+  "nomeCivil": "LAERTE RODRIGUES DE BESSA",
+  "ultimoStatus": {
+    "id": 141478,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141478",
+    "nome": "LAERTE BESSA",
+    "siglaPartido": "PR",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36814",
+    "siglaUf": "DF",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/141478.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "LAERTE BESSA",
+    "gabinete": {
+      "nome": "340",
+      "predio": "4",
+      "sala": "340",
+      "andar": "3",
+      "telefone": "3215-5340",
+      "email": "dep.laertebessa@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1954-05-01",
+  "dataFalecimento": null,
+  "ufNascimento": "GO",
+  "municipioNascimento": "Goiânia",
+  "escolaridade": "Superior"
+}

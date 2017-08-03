@@ -1,0 +1,37 @@
+{
+  "id": 74460,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74460",
+  "nomeCivil": "MARCELO COSTA E CASTRO",
+  "ultimoStatus": {
+    "id": 74460,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74460",
+    "nome": "MARCELO CASTRO",
+    "siglaPartido": "PMDB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36800",
+    "siglaUf": "PI",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/74460.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "MARCELO CASTRO",
+    "gabinete": {
+      "nome": "811",
+      "predio": "4",
+      "sala": "811",
+      "andar": "8",
+      "telefone": "3215-5811",
+      "email": "dep.marcelocastro@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1950-06-09",
+  "dataFalecimento": null,
+  "ufNascimento": "PI",
+  "municipioNascimento": "São Raimundo Nonato",
+  "escolaridade": null
+}

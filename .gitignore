@@ -1,1 +1,2 @@
-deputies.json
+*.pyc
+__pycache__

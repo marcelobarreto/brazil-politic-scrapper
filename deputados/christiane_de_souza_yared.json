@@ -1,0 +1,37 @@
+{
+  "id": 178928,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178928",
+  "nomeCivil": "CHRISTIANE DE SOUZA YARED",
+  "ultimoStatus": {
+    "id": 178928,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178928",
+    "nome": "CHRISTIANE DE SOUZA YARED",
+    "siglaPartido": "PR",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36814",
+    "siglaUf": "PR",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/178928.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "CHRISTIANE DE SOUZA YARED",
+    "gabinete": {
+      "nome": "201",
+      "predio": "4",
+      "sala": "201",
+      "andar": "2",
+      "telefone": "3215-5201",
+      "email": "dep.christianedesouzayared@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "F",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1960-02-23",
+  "dataFalecimento": null,
+  "ufNascimento": "PR",
+  "municipioNascimento": "Curitiba",
+  "escolaridade": "Ensino Médio"
+}

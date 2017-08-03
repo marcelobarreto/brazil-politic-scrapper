@@ -1,0 +1,37 @@
+{
+  "id": 178866,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178866",
+  "nomeCivil": "LUIZIANNE DE OLIVEIRA LINS",
+  "ultimoStatus": {
+    "id": 178866,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178866",
+    "nome": "LUIZIANNE LINS",
+    "siglaPartido": "PT",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36844",
+    "siglaUf": "CE",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/178866.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "LUIZIANNE LINS",
+    "gabinete": {
+      "nome": "713",
+      "predio": "4",
+      "sala": "713",
+      "andar": "7",
+      "telefone": "3215-5713",
+      "email": "dep.luiziannelins@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "F",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1968-11-18",
+  "dataFalecimento": null,
+  "ufNascimento": "CE",
+  "municipioNascimento": "Fortaleza",
+  "escolaridade": "Superior"
+}

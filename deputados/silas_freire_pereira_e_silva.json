@@ -1,0 +1,37 @@
+{
+  "id": 187008,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/187008",
+  "nomeCivil": "SILAS FREIRE PEREIRA E SILVA",
+  "ultimoStatus": {
+    "id": 187008,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/187008",
+    "nome": "SILAS FREIRE",
+    "siglaPartido": "PODE",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36896",
+    "siglaUf": "PI",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/187008.jpg",
+    "data": "2015-03-12",
+    "nomeEleitoral": "SILAS FREIRE",
+    "gabinete": {
+      "nome": "484",
+      "predio": "3",
+      "sala": "484",
+      "andar": null,
+      "telefone": "3215-5484",
+      "email": "dep.silasfreire@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Suplente",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1971-01-30",
+  "dataFalecimento": null,
+  "ufNascimento": "PI",
+  "municipioNascimento": "Campo Maior",
+  "escolaridade": "Superior Incompleto"
+}

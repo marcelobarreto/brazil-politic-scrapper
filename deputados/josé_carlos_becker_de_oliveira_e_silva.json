@@ -1,0 +1,41 @@
+{
+  "id": 160592,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160592",
+  "nomeCivil": "JOSÉ CARLOS BECKER DE OLIVEIRA E SILVA",
+  "ultimoStatus": {
+    "id": 160592,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160592",
+    "nome": "ZECA DIRCEU",
+    "siglaPartido": "PT",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36844",
+    "siglaUf": "PR",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/160592.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "ZECA DIRCEU",
+    "gabinete": {
+      "nome": "613",
+      "predio": "4",
+      "sala": "613",
+      "andar": "6",
+      "telefone": "3215-5613",
+      "email": "dep.zecadirceu@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [
+    "http://www.orkut.com.br/zecadirceu",
+    "http://www.twitter.com/zeca_dirceu",
+    "http://www.flickr.com/zecadirceu"
+  ],
+  "dataNascimento": "1978-06-21",
+  "dataFalecimento": null,
+  "ufNascimento": "PR",
+  "municipioNascimento": "Umuarama",
+  "escolaridade": null
+}

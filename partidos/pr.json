@@ -1,0 +1,28 @@
+{
+  "id": 36814,
+  "sigla": "PR",
+  "nome": "Partido da República",
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/partidos/36814",
+  "status": {
+    "data": "2017-05-09 20:20:00.37",
+    "idLegislatura": "55",
+    "situacao": "Ativo",
+    "totalPosse": "34",
+    "totalMemebros": "39",
+    "uriMembros": "https://dadosabertos.camara.leg.br/api/v2/deputados?legislatura=55&partido=PR",
+    "lider": {
+      "id": 74554,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74554",
+      "nome": "JOSÉ ROCHA",
+      "siglaPartido": "PR",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36814",
+      "uf": "BA",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.gov.br/internet/deputado/bandep/74554.jpg"
+    }
+  },
+  "numeroEleitoral": null,
+  "urlLogo": "http://www.camara.leg.br/internet/Deputado/img/partidos/PR.gif",
+  "urlWebSite": null,
+  "urlFacebook": null
+}

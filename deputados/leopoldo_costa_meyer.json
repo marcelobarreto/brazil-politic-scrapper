@@ -1,0 +1,41 @@
+{
+  "id": 160663,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160663",
+  "nomeCivil": "LEOPOLDO COSTA MEYER",
+  "ultimoStatus": {
+    "id": 160663,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160663",
+    "nome": "LEOPOLDO MEYER",
+    "siglaPartido": "PSB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36832",
+    "siglaUf": "PR",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/160663.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "LEOPOLDO MEYER",
+    "gabinete": {
+      "nome": "233",
+      "predio": "4",
+      "sala": "233",
+      "andar": "2",
+      "telefone": "3215-5233",
+      "email": "dep.leopoldomeyer@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [
+    "http://www.orkut.com.br/augustocoutinhoperfil4",
+    "http://www.twitter.com/augustocmelo",
+    "http://www.facebook.com/augustocoutinhodemelo"
+  ],
+  "dataNascimento": "1949-11-29",
+  "dataFalecimento": null,
+  "ufNascimento": "PR",
+  "municipioNascimento": "Londrina",
+  "escolaridade": null
+}

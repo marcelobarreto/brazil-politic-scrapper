@@ -1,0 +1,37 @@
+{
+  "id": 178971,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178971",
+  "nomeCivil": "JONY MARCOS DE SOUZA ARAUJO",
+  "ultimoStatus": {
+    "id": 178971,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178971",
+    "nome": "JONY MARCOS",
+    "siglaPartido": "PRB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36815",
+    "siglaUf": "SE",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/178971.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "JONY MARCOS",
+    "gabinete": {
+      "nome": "807",
+      "predio": "4",
+      "sala": "807",
+      "andar": "8",
+      "telefone": "3215-5807",
+      "email": "dep.jonymarcos@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1977-09-30",
+  "dataFalecimento": null,
+  "ufNascimento": "MS",
+  "municipioNascimento": "Ponta Porã",
+  "escolaridade": "Superior Incompleto"
+}

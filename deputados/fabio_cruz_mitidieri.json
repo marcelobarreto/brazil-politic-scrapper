@@ -1,0 +1,37 @@
+{
+  "id": 178969,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178969",
+  "nomeCivil": "FABIO CRUZ MITIDIERI",
+  "ultimoStatus": {
+    "id": 178969,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178969",
+    "nome": "FÁBIO MITIDIERI",
+    "siglaPartido": "PSD",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36834",
+    "siglaUf": "SE",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/178969.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "FÁBIO MITIDIERI",
+    "gabinete": {
+      "nome": "286",
+      "predio": "3",
+      "sala": "286",
+      "andar": null,
+      "telefone": "3215-5286",
+      "email": "dep.fabiomitidieri@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1977-02-24",
+  "dataFalecimento": null,
+  "ufNascimento": "SE",
+  "municipioNascimento": "Aracaju",
+  "escolaridade": "Superior"
+}

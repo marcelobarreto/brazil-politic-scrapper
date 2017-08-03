@@ -1,0 +1,37 @@
+{
+  "id": 122466,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/122466",
+  "nomeCivil": "RONALDO MANCHADO MARTINS",
+  "ultimoStatus": {
+    "id": 122466,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/122466",
+    "nome": "RONALDO MARTINS",
+    "siglaPartido": "PRB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36815",
+    "siglaUf": "CE",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/122466.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "RONALDO MARTINS",
+    "gabinete": {
+      "nome": "568",
+      "predio": "3",
+      "sala": "568",
+      "andar": null,
+      "telefone": "3215-5568",
+      "email": "dep.ronaldomartins@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1978-01-21",
+  "dataFalecimento": null,
+  "ufNascimento": "SP",
+  "municipioNascimento": "São Paulo",
+  "escolaridade": "Ensino Médio"
+}

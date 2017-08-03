@@ -1,0 +1,37 @@
+{
+  "id": 178872,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178872",
+  "nomeCivil": "GIVALDO VIEIRA DA SILVA",
+  "ultimoStatus": {
+    "id": 178872,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178872",
+    "nome": "GIVALDO VIEIRA",
+    "siglaPartido": "PT",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36844",
+    "siglaUf": "ES",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/178872.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "GIVALDO VIEIRA",
+    "gabinete": {
+      "nome": "805",
+      "predio": "4",
+      "sala": "805",
+      "andar": "8",
+      "telefone": "3215-5805",
+      "email": "dep.givaldovieira@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1969-10-28",
+  "dataFalecimento": null,
+  "ufNascimento": "ES",
+  "municipioNascimento": "Afonso Cláudio",
+  "escolaridade": "Superior"
+}

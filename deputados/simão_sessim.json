@@ -1,0 +1,37 @@
+{
+  "id": 73424,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73424",
+  "nomeCivil": "SIMÃO SESSIM",
+  "ultimoStatus": {
+    "id": 73424,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73424",
+    "nome": "SIMÃO SESSIM",
+    "siglaPartido": "PP",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36809",
+    "siglaUf": "RJ",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/73424.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "SIMÃO SESSIM",
+    "gabinete": {
+      "nome": "709",
+      "predio": "4",
+      "sala": "709",
+      "andar": "7",
+      "telefone": "3215-5709",
+      "email": "dep.simaosessim@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1935-12-08",
+  "dataFalecimento": null,
+  "ufNascimento": "RJ",
+  "municipioNascimento": "Rio de Janeiro",
+  "escolaridade": null
+}

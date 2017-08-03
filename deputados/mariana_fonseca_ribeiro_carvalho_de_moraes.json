@@ -1,0 +1,37 @@
+{
+  "id": 178956,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178956",
+  "nomeCivil": "MARIANA FONSECA RIBEIRO CARVALHO DE MORAES",
+  "ultimoStatus": {
+    "id": 178956,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178956",
+    "nome": "MARIANA CARVALHO",
+    "siglaPartido": "PSDB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36835",
+    "siglaUf": "RO",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/178956.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "MARIANA CARVALHO",
+    "gabinete": {
+      "nome": "508",
+      "predio": "4",
+      "sala": "508",
+      "andar": "5",
+      "telefone": "3215-5508",
+      "email": "dep.marianacarvalho@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "F",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1986-11-26",
+  "dataFalecimento": null,
+  "ufNascimento": "SP",
+  "municipioNascimento": "São Paulo",
+  "escolaridade": "Superior"
+}

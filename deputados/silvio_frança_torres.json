@@ -1,0 +1,37 @@
+{
+  "id": 73560,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73560",
+  "nomeCivil": "SILVIO FRANÇA TORRES",
+  "ultimoStatus": {
+    "id": 73560,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73560",
+    "nome": "SILVIO TORRES",
+    "siglaPartido": "PSDB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36835",
+    "siglaUf": "SP",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/73560.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "SILVIO TORRES",
+    "gabinete": {
+      "nome": "404",
+      "predio": "4",
+      "sala": "404",
+      "andar": "4",
+      "telefone": "3215-5404",
+      "email": "dep.silviotorres@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1946-06-01",
+  "dataFalecimento": null,
+  "ufNascimento": "SP",
+  "municipioNascimento": "São José do Rio Pardo",
+  "escolaridade": "Superior"
+}

@@ -1,0 +1,37 @@
+{
+  "id": 178994,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178994",
+  "nomeCivil": "DULCE FERREIRA PAGANI MIRANDA",
+  "ultimoStatus": {
+    "id": 178994,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178994",
+    "nome": "DULCE MIRANDA",
+    "siglaPartido": "PMDB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36800",
+    "siglaUf": "TO",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/178994.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "DULCE MIRANDA",
+    "gabinete": {
+      "nome": "530",
+      "predio": "4",
+      "sala": "530",
+      "andar": "5",
+      "telefone": "3215-5530",
+      "email": "dep.dulcemiranda@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "F",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1963-12-15",
+  "dataFalecimento": null,
+  "ufNascimento": "MG",
+  "municipioNascimento": "Pocrane",
+  "escolaridade": "Superior"
+}

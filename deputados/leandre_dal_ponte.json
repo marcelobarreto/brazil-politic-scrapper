@@ -1,0 +1,37 @@
+{
+  "id": 178832,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178832",
+  "nomeCivil": "LEANDRE DAL PONTE",
+  "ultimoStatus": {
+    "id": 178832,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178832",
+    "nome": "LEANDRE",
+    "siglaPartido": "PV",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36851",
+    "siglaUf": "PR",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/178832.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "LEANDRE",
+    "gabinete": {
+      "nome": "454",
+      "predio": "4",
+      "sala": "454",
+      "andar": "4",
+      "telefone": "3215-5454",
+      "email": "dep.leandre@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "F",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1975-12-20",
+  "dataFalecimento": null,
+  "ufNascimento": "PR",
+  "municipioNascimento": "Pato Branco",
+  "escolaridade": "Superior"
+}

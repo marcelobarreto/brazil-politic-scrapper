@@ -1,0 +1,37 @@
+{
+  "id": 160578,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160578",
+  "nomeCivil": "EDMAR DE SOUZA ARRUDA",
+  "ultimoStatus": {
+    "id": 160578,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160578",
+    "nome": "EDMAR ARRUDA",
+    "siglaPartido": "PSD",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36834",
+    "siglaUf": "PR",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/160578.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "EDMAR ARRUDA",
+    "gabinete": {
+      "nome": "962",
+      "predio": "4",
+      "sala": "962",
+      "andar": "9",
+      "telefone": "3215-5962",
+      "email": "dep.edmararruda@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1959-09-26",
+  "dataFalecimento": null,
+  "ufNascimento": "PR",
+  "municipioNascimento": "Maringá",
+  "escolaridade": null
+}

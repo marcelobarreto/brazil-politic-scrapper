@@ -1,0 +1,37 @@
+{
+  "id": 178943,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178943",
+  "nomeCivil": "MARCOS BEZERRA RIBEIRO SOARES",
+  "ultimoStatus": {
+    "id": 178943,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178943",
+    "nome": "MARCOS SOARES",
+    "siglaPartido": "DEM",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36769",
+    "siglaUf": "RJ",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/178943.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "MARCOS SOARES",
+    "gabinete": {
+      "nome": "741",
+      "predio": "4",
+      "sala": "741",
+      "andar": "7",
+      "telefone": "3215-5741",
+      "email": "dep.marcossoares@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1978-05-16",
+  "dataFalecimento": null,
+  "ufNascimento": "RJ",
+  "municipioNascimento": "Rio de Janeiro",
+  "escolaridade": "Superior"
+}

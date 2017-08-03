@@ -1,0 +1,37 @@
+{
+  "id": 178970,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178970",
+  "nomeCivil": "JOAO SOMARIVA DANIEL",
+  "ultimoStatus": {
+    "id": 178970,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178970",
+    "nome": "JOÃO DANIEL",
+    "siglaPartido": "PT",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36844",
+    "siglaUf": "SE",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/178970.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "JOÃO DANIEL",
+    "gabinete": {
+      "nome": "605",
+      "predio": "4",
+      "sala": "605",
+      "andar": "6",
+      "telefone": "3215-5605",
+      "email": "dep.joaodaniel@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1967-08-22",
+  "dataFalecimento": null,
+  "ufNascimento": "SC",
+  "municipioNascimento": "São Lourenço D'Oeste",
+  "escolaridade": "Ensino Médio"
+}

@@ -1,0 +1,37 @@
+{
+  "id": 74478,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74478",
+  "nomeCivil": "Luciano Caldas Bivar",
+  "ultimoStatus": {
+    "id": 74478,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74478",
+    "nome": "LUCIANO BIVAR",
+    "siglaPartido": "PSL",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36837",
+    "siglaUf": "PE",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/74478.jpg",
+    "data": "2017-07-17",
+    "nomeEleitoral": "LUCIANO BIVAR",
+    "gabinete": {
+      "nome": "525",
+      "predio": "4",
+      "sala": "525",
+      "andar": "5",
+      "telefone": "3215-5525",
+      "email": "dep.lucianobivar@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Suplente",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1944-11-29",
+  "dataFalecimento": null,
+  "ufNascimento": "PE",
+  "municipioNascimento": "Recife",
+  "escolaridade": "Superior"
+}

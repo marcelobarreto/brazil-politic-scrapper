@@ -1,0 +1,37 @@
+{
+  "id": 178947,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178947",
+  "nomeCivil": "SOSTENES SILVA CAVALCANTE",
+  "ultimoStatus": {
+    "id": 178947,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178947",
+    "nome": "SÓSTENES CAVALCANTE",
+    "siglaPartido": "DEM",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36769",
+    "siglaUf": "RJ",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/178947.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "SÓSTENES CAVALCANTE",
+    "gabinete": {
+      "nome": "560",
+      "predio": "4",
+      "sala": "560",
+      "andar": "5",
+      "telefone": "3215-5560",
+      "email": "dep.sostenescavalcante@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1975-01-16",
+  "dataFalecimento": null,
+  "ufNascimento": "AL",
+  "municipioNascimento": "Maceió",
+  "escolaridade": "Superior"
+}

@@ -1,0 +1,39 @@
+{
+  "id": 129037,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/129037",
+  "nomeCivil": "GABRIEL GUIMARÃES DE ANDRADE",
+  "ultimoStatus": {
+    "id": 129037,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/129037",
+    "nome": "GABRIEL GUIMARÃES",
+    "siglaPartido": "PT",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36844",
+    "siglaUf": "MG",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/129037.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "GABRIEL GUIMARÃES",
+    "gabinete": {
+      "nome": "821",
+      "predio": "4",
+      "sala": "821",
+      "andar": "8",
+      "telefone": "3215-5821",
+      "email": "dep.gabrielguimaraes@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [
+    "http://www.twitter.com/gguimaraespt"
+  ],
+  "dataNascimento": "1983-06-06",
+  "dataFalecimento": null,
+  "ufNascimento": "MG",
+  "municipioNascimento": "Governador Valadares",
+  "escolaridade": null
+}

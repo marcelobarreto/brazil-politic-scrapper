@@ -1,0 +1,37 @@
+{
+  "id": 141427,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141427",
+  "nomeCivil": "FÁBIO AUGUSTO RAMALHO DOS SANTOS",
+  "ultimoStatus": {
+    "id": 141427,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141427",
+    "nome": "FÁBIO RAMALHO",
+    "siglaPartido": "PMDB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36800",
+    "siglaUf": "MG",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/141427.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "FÁBIO RAMALHO",
+    "gabinete": {
+      "nome": "452",
+      "predio": "4",
+      "sala": "452",
+      "andar": "4",
+      "telefone": "3215-5452",
+      "email": "dep.fabioramalho@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1961-12-22",
+  "dataFalecimento": null,
+  "ufNascimento": "DF",
+  "municipioNascimento": "Brasília",
+  "escolaridade": null
+}

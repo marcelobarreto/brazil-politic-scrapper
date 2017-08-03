@@ -1,0 +1,43 @@
+{
+  "id": 178888,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178888",
+  "nomeCivil": "CARLOS VICTOR GUTERRES MENDES",
+  "ultimoStatus": {
+    "id": 178888,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178888",
+    "nome": "VICTOR MENDES",
+    "siglaPartido": "PSD",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36834",
+    "siglaUf": "MA",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/178888.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "VICTOR MENDES",
+    "gabinete": {
+      "nome": "580",
+      "predio": "3",
+      "sala": "580",
+      "andar": null,
+      "telefone": "3215-5580",
+      "email": "dep.victormendes@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [
+    "facebook.com/victormendesma",
+    "@depvictormendes",
+    "@victormendesma",
+    "youtube.com/depvictormendes",
+    "Victor Mendes"
+  ],
+  "dataNascimento": "1979-08-22",
+  "dataFalecimento": null,
+  "ufNascimento": "MA",
+  "municipioNascimento": "Pinheiro",
+  "escolaridade": "Superior"
+}

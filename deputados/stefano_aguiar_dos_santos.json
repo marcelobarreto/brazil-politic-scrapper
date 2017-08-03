@@ -1,0 +1,40 @@
+{
+  "id": 92776,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/92776",
+  "nomeCivil": "STEFANO AGUIAR DOS SANTOS",
+  "ultimoStatus": {
+    "id": 92776,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/92776",
+    "nome": "STEFANO AGUIAR",
+    "siglaPartido": "PSD",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36834",
+    "siglaUf": "MG",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/92776.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "STEFANO AGUIAR",
+    "gabinete": {
+      "nome": "341",
+      "predio": "4",
+      "sala": "341",
+      "andar": "3",
+      "telefone": "3215-5341",
+      "email": "dep.stefanoaguiar@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [
+    "http://www.twitter.com/maragabrilli",
+    "http://www.facebook.com/maragabrilli"
+  ],
+  "dataNascimento": "1976-03-03",
+  "dataFalecimento": null,
+  "ufNascimento": "MG",
+  "municipioNascimento": "Belo Horizonte",
+  "escolaridade": null
+}

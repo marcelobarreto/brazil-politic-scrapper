@@ -1,0 +1,37 @@
+{
+  "id": 73553,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73553",
+  "nomeCivil": "NELSON MARQUEZELLI",
+  "ultimoStatus": {
+    "id": 73553,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73553",
+    "nome": "NELSON MARQUEZELLI",
+    "siglaPartido": "PTB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36845",
+    "siglaUf": "SP",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/73553.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "NELSON MARQUEZELLI",
+    "gabinete": {
+      "nome": "920",
+      "predio": "4",
+      "sala": "920",
+      "andar": "9",
+      "telefone": "3215-5920",
+      "email": "dep.nelsonmarquezelli@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1941-10-29",
+  "dataFalecimento": null,
+  "ufNascimento": "SP",
+  "municipioNascimento": "Pirassununga",
+  "escolaridade": null
+}

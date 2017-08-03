@@ -1,0 +1,28 @@
+{
+  "id": 36761,
+  "sigla": "PEN",
+  "nome": "Partido Ecológico Nacional",
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/partidos/36761",
+  "status": {
+    "data": null,
+    "idLegislatura": "55",
+    "situacao": "Ativo",
+    "totalPosse": "2",
+    "totalMemebros": "3",
+    "uriMembros": "https://dadosabertos.camara.leg.br/api/v2/deputados?legislatura=55&partido=PEN",
+    "lider": {
+      "id": 178885,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178885",
+      "nome": "JUNIOR MARRECA",
+      "siglaPartido": "PEN",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36761",
+      "uf": "MA",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.gov.br/internet/deputado/bandep/178885.jpg"
+    }
+  },
+  "numeroEleitoral": null,
+  "urlLogo": "http://www.camara.leg.br/internet/Deputado/img/partidos/PEN.gif",
+  "urlWebSite": null,
+  "urlFacebook": null
+}

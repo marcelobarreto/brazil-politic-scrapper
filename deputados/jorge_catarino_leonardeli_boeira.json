@@ -1,0 +1,37 @@
+{
+  "id": 74388,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74388",
+  "nomeCivil": "JORGE CATARINO LEONARDELI BOEIRA",
+  "ultimoStatus": {
+    "id": 74388,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74388",
+    "nome": "JORGE BOEIRA",
+    "siglaPartido": "PP",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36809",
+    "siglaUf": "SC",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/74388.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "JORGE BOEIRA",
+    "gabinete": {
+      "nome": "342",
+      "predio": "4",
+      "sala": "342",
+      "andar": "3",
+      "telefone": "3215-5342",
+      "email": "dep.jorgeboeira@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1955-11-05",
+  "dataFalecimento": null,
+  "ufNascimento": "RS",
+  "municipioNascimento": "Vacaria",
+  "escolaridade": null
+}

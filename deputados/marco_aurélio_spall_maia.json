@@ -1,0 +1,40 @@
+{
+  "id": 133373,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/133373",
+  "nomeCivil": "MARCO AURÉLIO SPALL MAIA",
+  "ultimoStatus": {
+    "id": 133373,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/133373",
+    "nome": "MARCO MAIA",
+    "siglaPartido": "PT",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36844",
+    "siglaUf": "RS",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/133373.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "MARCO MAIA",
+    "gabinete": {
+      "nome": "028",
+      "predio": "x",
+      "sala": "028",
+      "andar": null,
+      "telefone": "3215-5028",
+      "email": "dep.marcomaia@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [
+    "http://www.twitter.com/DepMarcoMaia",
+    "http://www.facebook.com/DepMarcoMaia"
+  ],
+  "dataNascimento": "1965-12-27",
+  "dataFalecimento": null,
+  "ufNascimento": "RS",
+  "municipioNascimento": "Canoas",
+  "escolaridade": null
+}

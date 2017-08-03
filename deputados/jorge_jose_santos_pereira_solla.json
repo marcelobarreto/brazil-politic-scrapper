@@ -1,0 +1,37 @@
+{
+  "id": 178857,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178857",
+  "nomeCivil": "JORGE JOSE SANTOS PEREIRA SOLLA",
+  "ultimoStatus": {
+    "id": 178857,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178857",
+    "nome": "JORGE SOLLA",
+    "siglaPartido": "PT",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36844",
+    "siglaUf": "BA",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/178857.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "JORGE SOLLA",
+    "gabinete": {
+      "nome": "571",
+      "predio": "3",
+      "sala": "571",
+      "andar": null,
+      "telefone": "3215-5571",
+      "email": "dep.jorgesolla@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1961-04-11",
+  "dataFalecimento": null,
+  "ufNascimento": "BA",
+  "municipioNascimento": "Salvador",
+  "escolaridade": "Doutorado"
+}

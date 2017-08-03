@@ -1,0 +1,41 @@
+{
+  "id": 141555,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141555",
+  "nomeCivil": "VINICIUS RAPOZO DE CARVALHO",
+  "ultimoStatus": {
+    "id": 141555,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141555",
+    "nome": "VINICIUS CARVALHO",
+    "siglaPartido": "PRB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36815",
+    "siglaUf": "SP",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/141555.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "VINICIUS CARVALHO",
+    "gabinete": {
+      "nome": "356",
+      "predio": "4",
+      "sala": "356",
+      "andar": "3",
+      "telefone": "3215-5356",
+      "email": "dep.viniciuscarvalho@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [
+    "Vinicius Carvalho Oficial",
+    "viniciuscarvalhoprb",
+    "falecomvinicius"
+  ],
+  "dataNascimento": "1966-01-07",
+  "dataFalecimento": null,
+  "ufNascimento": "RJ",
+  "municipioNascimento": "Rio de Janeiro",
+  "escolaridade": "Pós-Graduação"
+}

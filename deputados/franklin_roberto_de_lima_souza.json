@@ -1,0 +1,37 @@
+{
+  "id": 186775,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/186775",
+  "nomeCivil": "FRANKLIN ROBERTO DE LIMA SOUZA",
+  "ultimoStatus": {
+    "id": 186775,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/186775",
+    "nome": "FRANKLIN",
+    "siglaPartido": "PP",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36809",
+    "siglaUf": "MG",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/186775.jpg",
+    "data": "2015-03-09",
+    "nomeEleitoral": "FRANKLIN",
+    "gabinete": {
+      "nome": "627",
+      "predio": "4",
+      "sala": "627",
+      "andar": "6",
+      "telefone": "3215-5627",
+      "email": "dep.franklin@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": "Em virtude do Ato da Mesa nº 10/2015 (retotalização de votos), o Deputado toma posse como titular"
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1973-04-04",
+  "dataFalecimento": null,
+  "ufNascimento": "SP",
+  "municipioNascimento": "Pindamonhangaba",
+  "escolaridade": "Ensino Médio"
+}

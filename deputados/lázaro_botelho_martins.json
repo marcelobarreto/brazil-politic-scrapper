@@ -1,0 +1,37 @@
+{
+  "id": 141480,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141480",
+  "nomeCivil": "LÁZARO BOTELHO MARTINS",
+  "ultimoStatus": {
+    "id": 141480,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141480",
+    "nome": "LÁZARO BOTELHO",
+    "siglaPartido": "PP",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36809",
+    "siglaUf": "TO",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/141480.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "LÁZARO BOTELHO",
+    "gabinete": {
+      "nome": "478",
+      "predio": "3",
+      "sala": "478",
+      "andar": null,
+      "telefone": "3215-5478",
+      "email": "dep.lazarobotelho@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1947-02-11",
+  "dataFalecimento": null,
+  "ufNascimento": "MA",
+  "municipioNascimento": "Loreto",
+  "escolaridade": null
+}

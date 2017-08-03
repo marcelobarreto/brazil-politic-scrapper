@@ -1,0 +1,37 @@
+{
+  "id": 74862,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74862",
+  "nomeCivil": "MIRO TEIXEIRA",
+  "ultimoStatus": {
+    "id": 74862,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74862",
+    "nome": "MIRO TEIXEIRA",
+    "siglaPartido": "REDE",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36886",
+    "siglaUf": "RJ",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/74862.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "MIRO TEIXEIRA",
+    "gabinete": {
+      "nome": "270",
+      "predio": "3",
+      "sala": "270",
+      "andar": null,
+      "telefone": "3215-5270",
+      "email": "dep.miroteixeira@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1945-05-27",
+  "dataFalecimento": null,
+  "ufNascimento": "RJ",
+  "municipioNascimento": "Rio de Janeiro",
+  "escolaridade": null
+}

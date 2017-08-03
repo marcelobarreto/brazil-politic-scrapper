@@ -1,0 +1,37 @@
+{
+  "id": 74585,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74585",
+  "nomeCivil": "LINCOLN DINIZ PORTELA",
+  "ultimoStatus": {
+    "id": 74585,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74585",
+    "nome": "LINCOLN PORTELA",
+    "siglaPartido": "PRB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36815",
+    "siglaUf": "MG",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/74585.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "LINCOLN PORTELA",
+    "gabinete": {
+      "nome": "615",
+      "predio": "4",
+      "sala": "615",
+      "andar": "6",
+      "telefone": "3215-5615",
+      "email": "dep.lincolnportela@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1953-11-03",
+  "dataFalecimento": null,
+  "ufNascimento": "MG",
+  "municipioNascimento": "Belo Horizonte",
+  "escolaridade": null
+}

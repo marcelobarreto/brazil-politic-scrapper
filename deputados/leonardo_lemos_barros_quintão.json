@@ -1,0 +1,37 @@
+{
+  "id": 141482,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141482",
+  "nomeCivil": "LEONARDO LEMOS BARROS QUINTÃO",
+  "ultimoStatus": {
+    "id": 141482,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141482",
+    "nome": "LEONARDO QUINTÃO",
+    "siglaPartido": "PMDB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36800",
+    "siglaUf": "MG",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/141482.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "LEONARDO QUINTÃO",
+    "gabinete": {
+      "nome": "914",
+      "predio": "4",
+      "sala": "914",
+      "andar": "9",
+      "telefone": "3215-5914",
+      "email": "dep.leonardoquintao@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1975-04-01",
+  "dataFalecimento": null,
+  "ufNascimento": "DF",
+  "municipioNascimento": "Brasília",
+  "escolaridade": null
+}

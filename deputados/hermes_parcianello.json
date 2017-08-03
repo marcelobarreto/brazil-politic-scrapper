@@ -1,0 +1,37 @@
+{
+  "id": 73772,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73772",
+  "nomeCivil": "HERMES PARCIANELLO",
+  "ultimoStatus": {
+    "id": 73772,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73772",
+    "nome": "HERMES PARCIANELLO",
+    "siglaPartido": "PMDB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36800",
+    "siglaUf": "PR",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/73772.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "HERMES PARCIANELLO",
+    "gabinete": {
+      "nome": "234",
+      "predio": "4",
+      "sala": "234",
+      "andar": "2",
+      "telefone": "3215-5234",
+      "email": "dep.hermesparcianello@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1958-04-25",
+  "dataFalecimento": null,
+  "ufNascimento": "PR",
+  "municipioNascimento": "Goioerê",
+  "escolaridade": null
+}

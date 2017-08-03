@@ -1,0 +1,37 @@
+{
+  "id": 160630,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160630",
+  "nomeCivil": "SÁGUAS MORAES SOUSA",
+  "ultimoStatus": {
+    "id": 160630,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160630",
+    "nome": "SÁGUAS MORAES",
+    "siglaPartido": "PT",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36844",
+    "siglaUf": "MT",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/160630.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "SÁGUAS MORAES",
+    "gabinete": {
+      "nome": "371",
+      "predio": "3",
+      "sala": "371",
+      "andar": null,
+      "telefone": "3215-5371",
+      "email": "dep.saguasmoraes@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1963-04-11",
+  "dataFalecimento": null,
+  "ufNascimento": "GO",
+  "municipioNascimento": "Mineiros",
+  "escolaridade": null
+}

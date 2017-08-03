@@ -1,0 +1,37 @@
+{
+  "id": 146788,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/146788",
+  "nomeCivil": "MARCELO GUILHERME DE ARO FERREIRA",
+  "ultimoStatus": {
+    "id": 146788,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/146788",
+    "nome": "MARCELO ARO",
+    "siglaPartido": "PHS",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36793",
+    "siglaUf": "MG",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/146788.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "MARCELO ARO",
+    "gabinete": {
+      "nome": "280",
+      "predio": "3",
+      "sala": "280",
+      "andar": null,
+      "telefone": "3215-5280",
+      "email": "dep.marceloaro@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1987-06-12",
+  "dataFalecimento": null,
+  "ufNascimento": "MG",
+  "municipioNascimento": "Belo Horizonte",
+  "escolaridade": "Superior"
+}

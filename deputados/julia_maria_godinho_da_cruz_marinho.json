@@ -1,0 +1,37 @@
+{
+  "id": 67312,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/67312",
+  "nomeCivil": "JULIA MARIA GODINHO DA CRUZ MARINHO",
+  "ultimoStatus": {
+    "id": 67312,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/67312",
+    "nome": "JÚLIA MARINHO",
+    "siglaPartido": "PSC",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36833",
+    "siglaUf": "PA",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/67312.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "JÚLIA MARINHO",
+    "gabinete": {
+      "nome": "707",
+      "predio": "4",
+      "sala": "707",
+      "andar": "7",
+      "telefone": "3215-5707",
+      "email": "dep.juliamarinho@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "F",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1960-04-11",
+  "dataFalecimento": null,
+  "ufNascimento": "GO",
+  "municipioNascimento": "Itapirapuã",
+  "escolaridade": "Pós-Graduação"
+}

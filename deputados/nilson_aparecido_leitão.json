@@ -1,0 +1,37 @@
+{
+  "id": 166401,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/166401",
+  "nomeCivil": "NILSON APARECIDO LEITÃO",
+  "ultimoStatus": {
+    "id": 166401,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/166401",
+    "nome": "NILSON LEITÃO",
+    "siglaPartido": "PSDB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36835",
+    "siglaUf": "MT",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/166401.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "NILSON LEITÃO",
+    "gabinete": {
+      "nome": "825",
+      "predio": "4",
+      "sala": "825",
+      "andar": "8",
+      "telefone": "3215-5825",
+      "email": "dep.nilsonleitao@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1969-02-25",
+  "dataFalecimento": null,
+  "ufNascimento": "MS",
+  "municipioNascimento": "Cassilândia",
+  "escolaridade": null
+}

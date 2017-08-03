@@ -1,0 +1,37 @@
+{
+  "id": 73781,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73781",
+  "nomeCivil": "NELSON MEURER",
+  "ultimoStatus": {
+    "id": 73781,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73781",
+    "nome": "NELSON MEURER",
+    "siglaPartido": "PP",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36809",
+    "siglaUf": "PR",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/73781.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "NELSON MEURER",
+    "gabinete": {
+      "nome": "916",
+      "predio": "4",
+      "sala": "916",
+      "andar": "9",
+      "telefone": "3215-5916",
+      "email": "dep.nelsonmeurer@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1942-07-23",
+  "dataFalecimento": null,
+  "ufNascimento": "SC",
+  "municipioNascimento": "Bom Retiro",
+  "escolaridade": null
+}

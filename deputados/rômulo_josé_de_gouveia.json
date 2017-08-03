@@ -1,0 +1,37 @@
+{
+  "id": 141536,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141536",
+  "nomeCivil": "RÔMULO JOSÉ DE GOUVEIA",
+  "ultimoStatus": {
+    "id": 141536,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141536",
+    "nome": "RÔMULO GOUVEIA",
+    "siglaPartido": "PSD",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36834",
+    "siglaUf": "PB",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/141536.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "RÔMULO GOUVEIA",
+    "gabinete": {
+      "nome": "411",
+      "predio": "4",
+      "sala": "411",
+      "andar": "4",
+      "telefone": "3215-5411",
+      "email": "dep.romulogouveia@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1965-03-19",
+  "dataFalecimento": null,
+  "ufNascimento": "PB",
+  "municipioNascimento": "Campina Grande",
+  "escolaridade": "Superior"
+}

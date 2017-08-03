@@ -1,0 +1,37 @@
+{
+  "id": 74449,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74449",
+  "nomeCivil": "PEDRO FERNANDES RIBEIRO",
+  "ultimoStatus": {
+    "id": 74449,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74449",
+    "nome": "PEDRO FERNANDES",
+    "siglaPartido": "PTB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36845",
+    "siglaUf": "MA",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/74449.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "PEDRO FERNANDES",
+    "gabinete": {
+      "nome": "814",
+      "predio": "4",
+      "sala": "814",
+      "andar": "8",
+      "telefone": "3215-5814",
+      "email": "dep.pedrofernandes@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1949-03-02",
+  "dataFalecimento": null,
+  "ufNascimento": "MA",
+  "municipioNascimento": "São Luís",
+  "escolaridade": null
+}

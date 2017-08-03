@@ -1,0 +1,37 @@
+{
+  "id": 178839,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178839",
+  "nomeCivil": "JESSICA ROJAS SALES",
+  "ultimoStatus": {
+    "id": 178839,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178839",
+    "nome": "JÉSSICA SALES",
+    "siglaPartido": "PMDB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36800",
+    "siglaUf": "AC",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/178839.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "JÉSSICA SALES",
+    "gabinete": {
+      "nome": "952",
+      "predio": "4",
+      "sala": "952",
+      "andar": "9",
+      "telefone": "3215-5952",
+      "email": "dep.jessicasales@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "F",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1980-11-28",
+  "dataFalecimento": null,
+  "ufNascimento": "AC",
+  "municipioNascimento": "Cruzeiro do Sul",
+  "escolaridade": "Superior"
+}

@@ -1,0 +1,37 @@
+{
+  "id": 74399,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74399",
+  "nomeCivil": "ONYX DORNELLES LORENZONI",
+  "ultimoStatus": {
+    "id": 74399,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74399",
+    "nome": "ONYX LORENZONI",
+    "siglaPartido": "DEM",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36769",
+    "siglaUf": "RS",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/74399.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "ONYX LORENZONI",
+    "gabinete": {
+      "nome": "828",
+      "predio": "4",
+      "sala": "828",
+      "andar": "8",
+      "telefone": "3215-5828",
+      "email": "dep.onyxlorenzoni@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1954-10-03",
+  "dataFalecimento": null,
+  "ufNascimento": "RS",
+  "municipioNascimento": "Porto Alegre",
+  "escolaridade": null
+}

@@ -1,0 +1,37 @@
+{
+  "id": 178931,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178931",
+  "nomeCivil": "LUCIANO DUCCI",
+  "ultimoStatus": {
+    "id": 178931,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178931",
+    "nome": "LUCIANO DUCCI",
+    "siglaPartido": "PSB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36832",
+    "siglaUf": "PR",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/178931.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "LUCIANO DUCCI",
+    "gabinete": {
+      "nome": "427",
+      "predio": "4",
+      "sala": "427",
+      "andar": "4",
+      "telefone": "3215-5427",
+      "email": "dep.lucianoducci@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1955-03-23",
+  "dataFalecimento": null,
+  "ufNascimento": "PR",
+  "municipioNascimento": "Curitiba",
+  "escolaridade": "Superior"
+}

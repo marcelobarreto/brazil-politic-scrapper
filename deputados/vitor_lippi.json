@@ -1,0 +1,37 @@
+{
+  "id": 178992,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178992",
+  "nomeCivil": "VITOR LIPPI",
+  "ultimoStatus": {
+    "id": 178992,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178992",
+    "nome": "VITOR LIPPI",
+    "siglaPartido": "PSDB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36835",
+    "siglaUf": "SP",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/178992.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "VITOR LIPPI",
+    "gabinete": {
+      "nome": "823",
+      "predio": "4",
+      "sala": "823",
+      "andar": "8",
+      "telefone": "3215-5823",
+      "email": "dep.vitorlippi@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1959-05-18",
+  "dataFalecimento": null,
+  "ufNascimento": "SP",
+  "municipioNascimento": "São Paulo",
+  "escolaridade": "Superior"
+}

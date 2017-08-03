@@ -1,0 +1,37 @@
+{
+  "id": 74574,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74574",
+  "nomeCivil": "PAULO SÉRGIO PARANHOS DE MAGALHÃES",
+  "ultimoStatus": {
+    "id": 74574,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74574",
+    "nome": "PAULO MAGALHÃES",
+    "siglaPartido": "PSD",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36834",
+    "siglaUf": "BA",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/74574.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "PAULO MAGALHÃES",
+    "gabinete": {
+      "nome": "903",
+      "predio": "4",
+      "sala": "903",
+      "andar": "9",
+      "telefone": "3215-5903",
+      "email": "dep.paulomagalhaes@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1952-11-28",
+  "dataFalecimento": null,
+  "ufNascimento": "BA",
+  "municipioNascimento": "Salvador",
+  "escolaridade": null
+}

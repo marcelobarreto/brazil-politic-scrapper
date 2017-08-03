@@ -1,0 +1,40 @@
+{
+  "id": 74376,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74376",
+  "nomeCivil": "VANDER LUIZ DOS SANTOS LOUBET",
+  "ultimoStatus": {
+    "id": 74376,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74376",
+    "nome": "VANDER LOUBET",
+    "siglaPartido": "PT",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36844",
+    "siglaUf": "MS",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/74376.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "VANDER LOUBET",
+    "gabinete": {
+      "nome": "838",
+      "predio": "4",
+      "sala": "838",
+      "andar": "8",
+      "telefone": "3215-5838",
+      "email": "dep.vanderloubet@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [
+    "http://twitter.com/vanderfazmais",
+    "http://facebook.com/vanderfazmais"
+  ],
+  "dataNascimento": "1964-01-22",
+  "dataFalecimento": null,
+  "ufNascimento": "MS",
+  "municipioNascimento": "Porto Murtinho",
+  "escolaridade": null
+}

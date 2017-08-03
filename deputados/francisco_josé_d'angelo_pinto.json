@@ -1,0 +1,37 @@
+{
+  "id": 141439,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141439",
+  "nomeCivil": "FRANCISCO JOSÉ D'ANGELO PINTO",
+  "ultimoStatus": {
+    "id": 141439,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141439",
+    "nome": "CHICO D'ANGELO",
+    "siglaPartido": "PT",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36844",
+    "siglaUf": "RJ",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/141439.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "CHICO D'ANGELO",
+    "gabinete": {
+      "nome": "542",
+      "predio": "4",
+      "sala": "542",
+      "andar": "5",
+      "telefone": "3215-5542",
+      "email": "dep.chicod'angelo@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1953-02-11",
+  "dataFalecimento": null,
+  "ufNascimento": "RJ",
+  "municipioNascimento": "Campos dos Goytacazes",
+  "escolaridade": null
+}

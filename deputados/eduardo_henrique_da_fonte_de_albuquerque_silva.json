@@ -1,0 +1,37 @@
+{
+  "id": 141421,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141421",
+  "nomeCivil": "EDUARDO HENRIQUE DA FONTE DE ALBUQUERQUE SILVA",
+  "ultimoStatus": {
+    "id": 141421,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141421",
+    "nome": "EDUARDO DA FONTE",
+    "siglaPartido": "PP",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36809",
+    "siglaUf": "PE",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/141421.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "EDUARDO DA FONTE",
+    "gabinete": {
+      "nome": "628",
+      "predio": "4",
+      "sala": "628",
+      "andar": "6",
+      "telefone": "3215-5628",
+      "email": "dep.eduardodafonte@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1972-10-17",
+  "dataFalecimento": null,
+  "ufNascimento": "PE",
+  "municipioNascimento": "Recife",
+  "escolaridade": null
+}

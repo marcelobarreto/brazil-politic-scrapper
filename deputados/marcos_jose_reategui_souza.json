@@ -1,0 +1,37 @@
+{
+  "id": 178852,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178852",
+  "nomeCivil": "MARCOS JOSE REATEGUI SOUZA",
+  "ultimoStatus": {
+    "id": 178852,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178852",
+    "nome": "MARCOS REATEGUI",
+    "siglaPartido": "PSD",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36834",
+    "siglaUf": "AP",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/178852.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "MARCOS REATEGUI",
+    "gabinete": {
+      "nome": "344",
+      "predio": "4",
+      "sala": "344",
+      "andar": "3",
+      "telefone": "3215-5344",
+      "email": "dep.marcosreategui@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1960-10-06",
+  "dataFalecimento": null,
+  "ufNascimento": "AP",
+  "municipioNascimento": "Macapá",
+  "escolaridade": "Pós-Graduação"
+}

@@ -1,0 +1,39 @@
+{
+  "id": 160598,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160598",
+  "nomeCivil": "FLÁVIA CARREIRO ALBUQUERQUE MORAIS",
+  "ultimoStatus": {
+    "id": 160598,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160598",
+    "nome": "FLÁVIA MORAIS",
+    "siglaPartido": "PDT",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36786",
+    "siglaUf": "GO",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/160598.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "FLÁVIA MORAIS",
+    "gabinete": {
+      "nome": "738",
+      "predio": "4",
+      "sala": "738",
+      "andar": "7",
+      "telefone": "3215-5738",
+      "email": "dep.flaviamorais@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "F",
+  "urlWebsite": null,
+  "redeSocial": [
+    "http://www.twitter.com/depflaviamorais"
+  ],
+  "dataNascimento": "1969-04-26",
+  "dataFalecimento": null,
+  "ufNascimento": "MG",
+  "municipioNascimento": "Belo Horizonte",
+  "escolaridade": null
+}

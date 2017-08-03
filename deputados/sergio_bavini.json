@@ -1,0 +1,37 @@
+{
+  "id": 178991,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178991",
+  "nomeCivil": "SERGIO BAVINI",
+  "ultimoStatus": {
+    "id": 178991,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178991",
+    "nome": "SÉRGIO REIS",
+    "siglaPartido": "PRB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36815",
+    "siglaUf": "SP",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/178991.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "SÉRGIO REIS",
+    "gabinete": {
+      "nome": "213",
+      "predio": "4",
+      "sala": "213",
+      "andar": "2",
+      "telefone": "3215-5213",
+      "email": "dep.sergioreis@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1940-06-23",
+  "dataFalecimento": null,
+  "ufNascimento": "SP",
+  "municipioNascimento": "São Paulo",
+  "escolaridade": "Ensino Médio"
+}

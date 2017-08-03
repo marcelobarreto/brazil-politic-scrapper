@@ -1,0 +1,28 @@
+{
+  "id": 36845,
+  "sigla": "PTB",
+  "nome": "Partido Trabalhista Brasileiro",
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/partidos/36845",
+  "status": {
+    "data": null,
+    "idLegislatura": "55",
+    "situacao": "Ativo",
+    "totalPosse": "25",
+    "totalMemebros": "18",
+    "uriMembros": "https://dadosabertos.camara.leg.br/api/v2/deputados?legislatura=55&partido=PTB",
+    "lider": {
+      "id": 73666,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73666",
+      "nome": "JOVAIR ARANTES",
+      "siglaPartido": "PTB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36845",
+      "uf": "GO",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.gov.br/internet/deputado/bandep/73666.jpg"
+    }
+  },
+  "numeroEleitoral": null,
+  "urlLogo": "http://www.camara.leg.br/internet/Deputado/img/partidos/PTB.gif",
+  "urlWebSite": null,
+  "urlFacebook": null
+}

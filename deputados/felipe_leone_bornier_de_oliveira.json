@@ -1,0 +1,37 @@
+{
+  "id": 141430,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141430",
+  "nomeCivil": "FELIPE LEONE BORNIER DE OLIVEIRA",
+  "ultimoStatus": {
+    "id": 141430,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141430",
+    "nome": "FELIPE BORNIER",
+    "siglaPartido": "PROS",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36763",
+    "siglaUf": "RJ",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/141430.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "FELIPE BORNIER",
+    "gabinete": {
+      "nome": "216",
+      "predio": "4",
+      "sala": "216",
+      "andar": "2",
+      "telefone": "3215-5216",
+      "email": "dep.felipebornier@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1978-12-26",
+  "dataFalecimento": null,
+  "ufNascimento": "RJ",
+  "municipioNascimento": "Rio de Janeiro",
+  "escolaridade": null
+}

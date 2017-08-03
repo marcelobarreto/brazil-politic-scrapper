@@ -1,0 +1,37 @@
+{
+  "id": 74043,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74043",
+  "nomeCivil": "JOSÉ WELLINGTON ROBERTO",
+  "ultimoStatus": {
+    "id": 74043,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74043",
+    "nome": "WELLINGTON ROBERTO",
+    "siglaPartido": "PR",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36814",
+    "siglaUf": "PB",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/74043.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "WELLINGTON ROBERTO",
+    "gabinete": {
+      "nome": "514",
+      "predio": "4",
+      "sala": "514",
+      "andar": "5",
+      "telefone": "3215-5514",
+      "email": "dep.wellingtonroberto@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1959-05-19",
+  "dataFalecimento": null,
+  "ufNascimento": "PB",
+  "municipioNascimento": "São José de Piranhas",
+  "escolaridade": "Superior Incompleto"
+}

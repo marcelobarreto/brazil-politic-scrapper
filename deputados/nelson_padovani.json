@@ -1,0 +1,37 @@
+{
+  "id": 160566,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160566",
+  "nomeCivil": "NELSON PADOVANI",
+  "ultimoStatus": {
+    "id": 160566,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160566",
+    "nome": "NELSON PADOVANI",
+    "siglaPartido": "PSDB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36835",
+    "siglaUf": "PR",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/160566.jpg",
+    "data": "2016-03-16",
+    "nomeEleitoral": "NELSON PADOVANI",
+    "gabinete": {
+      "nome": "513",
+      "predio": "4",
+      "sala": "513",
+      "andar": "5",
+      "telefone": "3215-5513",
+      "email": "dep.nelsonpadovani@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Suplente",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1948-09-17",
+  "dataFalecimento": null,
+  "ufNascimento": "SP",
+  "municipioNascimento": "Pirapozinho",
+  "escolaridade": null
+}

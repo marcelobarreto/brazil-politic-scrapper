@@ -1,0 +1,40 @@
+{
+  "id": 141515,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141515",
+  "nomeCivil": "OTAVIO SANTOS SILVA LEITE",
+  "ultimoStatus": {
+    "id": 141515,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141515",
+    "nome": "OTAVIO LEITE",
+    "siglaPartido": "PSDB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36835",
+    "siglaUf": "RJ",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/141515.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "OTAVIO LEITE",
+    "gabinete": {
+      "nome": "225",
+      "predio": "4",
+      "sala": "225",
+      "andar": "2",
+      "telefone": "3215-5225",
+      "email": "dep.otavioleite@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [
+    "twitter.com/otavioleite",
+    "www.facebook.com/OtavioLeiteRJ"
+  ],
+  "dataNascimento": "1961-07-29",
+  "dataFalecimento": null,
+  "ufNascimento": "SE",
+  "municipioNascimento": "Aracaju",
+  "escolaridade": null
+}

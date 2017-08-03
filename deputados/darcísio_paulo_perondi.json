@@ -1,0 +1,37 @@
+{
+  "id": 73891,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73891",
+  "nomeCivil": "DARCÍSIO PAULO PERONDI",
+  "ultimoStatus": {
+    "id": 73891,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73891",
+    "nome": "DARCÍSIO PERONDI",
+    "siglaPartido": "PMDB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36800",
+    "siglaUf": "RS",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/73891.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "DARCÍSIO PERONDI",
+    "gabinete": {
+      "nome": "518",
+      "predio": "4",
+      "sala": "518",
+      "andar": "5",
+      "telefone": "3215-5518",
+      "email": "dep.darcisioperondi@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1947-04-02",
+  "dataFalecimento": null,
+  "ufNascimento": "RS",
+  "municipioNascimento": "Ijuí",
+  "escolaridade": null
+}

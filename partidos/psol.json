@@ -1,0 +1,28 @@
+{
+  "id": 36839,
+  "sigla": "PSOL",
+  "nome": "Partido Socialismo e Liberdade",
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/partidos/36839",
+  "status": {
+    "data": "2017-02-02 11:32:01.293",
+    "idLegislatura": "55",
+    "situacao": "Ativo",
+    "totalPosse": "5",
+    "totalMemebros": "6",
+    "uriMembros": "https://dadosabertos.camara.leg.br/api/v2/deputados?legislatura=55&partido=PSOL",
+    "lider": {
+      "id": 152605,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/152605",
+      "nome": "GLAUBER BRAGA",
+      "siglaPartido": "PSOL",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36839",
+      "uf": "RJ",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.gov.br/internet/deputado/bandep/152605.jpg"
+    }
+  },
+  "numeroEleitoral": null,
+  "urlLogo": "http://www.camara.leg.br/internet/Deputado/img/partidos/PSOL.gif",
+  "urlWebSite": null,
+  "urlFacebook": null
+}

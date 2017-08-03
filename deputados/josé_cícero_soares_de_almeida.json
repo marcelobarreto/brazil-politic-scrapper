@@ -1,0 +1,37 @@
+{
+  "id": 178841,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178841",
+  "nomeCivil": "JOSÉ CÍCERO SOARES DE ALMEIDA",
+  "ultimoStatus": {
+    "id": 178841,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178841",
+    "nome": "CÍCERO ALMEIDA",
+    "siglaPartido": "PMDB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36800",
+    "siglaUf": "AL",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/178841.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "CÍCERO ALMEIDA",
+    "gabinete": {
+      "nome": "760",
+      "predio": "4",
+      "sala": "760",
+      "andar": "7",
+      "telefone": "3215-5760",
+      "email": "dep.ciceroalmeida@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1958-01-08",
+  "dataFalecimento": null,
+  "ufNascimento": "AL",
+  "municipioNascimento": "Maribondo",
+  "escolaridade": "Ensino Médio"
+}

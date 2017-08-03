@@ -1,0 +1,37 @@
+{
+  "id": 160621,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160621",
+  "nomeCivil": "SANDRO ALEX CRUZ DE OLIVEIRA",
+  "ultimoStatus": {
+    "id": 160621,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160621",
+    "nome": "SANDRO ALEX",
+    "siglaPartido": "PSD",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36834",
+    "siglaUf": "PR",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/160621.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "SANDRO ALEX",
+    "gabinete": {
+      "nome": "221",
+      "predio": "4",
+      "sala": "221",
+      "andar": "2",
+      "telefone": "3215-5221",
+      "email": "dep.sandroalex@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1972-11-25",
+  "dataFalecimento": null,
+  "ufNascimento": "PR",
+  "municipioNascimento": "Ponta Grossa",
+  "escolaridade": null
+}

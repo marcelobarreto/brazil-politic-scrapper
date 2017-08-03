@@ -1,0 +1,37 @@
+{
+  "id": 137070,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/137070",
+  "nomeCivil": "VICENTE ALVES DE OLIVEIRA JUNIOR",
+  "ultimoStatus": {
+    "id": 137070,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/137070",
+    "nome": "VICENTINHO JÚNIOR",
+    "siglaPartido": "PR",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36814",
+    "siglaUf": "TO",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/137070.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "VICENTINHO JÚNIOR",
+    "gabinete": {
+      "nome": "817",
+      "predio": "4",
+      "sala": "817",
+      "andar": "8",
+      "telefone": "3215-5817",
+      "email": "dep.vicentinhojunior@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1985-04-11",
+  "dataFalecimento": null,
+  "ufNascimento": "GO",
+  "municipioNascimento": "Goiânia",
+  "escolaridade": "Superior Incompleto"
+}

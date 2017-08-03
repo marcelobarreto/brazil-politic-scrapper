@@ -1,0 +1,37 @@
+{
+  "id": 178848,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178848",
+  "nomeCivil": "MARIA DA CONCEICAO SAMPAIO MOURA",
+  "ultimoStatus": {
+    "id": 178848,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178848",
+    "nome": "CONCEIÇÃO SAMPAIO",
+    "siglaPartido": "PP",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36809",
+    "siglaUf": "AM",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/178848.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "CONCEIÇÃO SAMPAIO",
+    "gabinete": {
+      "nome": "515",
+      "predio": "4",
+      "sala": "515",
+      "andar": "5",
+      "telefone": "3215-5515",
+      "email": "dep.conceicaosampaio@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "F",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1966-01-01",
+  "dataFalecimento": null,
+  "ufNascimento": "PA",
+  "municipioNascimento": "Alenquer",
+  "escolaridade": "Superior Incompleto"
+}

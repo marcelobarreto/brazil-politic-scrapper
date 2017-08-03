@@ -1,0 +1,37 @@
+{
+  "id": 73586,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73586",
+  "nomeCivil": "JÚLIO CÉSAR DELGADO",
+  "ultimoStatus": {
+    "id": 73586,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73586",
+    "nome": "JÚLIO DELGADO",
+    "siglaPartido": "PSB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36832",
+    "siglaUf": "MG",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/73586.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "JÚLIO DELGADO",
+    "gabinete": {
+      "nome": "323",
+      "predio": "4",
+      "sala": "323",
+      "andar": "3",
+      "telefone": "3215-5323",
+      "email": "dep.juliodelgado@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1966-11-18",
+  "dataFalecimento": null,
+  "ufNascimento": "MG",
+  "municipioNascimento": "Juiz de Fora",
+  "escolaridade": null
+}

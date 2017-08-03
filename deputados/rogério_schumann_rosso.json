@@ -1,0 +1,37 @@
+{
+  "id": 160426,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160426",
+  "nomeCivil": "ROGÉRIO SCHUMANN ROSSO",
+  "ultimoStatus": {
+    "id": 160426,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160426",
+    "nome": "ROGÉRIO ROSSO",
+    "siglaPartido": "PSD",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36834",
+    "siglaUf": "DF",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/160426.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "ROGÉRIO ROSSO",
+    "gabinete": {
+      "nome": "283",
+      "predio": "3",
+      "sala": "283",
+      "andar": null,
+      "telefone": "3215-5283",
+      "email": "dep.rogeriorosso@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1968-08-30",
+  "dataFalecimento": null,
+  "ufNascimento": "RJ",
+  "municipioNascimento": "Rio de Janeiro",
+  "escolaridade": "Pós-Graduação"
+}

@@ -1,0 +1,37 @@
+{
+  "id": 74812,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74812",
+  "nomeCivil": "PEDRO PINHEIRO CHAVES",
+  "ultimoStatus": {
+    "id": 74812,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74812",
+    "nome": "PEDRO CHAVES",
+    "siglaPartido": "PMDB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36800",
+    "siglaUf": "GO",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/74812.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "PEDRO CHAVES",
+    "gabinete": {
+      "nome": "406",
+      "predio": "4",
+      "sala": "406",
+      "andar": "4",
+      "telefone": "3215-5406",
+      "email": "dep.pedrochaves@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1958-08-28",
+  "dataFalecimento": null,
+  "ufNascimento": "GO",
+  "municipioNascimento": "São Domingos",
+  "escolaridade": null
+}

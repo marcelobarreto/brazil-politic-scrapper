@@ -1,0 +1,28 @@
+{
+  "id": 36824,
+  "sigla": "PRP",
+  "nome": "Partido Republicano Progressista",
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/partidos/36824",
+  "status": {
+    "data": null,
+    "idLegislatura": "55",
+    "situacao": "Ativo",
+    "totalPosse": "3",
+    "totalMemebros": "1",
+    "uriMembros": "https://dadosabertos.camara.leg.br/api/v2/deputados?legislatura=55&partido=PRP",
+    "lider": {
+      "id": 194260,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/194260",
+      "nome": "NIVALDO ALBUQUERQUE",
+      "siglaPartido": "PRP",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36824",
+      "uf": "AL",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.gov.br/internet/deputado/bandep/194260.jpg"
+    }
+  },
+  "numeroEleitoral": null,
+  "urlLogo": "http://www.camara.leg.br/internet/Deputado/img/partidos/PRP.gif",
+  "urlWebSite": null,
+  "urlFacebook": null
+}

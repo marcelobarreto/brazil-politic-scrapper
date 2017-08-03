@@ -1,0 +1,40 @@
+{
+  "id": 160653,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160653",
+  "nomeCivil": "ROBERTO ALVES DE LUCENA",
+  "ultimoStatus": {
+    "id": 160653,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160653",
+    "nome": "ROBERTO DE LUCENA",
+    "siglaPartido": "PV",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36851",
+    "siglaUf": "SP",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/160653.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "ROBERTO DE LUCENA",
+    "gabinete": {
+      "nome": "235",
+      "predio": "4",
+      "sala": "235",
+      "andar": "2",
+      "telefone": "3215-5235",
+      "email": "dep.robertodelucena@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [
+    "http://twitter.com/Dep_Lucena",
+    "http://www.facebook.com/dep.lucena"
+  ],
+  "dataNascimento": "1966-04-18",
+  "dataFalecimento": null,
+  "ufNascimento": "SP",
+  "municipioNascimento": "Santa Isabel",
+  "escolaridade": null
+}

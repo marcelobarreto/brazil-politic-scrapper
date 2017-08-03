@@ -1,0 +1,37 @@
+{
+  "id": 178828,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178828",
+  "nomeCivil": "EVANDRO HERRERA BERTONE GUSSI",
+  "ultimoStatus": {
+    "id": 178828,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178828",
+    "nome": "EVANDRO GUSSI",
+    "siglaPartido": "PV",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36851",
+    "siglaUf": "SP",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/178828.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "EVANDRO GUSSI",
+    "gabinete": {
+      "nome": "433",
+      "predio": "4",
+      "sala": "433",
+      "andar": "4",
+      "telefone": "3215-5433",
+      "email": "dep.evandrogussi@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1980-09-11",
+  "dataFalecimento": null,
+  "ufNascimento": "SP",
+  "municipioNascimento": "Presidente Prudente",
+  "escolaridade": "Doutorado"
+}

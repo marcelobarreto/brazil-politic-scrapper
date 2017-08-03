@@ -1,0 +1,37 @@
+{
+  "id": 178981,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178981",
+  "nomeCivil": "HERCULANO CASTILHO PASSOS JUNIOR",
+  "ultimoStatus": {
+    "id": 178981,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178981",
+    "nome": "HERCULANO PASSOS",
+    "siglaPartido": "PSD",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36834",
+    "siglaUf": "SP",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/178981.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "HERCULANO PASSOS",
+    "gabinete": {
+      "nome": "926",
+      "predio": "4",
+      "sala": "926",
+      "andar": "9",
+      "telefone": "3215-5926",
+      "email": "dep.herculanopassos@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1956-08-04",
+  "dataFalecimento": null,
+  "ufNascimento": "SP",
+  "municipioNascimento": "Itu",
+  "escolaridade": "Superior Incompleto"
+}

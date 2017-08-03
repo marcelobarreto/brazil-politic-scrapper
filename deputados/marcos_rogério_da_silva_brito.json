@@ -1,0 +1,39 @@
+{
+  "id": 167722,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/167722",
+  "nomeCivil": "MARCOS ROGÉRIO DA SILVA BRITO",
+  "ultimoStatus": {
+    "id": 167722,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/167722",
+    "nome": "MARCOS ROGÉRIO",
+    "siglaPartido": "DEM",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36769",
+    "siglaUf": "RO",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/167722.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "MARCOS ROGÉRIO",
+    "gabinete": {
+      "nome": "930",
+      "predio": "4",
+      "sala": "930",
+      "andar": "9",
+      "telefone": "3215-5930",
+      "email": "dep.marcosrogerio@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [
+    "https://pt-br.facebook.com/depmarcosrogerio"
+  ],
+  "dataNascimento": "1978-07-07",
+  "dataFalecimento": null,
+  "ufNascimento": "RO",
+  "municipioNascimento": "Ji-Paraná",
+  "escolaridade": null
+}

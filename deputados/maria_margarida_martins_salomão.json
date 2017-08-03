@@ -1,0 +1,37 @@
+{
+  "id": 171619,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/171619",
+  "nomeCivil": "MARIA MARGARIDA MARTINS SALOMÃO",
+  "ultimoStatus": {
+    "id": 171619,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/171619",
+    "nome": "MARGARIDA SALOMÃO",
+    "siglaPartido": "PT",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36844",
+    "siglaUf": "MG",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/171619.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "MARGARIDA SALOMÃO",
+    "gabinete": {
+      "nome": "236",
+      "predio": "4",
+      "sala": "236",
+      "andar": "2",
+      "telefone": "3215-5236",
+      "email": "dep.margaridasalomao@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "F",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1950-06-10",
+  "dataFalecimento": null,
+  "ufNascimento": "MG",
+  "municipioNascimento": "Juiz de Fora",
+  "escolaridade": null
+}

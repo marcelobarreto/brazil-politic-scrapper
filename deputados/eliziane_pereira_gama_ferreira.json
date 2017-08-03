@@ -1,0 +1,37 @@
+{
+  "id": 178883,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178883",
+  "nomeCivil": "ELIZIANE PEREIRA GAMA FERREIRA",
+  "ultimoStatus": {
+    "id": 178883,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178883",
+    "nome": "ELIZIANE GAMA",
+    "siglaPartido": "PPS",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36813",
+    "siglaUf": "MA",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/178883.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "ELIZIANE GAMA",
+    "gabinete": {
+      "nome": "205",
+      "predio": "4",
+      "sala": "205",
+      "andar": "2",
+      "telefone": "3215-5205",
+      "email": "dep.elizianegama@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "F",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1977-02-27",
+  "dataFalecimento": null,
+  "ufNascimento": "MA",
+  "municipioNascimento": "Monção",
+  "escolaridade": "Superior"
+}

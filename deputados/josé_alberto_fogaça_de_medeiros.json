@@ -1,0 +1,37 @@
+{
+  "id": 131966,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/131966",
+  "nomeCivil": "José Alberto Fogaça de Medeiros",
+  "ultimoStatus": {
+    "id": 131966,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/131966",
+    "nome": "JOSÉ FOGAÇA ",
+    "siglaPartido": "PMDB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36800",
+    "siglaUf": "RS",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/131966.jpg",
+    "data": "2015-02-12",
+    "nomeEleitoral": "JOSÉ FOGAÇA ",
+    "gabinete": {
+      "nome": "376",
+      "predio": "3",
+      "sala": "376",
+      "andar": null,
+      "telefone": "3215-5376",
+      "email": "dep.josefogaca@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Suplente",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1947-01-13",
+  "dataFalecimento": null,
+  "ufNascimento": "RS",
+  "municipioNascimento": "Porto Alegre",
+  "escolaridade": "Superior"
+}

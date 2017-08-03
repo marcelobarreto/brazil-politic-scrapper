@@ -1,0 +1,37 @@
+{
+  "id": 74395,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74395",
+  "nomeCivil": "JOSÉ OTÁVIO GERMANO",
+  "ultimoStatus": {
+    "id": 74395,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74395",
+    "nome": "JOSÉ OTÁVIO GERMANO",
+    "siglaPartido": "PP",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36809",
+    "siglaUf": "RS",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/74395.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "JOSÉ OTÁVIO GERMANO",
+    "gabinete": {
+      "nome": "424",
+      "predio": "4",
+      "sala": "424",
+      "andar": "4",
+      "telefone": "3215-5424",
+      "email": "dep.joseotaviogermano@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1962-04-21",
+  "dataFalecimento": null,
+  "ufNascimento": "RS",
+  "municipioNascimento": "Porto Alegre",
+  "escolaridade": null
+}

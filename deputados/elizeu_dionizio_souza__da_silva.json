@@ -1,0 +1,40 @@
+{
+  "id": 181316,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/181316",
+  "nomeCivil": "ELIZEU DIONIZIO SOUZA  DA SILVA",
+  "ultimoStatus": {
+    "id": 181316,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/181316",
+    "nome": "ELIZEU DIONIZIO",
+    "siglaPartido": "PSDB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36835",
+    "siglaUf": "MS",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/181316.jpg",
+    "data": "2015-02-10",
+    "nomeEleitoral": "ELIZEU DIONIZIO",
+    "gabinete": {
+      "nome": "531",
+      "predio": "4",
+      "sala": "531",
+      "andar": "5",
+      "telefone": "3215-5531",
+      "email": "dep.elizeudionizio@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Suplente",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [
+    "elizeudionizio",
+    "elizeudionizio"
+  ],
+  "dataNascimento": "1982-01-24",
+  "dataFalecimento": null,
+  "ufNascimento": "ES",
+  "municipioNascimento": "Santa Teresa",
+  "escolaridade": "Superior"
+}

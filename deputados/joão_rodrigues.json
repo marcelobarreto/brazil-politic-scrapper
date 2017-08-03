@@ -1,0 +1,39 @@
+{
+  "id": 160571,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160571",
+  "nomeCivil": "JOÃO RODRIGUES",
+  "ultimoStatus": {
+    "id": 160571,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160571",
+    "nome": "JOÃO RODRIGUES",
+    "siglaPartido": "PSD",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36834",
+    "siglaUf": "SC",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/160571.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "JOÃO RODRIGUES",
+    "gabinete": {
+      "nome": "503",
+      "predio": "4",
+      "sala": "503",
+      "andar": "5",
+      "telefone": "3215-5503",
+      "email": "dep.joaorodrigues@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [
+    "http://www.twitter.com/joaoverdade"
+  ],
+  "dataNascimento": "1967-03-23",
+  "dataFalecimento": null,
+  "ufNascimento": "SC",
+  "municipioNascimento": "Chapecó",
+  "escolaridade": null
+}

@@ -1,0 +1,37 @@
+{
+  "id": 141470,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141470",
+  "nomeCivil": "JOSÉ NOBRE GUIMARÃES",
+  "ultimoStatus": {
+    "id": 141470,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141470",
+    "nome": "JOSÉ GUIMARÃES",
+    "siglaPartido": "PT",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36844",
+    "siglaUf": "CE",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/141470.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "JOSÉ GUIMARÃES",
+    "gabinete": {
+      "nome": "306",
+      "predio": "4",
+      "sala": "306",
+      "andar": "3",
+      "telefone": "3215-5306",
+      "email": "dep.joseguimaraes@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1959-02-13",
+  "dataFalecimento": null,
+  "ufNascimento": "CE",
+  "municipioNascimento": "Quixeramobim",
+  "escolaridade": null
+}

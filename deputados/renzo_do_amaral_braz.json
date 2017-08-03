@@ -1,0 +1,37 @@
+{
+  "id": 160654,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160654",
+  "nomeCivil": "RENZO DO AMARAL BRAZ",
+  "ultimoStatus": {
+    "id": 160654,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160654",
+    "nome": "RENZO BRAZ",
+    "siglaPartido": "PP",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36809",
+    "siglaUf": "MG",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/160654.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "RENZO BRAZ",
+    "gabinete": {
+      "nome": "736",
+      "predio": "4",
+      "sala": "736",
+      "andar": "7",
+      "telefone": "3215-5736",
+      "email": "dep.renzobraz@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1980-04-11",
+  "dataFalecimento": null,
+  "ufNascimento": "MG",
+  "municipioNascimento": "Muriaé",
+  "escolaridade": "Superior"
+}

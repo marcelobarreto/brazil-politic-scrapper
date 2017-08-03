@@ -1,0 +1,37 @@
+{
+  "id": 178830,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178830",
+  "nomeCivil": "SINVAL MALHEIROS PINTO JÚNIOR",
+  "ultimoStatus": {
+    "id": 178830,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178830",
+    "nome": "DR. SINVAL MALHEIROS",
+    "siglaPartido": "PODE",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36896",
+    "siglaUf": "SP",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/178830.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "DR. SINVAL MALHEIROS",
+    "gabinete": {
+      "nome": "520",
+      "predio": "4",
+      "sala": "520",
+      "andar": "5",
+      "telefone": "3215-5520",
+      "email": "dep.dr.sinvalmalheiros@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1951-02-23",
+  "dataFalecimento": null,
+  "ufNascimento": "SP",
+  "municipioNascimento": "São Paulo",
+  "escolaridade": "Superior"
+}

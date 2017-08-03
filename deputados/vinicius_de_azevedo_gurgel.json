@@ -1,0 +1,37 @@
+{
+  "id": 160591,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160591",
+  "nomeCivil": "VINICIUS DE AZEVEDO GURGEL",
+  "ultimoStatus": {
+    "id": 160591,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160591",
+    "nome": "VINICIUS GURGEL",
+    "siglaPartido": "PR",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36814",
+    "siglaUf": "AP",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/160591.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "VINICIUS GURGEL",
+    "gabinete": {
+      "nome": "852",
+      "predio": "4",
+      "sala": "852",
+      "andar": "8",
+      "telefone": "3215-5852",
+      "email": "dep.viniciusgurgel@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1978-07-31",
+  "dataFalecimento": null,
+  "ufNascimento": "AP",
+  "municipioNascimento": "Macapá",
+  "escolaridade": null
+}

@@ -1,0 +1,37 @@
+{
+  "id": 74270,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74270",
+  "nomeCivil": "GILBERTO NASCIMENTO SILVA",
+  "ultimoStatus": {
+    "id": 74270,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74270",
+    "nome": "GILBERTO NASCIMENTO",
+    "siglaPartido": "PSC",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36833",
+    "siglaUf": "SP",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/74270.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "GILBERTO NASCIMENTO",
+    "gabinete": {
+      "nome": "834",
+      "predio": "4",
+      "sala": "834",
+      "andar": "8",
+      "telefone": "3215-5834",
+      "email": "dep.gilbertonascimento@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1956-07-09",
+  "dataFalecimento": null,
+  "ufNascimento": "SP",
+  "municipioNascimento": "São Paulo",
+  "escolaridade": "Superior"
+}

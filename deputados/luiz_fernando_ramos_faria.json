@@ -1,0 +1,37 @@
+{
+  "id": 141487,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141487",
+  "nomeCivil": "LUIZ FERNANDO RAMOS FARIA",
+  "ultimoStatus": {
+    "id": 141487,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141487",
+    "nome": "LUIZ FERNANDO FARIA",
+    "siglaPartido": "PP",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36809",
+    "siglaUf": "MG",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/141487.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "LUIZ FERNANDO FARIA",
+    "gabinete": {
+      "nome": "832",
+      "predio": "4",
+      "sala": "832",
+      "andar": "8",
+      "telefone": "3215-5832",
+      "email": "dep.luizfernandofaria@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1957-09-12",
+  "dataFalecimento": null,
+  "ufNascimento": "MG",
+  "municipioNascimento": "Santos Dumont",
+  "escolaridade": null
+}

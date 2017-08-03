@@ -1,0 +1,37 @@
+{
+  "id": 195997,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/195997",
+  "nomeCivil": "POLLYANA FATIMA GAMA SANTOS",
+  "ultimoStatus": {
+    "id": 195997,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/195997",
+    "nome": "POLLYANA GAMA",
+    "siglaPartido": "PPS",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36813",
+    "siglaUf": "SP",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/195997.jpg",
+    "data": "2016-11-23",
+    "nomeEleitoral": "POLLYANA GAMA",
+    "gabinete": {
+      "nome": "921",
+      "predio": "4",
+      "sala": "921",
+      "andar": "9",
+      "telefone": "3215-5921",
+      "email": "dep.pollyanagama@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Suplente",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "F",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1975-05-13",
+  "dataFalecimento": null,
+  "ufNascimento": "SP",
+  "municipioNascimento": "Taubaté",
+  "escolaridade": "Superior"
+}

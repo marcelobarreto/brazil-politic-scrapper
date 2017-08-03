@@ -1,0 +1,37 @@
+{
+  "id": 73768,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73768",
+  "nomeCivil": "DILCEU JOÃO SPERAFICO",
+  "ultimoStatus": {
+    "id": 73768,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73768",
+    "nome": "DILCEU SPERAFICO",
+    "siglaPartido": "PP",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36809",
+    "siglaUf": "PR",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/73768.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "DILCEU SPERAFICO",
+    "gabinete": {
+      "nome": "746",
+      "predio": "4",
+      "sala": "746",
+      "andar": "7",
+      "telefone": "3215-5746",
+      "email": "dep.dilceusperafico@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1948-01-26",
+  "dataFalecimento": null,
+  "ufNascimento": "RS",
+  "municipioNascimento": "Santa Rosa",
+  "escolaridade": null
+}

@@ -1,0 +1,37 @@
+{
+  "id": 178856,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178856",
+  "nomeCivil": "JOAO GUALBERTO VASCONCELOS",
+  "ultimoStatus": {
+    "id": 178856,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178856",
+    "nome": "JOÃO GUALBERTO",
+    "siglaPartido": "PSDB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36835",
+    "siglaUf": "BA",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/178856.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "JOÃO GUALBERTO",
+    "gabinete": {
+      "nome": "358",
+      "predio": "4",
+      "sala": "358",
+      "andar": "3",
+      "telefone": "3215-5358",
+      "email": "dep.joaogualberto@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1958-07-06",
+  "dataFalecimento": null,
+  "ufNascimento": "SE",
+  "municipioNascimento": "Itabaiana",
+  "escolaridade": "Superior"
+}

@@ -1,0 +1,37 @@
+{
+  "id": 160518,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160518",
+  "nomeCivil": "WELITON FERNANDES PRADO",
+  "ultimoStatus": {
+    "id": 160518,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160518",
+    "nome": "WELITON PRADO",
+    "siglaPartido": "PMB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36887",
+    "siglaUf": "MG",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/160518.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "WELITON PRADO",
+    "gabinete": {
+      "nome": "862",
+      "predio": "4",
+      "sala": "862",
+      "andar": "8",
+      "telefone": "3215-5862",
+      "email": "dep.welitonprado@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1975-08-24",
+  "dataFalecimento": null,
+  "ufNascimento": "MG",
+  "municipioNascimento": "Uberlândia",
+  "escolaridade": "Pós-Graduação"
+}

@@ -1,0 +1,37 @@
+{
+  "id": 141518,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141518",
+  "nomeCivil": "PAULO PEREIRA DA SILVA",
+  "ultimoStatus": {
+    "id": 141518,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141518",
+    "nome": "PAULO PEREIRA DA SILVA",
+    "siglaPartido": "SD",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36765",
+    "siglaUf": "SP",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/141518.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "PAULO PEREIRA DA SILVA",
+    "gabinete": {
+      "nome": "217",
+      "predio": "4",
+      "sala": "217",
+      "andar": "2",
+      "telefone": "3215-5217",
+      "email": "dep.paulopereiradasilva@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1956-02-24",
+  "dataFalecimento": null,
+  "ufNascimento": "PR",
+  "municipioNascimento": "Porecatu",
+  "escolaridade": null
+}

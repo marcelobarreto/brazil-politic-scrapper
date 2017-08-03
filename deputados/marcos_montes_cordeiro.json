@@ -1,0 +1,37 @@
+{
+  "id": 141500,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141500",
+  "nomeCivil": "MARCOS MONTES CORDEIRO",
+  "ultimoStatus": {
+    "id": 141500,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141500",
+    "nome": "MARCOS MONTES",
+    "siglaPartido": "PSD",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36834",
+    "siglaUf": "MG",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/141500.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "MARCOS MONTES",
+    "gabinete": {
+      "nome": "334",
+      "predio": "4",
+      "sala": "334",
+      "andar": "3",
+      "telefone": "3215-5334",
+      "email": "dep.marcosmontes@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1949-08-03",
+  "dataFalecimento": null,
+  "ufNascimento": "MG",
+  "municipioNascimento": "Sacramento",
+  "escolaridade": null
+}

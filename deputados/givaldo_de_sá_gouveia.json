@@ -1,0 +1,37 @@
+{
+  "id": 74558,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74558",
+  "nomeCivil": "GIVALDO DE SÁ GOUVEIA",
+  "ultimoStatus": {
+    "id": 74558,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74558",
+    "nome": "GIVALDO CARIMBÃO",
+    "siglaPartido": "PHS",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36793",
+    "siglaUf": "AL",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/74558.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "GIVALDO CARIMBÃO",
+    "gabinete": {
+      "nome": "732",
+      "predio": "4",
+      "sala": "732",
+      "andar": "7",
+      "telefone": "3215-5732",
+      "email": "dep.givaldocarimbao@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1957-10-14",
+  "dataFalecimento": null,
+  "ufNascimento": "SE",
+  "municipioNascimento": "Itabi",
+  "escolaridade": null
+}

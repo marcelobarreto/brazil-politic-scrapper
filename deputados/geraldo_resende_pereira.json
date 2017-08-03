@@ -1,0 +1,40 @@
+{
+  "id": 74374,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74374",
+  "nomeCivil": "GERALDO RESENDE PEREIRA",
+  "ultimoStatus": {
+    "id": 74374,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74374",
+    "nome": "GERALDO RESENDE",
+    "siglaPartido": "PSDB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36835",
+    "siglaUf": "MS",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/74374.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "GERALDO RESENDE",
+    "gabinete": {
+      "nome": "905",
+      "predio": "4",
+      "sala": "905",
+      "andar": "9",
+      "telefone": "3215-5905",
+      "email": "dep.geraldoresende@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [
+    "http://twitter.com/dep_geraldo",
+    "http://twitter.com/dep_geraldo"
+  ],
+  "dataNascimento": "1955-04-20",
+  "dataFalecimento": null,
+  "ufNascimento": "MG",
+  "municipioNascimento": "Córrego Danta",
+  "escolaridade": null
+}

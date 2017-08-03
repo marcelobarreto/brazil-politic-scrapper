@@ -1,0 +1,37 @@
+{
+  "id": 178826,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178826",
+  "nomeCivil": "SERGIO OLIMPIO GOMES",
+  "ultimoStatus": {
+    "id": 178826,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178826",
+    "nome": "MAJOR OLIMPIO",
+    "siglaPartido": "SD",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36765",
+    "siglaUf": "SP",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/178826.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "MAJOR OLIMPIO",
+    "gabinete": {
+      "nome": "279",
+      "predio": "3",
+      "sala": "279",
+      "andar": null,
+      "telefone": "3215-5279",
+      "email": "dep.majorolimpio@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1962-03-20",
+  "dataFalecimento": null,
+  "ufNascimento": "SP",
+  "municipioNascimento": "Presidente Venceslau",
+  "escolaridade": "Pós-Graduação"
+}

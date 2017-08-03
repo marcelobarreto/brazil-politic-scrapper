@@ -1,0 +1,37 @@
+{
+  "id": 4931,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/4931",
+  "nomeCivil": "IZALCI LUCAS FERREIRA",
+  "ultimoStatus": {
+    "id": 4931,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/4931",
+    "nome": "IZALCI LUCAS",
+    "siglaPartido": "PSDB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36835",
+    "siglaUf": "DF",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/4931.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "IZALCI LUCAS",
+    "gabinete": {
+      "nome": "602",
+      "predio": "4",
+      "sala": "602",
+      "andar": "6",
+      "telefone": "3215-5602",
+      "email": "dep.izalcilucas@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1956-04-07",
+  "dataFalecimento": null,
+  "ufNascimento": "MG",
+  "municipioNascimento": "Araújos",
+  "escolaridade": null
+}

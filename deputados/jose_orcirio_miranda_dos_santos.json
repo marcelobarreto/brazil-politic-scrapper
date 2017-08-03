@@ -1,0 +1,37 @@
+{
+  "id": 178902,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178902",
+  "nomeCivil": "JOSE ORCIRIO MIRANDA DOS SANTOS",
+  "ultimoStatus": {
+    "id": 178902,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178902",
+    "nome": "ZECA DO PT",
+    "siglaPartido": "PT",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36844",
+    "siglaUf": "MS",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/178902.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "ZECA DO PT",
+    "gabinete": {
+      "nome": "860",
+      "predio": "4",
+      "sala": "860",
+      "andar": "8",
+      "telefone": "3215-5860",
+      "email": "dep.zecadopt@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1950-02-24",
+  "dataFalecimento": null,
+  "ufNascimento": "MS",
+  "municipioNascimento": "Porto Murtinho",
+  "escolaridade": "Superior"
+}

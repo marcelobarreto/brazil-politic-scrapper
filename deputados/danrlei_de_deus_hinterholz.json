@@ -1,0 +1,39 @@
+{
+  "id": 160552,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160552",
+  "nomeCivil": "DANRLEI DE DEUS HINTERHOLZ",
+  "ultimoStatus": {
+    "id": 160552,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160552",
+    "nome": "DANRLEI DE DEUS HINTERHOLZ",
+    "siglaPartido": "PSD",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36834",
+    "siglaUf": "RS",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/160552.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "DANRLEI DE DEUS HINTERHOLZ",
+    "gabinete": {
+      "nome": "566",
+      "predio": "3",
+      "sala": "566",
+      "andar": null,
+      "telefone": "3215-5566",
+      "email": "dep.danrleidedeushinterholz@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [
+    "http://twitter.com/deputadoaureo"
+  ],
+  "dataNascimento": "1973-04-18",
+  "dataFalecimento": null,
+  "ufNascimento": "RS",
+  "municipioNascimento": "Porto Alegre",
+  "escolaridade": null
+}

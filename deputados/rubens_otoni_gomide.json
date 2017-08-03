@@ -1,0 +1,37 @@
+{
+  "id": 74371,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74371",
+  "nomeCivil": "RUBENS OTONI GOMIDE",
+  "ultimoStatus": {
+    "id": 74371,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74371",
+    "nome": "RUBENS OTONI",
+    "siglaPartido": "PT",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36844",
+    "siglaUf": "GO",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/74371.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "RUBENS OTONI",
+    "gabinete": {
+      "nome": "501",
+      "predio": "4",
+      "sala": "501",
+      "andar": "5",
+      "telefone": "3215-5501",
+      "email": "dep.rubensotoni@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1956-02-06",
+  "dataFalecimento": null,
+  "ufNascimento": "GO",
+  "municipioNascimento": "Goianésia",
+  "escolaridade": null
+}

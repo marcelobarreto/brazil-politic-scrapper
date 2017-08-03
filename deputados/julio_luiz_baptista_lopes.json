@@ -1,0 +1,37 @@
+{
+  "id": 74253,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74253",
+  "nomeCivil": "JULIO LUIZ BAPTISTA LOPES",
+  "ultimoStatus": {
+    "id": 74253,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74253",
+    "nome": "JULIO LOPES",
+    "siglaPartido": "PP",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36809",
+    "siglaUf": "RJ",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/74253.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "JULIO LOPES",
+    "gabinete": {
+      "nome": "544",
+      "predio": "4",
+      "sala": "544",
+      "andar": "5",
+      "telefone": "3215-5544",
+      "email": "dep.juliolopes@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1959-04-06",
+  "dataFalecimento": null,
+  "ufNascimento": "RJ",
+  "municipioNascimento": "Rio de Janeiro",
+  "escolaridade": null
+}

@@ -1,0 +1,37 @@
+{
+  "id": 178903,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178903",
+  "nomeCivil": "ADILTON DOMINGOS SACHETTI",
+  "ultimoStatus": {
+    "id": 178903,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178903",
+    "nome": "ADILTON SACHETTI",
+    "siglaPartido": "PSB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36832",
+    "siglaUf": "MT",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/178903.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "ADILTON SACHETTI",
+    "gabinete": {
+      "nome": "374",
+      "predio": "3",
+      "sala": "374",
+      "andar": null,
+      "telefone": "3215-5374",
+      "email": "dep.adiltonsachetti@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1956-02-05",
+  "dataFalecimento": null,
+  "ufNascimento": "SC",
+  "municipioNascimento": "Nova Veneza",
+  "escolaridade": "Superior"
+}

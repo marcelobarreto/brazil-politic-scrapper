@@ -1,0 +1,37 @@
+{
+  "id": 73930,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73930",
+  "nomeCivil": "WLADIMIR AFONSO DA COSTA RABELO",
+  "ultimoStatus": {
+    "id": 73930,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73930",
+    "nome": "WLADIMIR COSTA",
+    "siglaPartido": "SD",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36765",
+    "siglaUf": "PA",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/73930.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "WLADIMIR COSTA",
+    "gabinete": {
+      "nome": "343",
+      "predio": "4",
+      "sala": "343",
+      "andar": "3",
+      "telefone": "3215-5343",
+      "email": "dep.wladimircosta@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1964-01-16",
+  "dataFalecimento": null,
+  "ufNascimento": "PA",
+  "municipioNascimento": "Belém",
+  "escolaridade": null
+}

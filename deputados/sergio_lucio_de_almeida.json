@@ -1,0 +1,37 @@
+{
+  "id": 178898,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178898",
+  "nomeCivil": "SERGIO LUCIO DE ALMEIDA",
+  "ultimoStatus": {
+    "id": 178898,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178898",
+    "nome": "TENENTE LÚCIO",
+    "siglaPartido": "PSB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36832",
+    "siglaUf": "MG",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/178898.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "TENENTE LÚCIO",
+    "gabinete": {
+      "nome": "239",
+      "predio": "4",
+      "sala": "239",
+      "andar": "2",
+      "telefone": "3215-5239",
+      "email": "dep.tenentelucio@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1960-03-21",
+  "dataFalecimento": null,
+  "ufNascimento": "MG",
+  "municipioNascimento": "Uberlândia",
+  "escolaridade": "Superior"
+}

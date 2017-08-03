@@ -1,0 +1,37 @@
+{
+  "id": 74787,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74787",
+  "nomeCivil": "MILTON ANTONIO CASQUEL MONTI",
+  "ultimoStatus": {
+    "id": 74787,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74787",
+    "nome": "MILTON MONTI",
+    "siglaPartido": "PR",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36814",
+    "siglaUf": "SP",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/74787.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "MILTON MONTI",
+    "gabinete": {
+      "nome": "328",
+      "predio": "4",
+      "sala": "328",
+      "andar": "3",
+      "telefone": "3215-5328",
+      "email": "dep.miltonmonti@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1961-06-11",
+  "dataFalecimento": null,
+  "ufNascimento": "SP",
+  "municipioNascimento": "São Manuel",
+  "escolaridade": null
+}

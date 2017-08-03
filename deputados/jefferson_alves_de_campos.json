@@ -1,0 +1,37 @@
+{
+  "id": 74273,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74273",
+  "nomeCivil": "JEFFERSON ALVES DE CAMPOS",
+  "ultimoStatus": {
+    "id": 74273,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74273",
+    "nome": "JEFFERSON CAMPOS",
+    "siglaPartido": "PSD",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36834",
+    "siglaUf": "SP",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/74273.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "JEFFERSON CAMPOS",
+    "gabinete": {
+      "nome": "346",
+      "predio": "4",
+      "sala": "346",
+      "andar": "3",
+      "telefone": "3215-5346",
+      "email": "dep.jeffersoncampos@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1964-10-26",
+  "dataFalecimento": null,
+  "ufNascimento": "SP",
+  "municipioNascimento": "Ourinhos",
+  "escolaridade": null
+}

@@ -1,0 +1,37 @@
+{
+  "id": 178847,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178847",
+  "nomeCivil": "ARTHUR VIRGILIO DO CARMO RIBEIRO BISNETO",
+  "ultimoStatus": {
+    "id": 178847,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178847",
+    "nome": "ARTHUR VIRGÍLIO BISNETO",
+    "siglaPartido": "PSDB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36835",
+    "siglaUf": "AM",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/178847.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "ARTHUR VIRGÍLIO BISNETO",
+    "gabinete": {
+      "nome": "521",
+      "predio": "4",
+      "sala": "521",
+      "andar": "5",
+      "telefone": "3215-5521",
+      "email": "dep.arthurvirgiliobisneto@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1979-10-01",
+  "dataFalecimento": null,
+  "ufNascimento": "DF",
+  "municipioNascimento": "Brasília",
+  "escolaridade": "Superior Incompleto"
+}

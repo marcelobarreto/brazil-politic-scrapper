@@ -1,0 +1,37 @@
+{
+  "id": 66179,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/66179",
+  "nomeCivil": "NORMA AYUB ALVES",
+  "ultimoStatus": {
+    "id": 66179,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/66179",
+    "nome": "NORMA AYUB",
+    "siglaPartido": "DEM",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36769",
+    "siglaUf": "ES",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/66179.jpg",
+    "data": "2017-01-02",
+    "nomeEleitoral": "NORMA AYUB",
+    "gabinete": {
+      "nome": "601",
+      "predio": "4",
+      "sala": "601",
+      "andar": "6",
+      "telefone": "3215-5601",
+      "email": "dep.normaayub@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Efetivado",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "F",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1959-09-07",
+  "dataFalecimento": null,
+  "ufNascimento": "ES",
+  "municipioNascimento": "Vitória",
+  "escolaridade": "Superior"
+}

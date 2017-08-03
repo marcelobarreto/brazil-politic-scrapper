@@ -1,0 +1,37 @@
+{
+  "id": 178877,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178877",
+  "nomeCivil": "FABIO FERNANDES DE SOUSA",
+  "ultimoStatus": {
+    "id": 178877,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178877",
+    "nome": "FÁBIO SOUSA",
+    "siglaPartido": "PSDB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36835",
+    "siglaUf": "GO",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/178877.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "FÁBIO SOUSA",
+    "gabinete": {
+      "nome": "271",
+      "predio": "3",
+      "sala": "271",
+      "andar": null,
+      "telefone": "3215-5271",
+      "email": "dep.fabiosousa@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1982-09-11",
+  "dataFalecimento": null,
+  "ufNascimento": "GO",
+  "municipioNascimento": "Goiânia",
+  "escolaridade": "Superior"
+}

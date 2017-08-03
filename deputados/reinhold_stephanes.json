@@ -1,0 +1,37 @@
+{
+  "id": 73786,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73786",
+  "nomeCivil": "REINHOLD STEPHANES",
+  "ultimoStatus": {
+    "id": 73786,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73786",
+    "nome": "REINHOLD STEPHANES",
+    "siglaPartido": "PSD",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36834",
+    "siglaUf": "PR",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/73786.jpg",
+    "data": "2016-03-15",
+    "nomeEleitoral": "REINHOLD STEPHANES",
+    "gabinete": {
+      "nome": "519",
+      "predio": "4",
+      "sala": "519",
+      "andar": "5",
+      "telefone": "3215-5519",
+      "email": "dep.reinholdstephanes@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Suplente",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1939-08-13",
+  "dataFalecimento": null,
+  "ufNascimento": "SC",
+  "municipioNascimento": "Porto União",
+  "escolaridade": null
+}

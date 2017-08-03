@@ -1,0 +1,37 @@
+{
+  "id": 132056,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/132056",
+  "nomeCivil": "PAULO SALIM MALUF",
+  "ultimoStatus": {
+    "id": 132056,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/132056",
+    "nome": "PAULO MALUF",
+    "siglaPartido": "PP",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36809",
+    "siglaUf": "SP",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/132056.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "PAULO MALUF",
+    "gabinete": {
+      "nome": "512",
+      "predio": "4",
+      "sala": "512",
+      "andar": "5",
+      "telefone": "3215-5512",
+      "email": "dep.paulomaluf@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1931-09-03",
+  "dataFalecimento": null,
+  "ufNascimento": "SP",
+  "municipioNascimento": "São Paulo",
+  "escolaridade": null
+}

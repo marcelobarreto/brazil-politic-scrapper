@@ -1,0 +1,37 @@
+{
+  "id": 178910,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178910",
+  "nomeCivil": "JOAQUIM PASSARINHO PINTO DE SOUZA PORTO",
+  "ultimoStatus": {
+    "id": 178910,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178910",
+    "nome": "JOAQUIM PASSARINHO",
+    "siglaPartido": "PSD",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36834",
+    "siglaUf": "PA",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/178910.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "JOAQUIM PASSARINHO",
+    "gabinete": {
+      "nome": "339",
+      "predio": "4",
+      "sala": "339",
+      "andar": "3",
+      "telefone": "3215-5339",
+      "email": "dep.joaquimpassarinho@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1961-12-02",
+  "dataFalecimento": null,
+  "ufNascimento": "PA",
+  "municipioNascimento": "Belém",
+  "escolaridade": "Superior"
+}

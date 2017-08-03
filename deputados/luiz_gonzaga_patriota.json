@@ -1,0 +1,37 @@
+{
+  "id": 74419,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74419",
+  "nomeCivil": "LUIZ GONZAGA PATRIOTA",
+  "ultimoStatus": {
+    "id": 74419,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74419",
+    "nome": "GONZAGA PATRIOTA",
+    "siglaPartido": "PSB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36832",
+    "siglaUf": "PE",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/74419.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "GONZAGA PATRIOTA",
+    "gabinete": {
+      "nome": "430",
+      "predio": "4",
+      "sala": "430",
+      "andar": "4",
+      "telefone": "3215-5430",
+      "email": "dep.gonzagapatriota@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1946-04-26",
+  "dataFalecimento": null,
+  "ufNascimento": "PE",
+  "municipioNascimento": "Sertânia",
+  "escolaridade": null
+}

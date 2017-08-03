@@ -1,0 +1,37 @@
+{
+  "id": 141517,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141517",
+  "nomeCivil": "PAULO HENRIQUE ELLERY LUSTOSA DA COSTA",
+  "ultimoStatus": {
+    "id": 141517,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141517",
+    "nome": "PAULO HENRIQUE LUSTOSA",
+    "siglaPartido": "PP",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36809",
+    "siglaUf": "CE",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/141517.jpg",
+    "data": "2015-11-17",
+    "nomeEleitoral": "PAULO HENRIQUE LUSTOSA",
+    "gabinete": {
+      "nome": "911",
+      "predio": "4",
+      "sala": "911",
+      "andar": "9",
+      "telefone": "3215-5911",
+      "email": "dep.paulohenriquelustosa@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Suplente",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1968-02-08",
+  "dataFalecimento": null,
+  "ufNascimento": "CE",
+  "municipioNascimento": "Fortaleza",
+  "escolaridade": null
+}

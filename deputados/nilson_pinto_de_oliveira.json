@@ -1,0 +1,37 @@
+{
+  "id": 74352,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74352",
+  "nomeCivil": "NILSON PINTO DE OLIVEIRA",
+  "ultimoStatus": {
+    "id": 74352,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74352",
+    "nome": "NILSON PINTO",
+    "siglaPartido": "PSDB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36835",
+    "siglaUf": "PA",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/74352.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "NILSON PINTO",
+    "gabinete": {
+      "nome": "527",
+      "predio": "4",
+      "sala": "527",
+      "andar": "5",
+      "telefone": "3215-5527",
+      "email": "dep.nilsonpinto@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1952-03-25",
+  "dataFalecimento": null,
+  "ufNascimento": "PA",
+  "municipioNascimento": "Belém",
+  "escolaridade": null
+}

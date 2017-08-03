@@ -1,0 +1,37 @@
+{
+  "id": 62881,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/62881",
+  "nomeCivil": "FRANCISCO DANILO BASTOS FORTE",
+  "ultimoStatus": {
+    "id": 62881,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/62881",
+    "nome": "DANILO FORTE",
+    "siglaPartido": "PSB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36832",
+    "siglaUf": "CE",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/62881.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "DANILO FORTE",
+    "gabinete": {
+      "nome": "384",
+      "predio": "3",
+      "sala": "384",
+      "andar": null,
+      "telefone": "3215-5384",
+      "email": "dep.daniloforte@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1958-09-01",
+  "dataFalecimento": null,
+  "ufNascimento": "CE",
+  "municipioNascimento": "Fortaleza",
+  "escolaridade": null
+}

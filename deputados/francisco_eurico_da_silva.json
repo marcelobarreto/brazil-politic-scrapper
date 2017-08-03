@@ -1,0 +1,37 @@
+{
+  "id": 160642,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160642",
+  "nomeCivil": "FRANCISCO EURICO DA SILVA",
+  "ultimoStatus": {
+    "id": 160642,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160642",
+    "nome": "PASTOR EURICO",
+    "siglaPartido": "PHS",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36793",
+    "siglaUf": "PE",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/160642.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "PASTOR EURICO",
+    "gabinete": {
+      "nome": "906",
+      "predio": "4",
+      "sala": "906",
+      "andar": "9",
+      "telefone": "3215-5906",
+      "email": "dep.pastoreurico@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1962-09-12",
+  "dataFalecimento": null,
+  "ufNascimento": "SP",
+  "municipioNascimento": "Presidente Prudente",
+  "escolaridade": null
+}

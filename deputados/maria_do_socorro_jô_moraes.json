@@ -1,0 +1,37 @@
+{
+  "id": 141503,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141503",
+  "nomeCivil": "MARIA DO SOCORRO JÔ MORAES",
+  "ultimoStatus": {
+    "id": 141503,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141503",
+    "nome": "JÔ MORAES",
+    "siglaPartido": "PCdoB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36779",
+    "siglaUf": "MG",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/141503.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "JÔ MORAES",
+    "gabinete": {
+      "nome": "322",
+      "predio": "4",
+      "sala": "322",
+      "andar": "3",
+      "telefone": "3215-5322",
+      "email": "dep.jomoraes@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "F",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1946-08-09",
+  "dataFalecimento": null,
+  "ufNascimento": "PB",
+  "municipioNascimento": "Cabedelo",
+  "escolaridade": null
+}

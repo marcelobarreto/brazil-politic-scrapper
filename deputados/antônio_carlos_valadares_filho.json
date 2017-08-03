@@ -1,0 +1,37 @@
+{
+  "id": 141384,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141384",
+  "nomeCivil": "ANTÔNIO CARLOS VALADARES FILHO",
+  "ultimoStatus": {
+    "id": 141384,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141384",
+    "nome": "VALADARES FILHO",
+    "siglaPartido": "PSB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36832",
+    "siglaUf": "SE",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/141384.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "VALADARES FILHO",
+    "gabinete": {
+      "nome": "660",
+      "predio": "4",
+      "sala": "660",
+      "andar": "6",
+      "telefone": "3215-5660",
+      "email": "dep.valadaresfilho@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1980-10-01",
+  "dataFalecimento": null,
+  "ufNascimento": "SE",
+  "municipioNascimento": "Aracaju",
+  "escolaridade": null
+}

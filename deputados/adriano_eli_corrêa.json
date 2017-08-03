@@ -1,0 +1,40 @@
+{
+  "id": 160532,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160532",
+  "nomeCivil": "ADRIANO ELI CORRÊA",
+  "ultimoStatus": {
+    "id": 160532,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160532",
+    "nome": "ELI CORRÊA FILHO",
+    "siglaPartido": "DEM",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36769",
+    "siglaUf": "SP",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/160532.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "ELI CORRÊA FILHO",
+    "gabinete": {
+      "nome": "850",
+      "predio": "4",
+      "sala": "850",
+      "andar": "8",
+      "telefone": "3215-5850",
+      "email": "dep.elicorreafilho@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [
+    "http://www.orkut.com.br/elicorreafilho",
+    "http://www.twitter.com/elicorreafilho"
+  ],
+  "dataNascimento": "1976-01-13",
+  "dataFalecimento": null,
+  "ufNascimento": "SP",
+  "municipioNascimento": "São Paulo",
+  "escolaridade": null
+}

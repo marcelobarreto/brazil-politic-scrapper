@@ -1,0 +1,37 @@
+{
+  "id": 74041,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74041",
+  "nomeCivil": "LUIZ ALBUQUERQUE COUTO",
+  "ultimoStatus": {
+    "id": 74041,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74041",
+    "nome": "LUIZ COUTO",
+    "siglaPartido": "PT",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36844",
+    "siglaUf": "PB",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/74041.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "LUIZ COUTO",
+    "gabinete": {
+      "nome": "442",
+      "predio": "4",
+      "sala": "442",
+      "andar": "4",
+      "telefone": "3215-5442",
+      "email": "dep.luizcouto@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1945-02-13",
+  "dataFalecimento": null,
+  "ufNascimento": "PB",
+  "municipioNascimento": "Soledade",
+  "escolaridade": null
+}

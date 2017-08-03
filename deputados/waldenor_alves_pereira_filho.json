@@ -1,0 +1,37 @@
+{
+  "id": 160569,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160569",
+  "nomeCivil": "WALDENOR ALVES PEREIRA FILHO",
+  "ultimoStatus": {
+    "id": 160569,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160569",
+    "nome": "WALDENOR PEREIRA",
+    "siglaPartido": "PT",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36844",
+    "siglaUf": "BA",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/160569.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "WALDENOR PEREIRA",
+    "gabinete": {
+      "nome": "954",
+      "predio": "4",
+      "sala": "954",
+      "andar": "9",
+      "telefone": "3215-5954",
+      "email": "dep.waldenorpereira@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1954-03-08",
+  "dataFalecimento": null,
+  "ufNascimento": "BA",
+  "municipioNascimento": "Caculé",
+  "escolaridade": null
+}

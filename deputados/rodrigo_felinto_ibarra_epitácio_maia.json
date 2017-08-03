@@ -1,0 +1,37 @@
+{
+  "id": 74693,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74693",
+  "nomeCivil": "RODRIGO FELINTO IBARRA EPITÁCIO MAIA",
+  "ultimoStatus": {
+    "id": 74693,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74693",
+    "nome": "RODRIGO MAIA",
+    "siglaPartido": "DEM",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36769",
+    "siglaUf": "RJ",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/74693.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "RODRIGO MAIA",
+    "gabinete": {
+      "nome": "308",
+      "predio": "4",
+      "sala": "308",
+      "andar": "3",
+      "telefone": "3215-5308",
+      "email": "dep.rodrigomaia@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1970-06-12",
+  "dataFalecimento": null,
+  "ufNascimento": null,
+  "municipioNascimento": "Santiago",
+  "escolaridade": null
+}

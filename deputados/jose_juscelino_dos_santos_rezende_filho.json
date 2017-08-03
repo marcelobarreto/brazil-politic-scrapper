@@ -1,0 +1,37 @@
+{
+  "id": 178886,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178886",
+  "nomeCivil": "JOSE JUSCELINO DOS SANTOS REZENDE FILHO",
+  "ultimoStatus": {
+    "id": 178886,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178886",
+    "nome": "JUSCELINO FILHO",
+    "siglaPartido": "DEM",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36769",
+    "siglaUf": "MA",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/178886.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "JUSCELINO FILHO",
+    "gabinete": {
+      "nome": "370",
+      "predio": "3",
+      "sala": "370",
+      "andar": null,
+      "telefone": "3215-5370",
+      "email": "dep.juscelinofilho@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1984-11-06",
+  "dataFalecimento": null,
+  "ufNascimento": "MA",
+  "municipioNascimento": "São Luís",
+  "escolaridade": "Superior"
+}

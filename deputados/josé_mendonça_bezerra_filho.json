@@ -1,0 +1,37 @@
+{
+  "id": 74428,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74428",
+  "nomeCivil": "JOSÉ MENDONÇA BEZERRA FILHO",
+  "ultimoStatus": {
+    "id": 74428,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74428",
+    "nome": "MENDONÇA FILHO",
+    "siglaPartido": "DEM",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36769",
+    "siglaUf": "PE",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/74428.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "MENDONÇA FILHO",
+    "gabinete": {
+      "nome": "314",
+      "predio": "4",
+      "sala": "314",
+      "andar": "3",
+      "telefone": "3215-5314",
+      "email": "dep.mendoncafilho@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1966-07-12",
+  "dataFalecimento": null,
+  "ufNascimento": "PE",
+  "municipioNascimento": "Recife",
+  "escolaridade": null
+}

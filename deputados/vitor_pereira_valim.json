@@ -1,0 +1,37 @@
+{
+  "id": 178869,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178869",
+  "nomeCivil": "VITOR PEREIRA VALIM",
+  "ultimoStatus": {
+    "id": 178869,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178869",
+    "nome": "VITOR VALIM",
+    "siglaPartido": "PMDB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36800",
+    "siglaUf": "CE",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/178869.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "VITOR VALIM",
+    "gabinete": {
+      "nome": "545",
+      "predio": "4",
+      "sala": "545",
+      "andar": "5",
+      "telefone": "3215-5545",
+      "email": "dep.vitorvalim@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1978-05-15",
+  "dataFalecimento": null,
+  "ufNascimento": "CE",
+  "municipioNascimento": "Fortaleza",
+  "escolaridade": "Superior Incompleto"
+}

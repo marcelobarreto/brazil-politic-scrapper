@@ -1,0 +1,37 @@
+{
+  "id": 195278,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/195278",
+  "nomeCivil": "MOISES DINIZ LIMA",
+  "ultimoStatus": {
+    "id": 195278,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/195278",
+    "nome": "MOISÉS DINIZ",
+    "siglaPartido": "PCdoB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36779",
+    "siglaUf": "AC",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/195278.jpg",
+    "data": "2016-08-16",
+    "nomeEleitoral": "MOISÉS DINIZ",
+    "gabinete": {
+      "nome": "421",
+      "predio": "4",
+      "sala": "421",
+      "andar": "4",
+      "telefone": "3215-5421",
+      "email": "dep.moisesdiniz@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Suplente",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1963-08-11",
+  "dataFalecimento": null,
+  "ufNascimento": "AC",
+  "municipioNascimento": "Cruzeiro do Sul",
+  "escolaridade": "Superior"
+}

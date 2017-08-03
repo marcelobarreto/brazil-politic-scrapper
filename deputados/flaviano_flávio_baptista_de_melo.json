@@ -1,0 +1,40 @@
+{
+  "id": 141434,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141434",
+  "nomeCivil": "FLAVIANO FLÁVIO BAPTISTA DE MELO",
+  "ultimoStatus": {
+    "id": 141434,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141434",
+    "nome": "FLAVIANO MELO",
+    "siglaPartido": "PMDB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36800",
+    "siglaUf": "AC",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/141434.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "FLAVIANO MELO",
+    "gabinete": {
+      "nome": "224",
+      "predio": "4",
+      "sala": "224",
+      "andar": "2",
+      "telefone": "3215-5224",
+      "email": "dep.flavianomelo@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": "www.deputadoflavianomelo.com.br",
+  "redeSocial": [
+    "www.twitter.com/flaviano_melo",
+    "www.facebook.com/flaviano.melo.10"
+  ],
+  "dataNascimento": "1949-11-17",
+  "dataFalecimento": null,
+  "ufNascimento": "AC",
+  "municipioNascimento": "Rio Branco",
+  "escolaridade": null
+}

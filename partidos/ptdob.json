@@ -1,0 +1,28 @@
+{
+  "id": 36847,
+  "sigla": "PTdoB",
+  "nome": "Partido Trabalhista do Brasil",
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/partidos/36847",
+  "status": {
+    "data": null,
+    "idLegislatura": "55",
+    "situacao": "Ativo",
+    "totalPosse": "2",
+    "totalMemebros": "3",
+    "uriMembros": "https://dadosabertos.camara.leg.br/api/v2/deputados?legislatura=55&partido=PTdoB",
+    "lider": {
+      "id": 160510,
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160510",
+      "nome": "LUIS TIBÉ",
+      "siglaPartido": "PTdoB",
+      "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36847",
+      "uf": "MG",
+      "idLegislatura": 55,
+      "urlFoto": "http://www.camara.gov.br/internet/deputado/bandep/160510.jpg"
+    }
+  },
+  "numeroEleitoral": null,
+  "urlLogo": "http://www.camara.leg.br/internet/Deputado/img/partidos/PTdoB.gif",
+  "urlWebSite": null,
+  "urlFacebook": null
+}

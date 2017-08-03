@@ -1,0 +1,39 @@
+{
+  "id": 160619,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160619",
+  "nomeCivil": "JOSÉ NUNES SOARES",
+  "ultimoStatus": {
+    "id": 160619,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/160619",
+    "nome": "JOSÉ NUNES",
+    "siglaPartido": "PSD",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36834",
+    "siglaUf": "BA",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/160619.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "JOSÉ NUNES",
+    "gabinete": {
+      "nome": "728",
+      "predio": "4",
+      "sala": "728",
+      "andar": "7",
+      "telefone": "3215-5728",
+      "email": "dep.josenunes@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [
+    "http://www.orkut.com.br/arthurmaia"
+  ],
+  "dataNascimento": "1950-12-18",
+  "dataFalecimento": null,
+  "ufNascimento": "PE",
+  "municipioNascimento": "Belém de São Francisco",
+  "escolaridade": null
+}

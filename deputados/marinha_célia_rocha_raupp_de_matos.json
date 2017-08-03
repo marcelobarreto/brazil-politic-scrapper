@@ -1,0 +1,37 @@
+{
+  "id": 74177,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74177",
+  "nomeCivil": "MARINHA CÉLIA ROCHA RAUPP DE MATOS",
+  "ultimoStatus": {
+    "id": 74177,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74177",
+    "nome": "MARINHA RAUPP",
+    "siglaPartido": "PMDB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36800",
+    "siglaUf": "RO",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/74177.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "MARINHA RAUPP",
+    "gabinete": {
+      "nome": "614",
+      "predio": "4",
+      "sala": "614",
+      "andar": "6",
+      "telefone": "3215-5614",
+      "email": "dep.marinharaupp@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "F",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1960-11-23",
+  "dataFalecimento": null,
+  "ufNascimento": "SP",
+  "municipioNascimento": "Maracaí",
+  "escolaridade": null
+}

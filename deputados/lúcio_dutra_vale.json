@@ -1,0 +1,37 @@
+{
+  "id": 141484,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141484",
+  "nomeCivil": "LÚCIO DUTRA VALE",
+  "ultimoStatus": {
+    "id": 141484,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141484",
+    "nome": "LÚCIO VALE",
+    "siglaPartido": "PR",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36814",
+    "siglaUf": "PA",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/141484.jpg",
+    "data": "2015-02-01",
+    "nomeEleitoral": "LÚCIO VALE",
+    "gabinete": {
+      "nome": "822",
+      "predio": "4",
+      "sala": "822",
+      "andar": "8",
+      "telefone": "3215-5822",
+      "email": "dep.luciovale@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Titular",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "M",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1972-12-27",
+  "dataFalecimento": null,
+  "ufNascimento": "MG",
+  "municipioNascimento": "Manhuaçu",
+  "escolaridade": null
+}

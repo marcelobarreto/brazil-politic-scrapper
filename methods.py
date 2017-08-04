@@ -14,7 +14,7 @@ def do_request(url):
     return requests.get(url)
 
 def write_file(data, filename):
-    with open('{filename}.json'.format(filename = filename), 'w') as outfile:
+    with open("{filename}.json".format(filename = filename), "w") as outfile:
         json.dump(data, outfile, ensure_ascii = False, indent = 2)
 
 def get_deputy_info(id):
@@ -22,8 +22,8 @@ def get_deputy_info(id):
     return requests.get(url)
 
 def save_deputy_info_into_file(data):
-    filename = str.join('_', data["dados"]["nomeCivil"].split(' ')).lower()
-    with open('deputados/{filename}.json'.format(filename = filename), 'w') as outfile:
+    filename = str.join("_", data["dados"]["nomeCivil"].split(" ")).lower()
+    with open("deputados/{filename}.json".format(filename = filename), "w") as outfile:
         json.dump(data["dados"], outfile, ensure_ascii = False, indent = 2)
 
 def get_party_info(id):
@@ -35,5 +35,5 @@ def save_party_info_into_file(data):
         return
 
     filename = data["dados"]["sigla"].lower()
-    with open('partidos/{filename}.json'.format(filename = filename), 'w') as outfile:
+    with open("partidos/{filename}.json".format(filename = filename), "w") as outfile:
         json.dump(data["dados"], outfile, ensure_ascii = False, indent = 2)

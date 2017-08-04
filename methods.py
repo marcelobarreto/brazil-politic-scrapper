@@ -1,5 +1,5 @@
 import requests
-import json
+import json as json
 
 base_url = "https://dadosabertos.camara.leg.br/api/v2"
 

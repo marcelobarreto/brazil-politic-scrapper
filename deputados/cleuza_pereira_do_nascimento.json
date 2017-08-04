@@ -1,0 +1,37 @@
+{
+  "id": 194258,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/194258",
+  "nomeCivil": "CLEUZA PEREIRA DO NASCIMENTO",
+  "ultimoStatus": {
+    "id": 194258,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/194258",
+    "nome": "CREUZA PEREIRA",
+    "siglaPartido": "PSB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36832",
+    "siglaUf": "PE",
+    "idLegislatura": 55,
+    "urlFoto": "http://www.camara.leg.br/internet/deputado/bandep/194258.jpg",
+    "data": "2016-05-17",
+    "nomeEleitoral": "CREUZA PEREIRA",
+    "gabinete": {
+      "nome": null,
+      "predio": null,
+      "sala": null,
+      "andar": null,
+      "telefone": null,
+      "email": "dep.creuzapereira@camara.leg.br"
+    },
+    "situacao": "Exercício",
+    "condicaoEleitoral": "Suplente",
+    "descricaoStatus": null
+  },
+  "cpf": "",
+  "sexo": "F",
+  "urlWebsite": null,
+  "redeSocial": [],
+  "dataNascimento": "1936-07-10",
+  "dataFalecimento": null,
+  "ufNascimento": "PE",
+  "municipioNascimento": "Salgueiro",
+  "escolaridade": "Ensino Médio"
+}

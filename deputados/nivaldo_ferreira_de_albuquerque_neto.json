@@ -14,11 +14,11 @@
     "data": "2016-05-17",
     "nomeEleitoral": "NIVALDO ALBUQUERQUE",
     "gabinete": {
-      "nome": null,
-      "predio": null,
-      "sala": null,
-      "andar": null,
-      "telefone": null,
+      "nome": "425",
+      "predio": "4",
+      "sala": "425",
+      "andar": "4",
+      "telefone": "3215-5425",
       "email": "dep.nivaldoalbuquerque@camara.leg.br"
     },
     "situacao": "Exercício",
